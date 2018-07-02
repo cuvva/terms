@@ -6,7 +6,9 @@ Here at Cuvva we take your privacy very seriously. This notice will tell you how
 
 We're Cuvva Limited (Cuvva, we, our, us). We're authorised and regulated by the Financial Conduct Authority (FCA) under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
-The best way to speak with us is usually in the app. If you have any questions about our handling of personal information, you can also email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us. We're moving address soon - so speak to us in the app to get our up-to-date postal address!
+If you have any questions about our handling of personal information, the best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at 12 Mallow Street, London, EC1Y 8RQ.
+
+You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be contacted by email at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Studio 5, 155 Commercial Street, London E1 6BJ. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
 
 ## What's my personal information?
 
@@ -14,17 +16,15 @@ That's information which identifies you, or can be used with readily available i
 
 We'll keep your personal information only for as long as we need to. If you've bought a policy with us, we're required by the FCA to keep your data for at least seven years. That's because you'll have purchased a regulated financial product.
 
-If you haven't bought a policy with us, you can ask us to delete some of your information. Again, the best the way to do that is usually via the app.
-
-We need to keep information in certain circumstances for the detection and prevention of fraud. We'll retain the minimum information needed to record and prove we've complied with any requests, and to check the accuracy of any information we've provided. To do this, we keep your conversation history, name, date of birth, any legal terms you've agreed to and a copy of the quotes we've issued.
-
 ## What other information do you collect?
 
 We collect other information via the app, our website and other interactions you might have with us - to deliver the best service we can. All information we collect can be used to help us improve our service, for providing better customer support, and for calculating prices for your quotes. Calculating pricing requires automated decision-making and profiling.
 
-### Device Information
+### Device information
 
 We may record the type of device or browser you use, including the model, operating system, software, language, so we can provide better support - e.g. if you're having problems with the app.
+
+We use device advertising identifiers to help determine how users find us. For example, once you download the app, we may be able to know which of our ads you saw beforehand (like a Facebook ad, or whether you found us via a Google search). This helps us direct resources at the most effective advertising channels, which in turn helps us keep customer costs to a minimum. You can control our ability to use device advertising identifiers in your device's settings.
 
 ### Communication
 
@@ -38,15 +38,23 @@ Access information may be gathered when you use our services, including device I
 
 Once you've entered your driving licence details and agreed to the Fair Obtaining Notice, we may collect information about your driving licence from the DVLA or relevant authorities. We need this so we can offer motor insurance products to you.
 
-### Telematics data
+### Location and telematics data
 
-We may collect location and motion data from devices you use, and use that with other personal information when providing our services. For example to determine risk, detect unusual behaviour or help with claims processing.
+Before we collect any location or telematics data, your device will ask whether you'll allow location services. Your device should give you the option to allow location services always, while using the app or never.
 
-## Permission information
+We need your location to offer you a quote. So if you choose to never allow location services, your ability to use us will be limited.
 
-If you are using our mobile app, your device has a built-in permission system for the data you choose to share with Cuvva. Like the telematics data we mentioned earlier, for example. When we want to access this data, your device will allow you to consent or deny access. You can control this in your device's settings.
+If you choose to allow location services *while using the app*, then we will use your location to generate a quote upon your request. Your location will be used to determine risk, and will be recorded on your profile once the quote is provided to you. We may need to check the location to help prevent misuse or to help with claims processing.
 
-## Third party services
+If you choose to *always* allow location services, we will use location data in the same way as if you choose to allow it *while using the app* - but with the addition of using motion data from devices you use. This can be used to record journeys while your policy is active, to help prevent misuse, or help with claims processing.
+
+No matter which option you choose for location services, you can change this at any time in your device's settings.
+
+### Publicly available information
+
+We may use publicly available information, or information in plain view, to prevent against misuse and to protect other road users. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information, to systematically compare it with our user information. But we may use targeted approaches, and tools, to the extent they're proportionate and non-discriminatory.
+
+### Third party services
 
 If you choose to connect your Cuvva account with a third party, like Facebook for example, we may ask for access to information held by the third party. They will allow you to consent or deny access, and you can control this via their services.
 
@@ -74,15 +82,35 @@ We may share your information with these third parties:
 
 If you'd like to know who your data has been shared with, let us know.
 
-## Can I access the data you hold about me?
+## What are my data rights?
 
-Yes - you have a right to access the data we hold about you, or to get a copy. Usually we will provide this data in a standard portable format. If you have any trouble understanding the data, let us know and we will help.
+### Right to erasure
 
-You can ask us via the app, or using our other contact details if you'd prefer. We won't usually charge a fee for providing that information, but we may do in certain circumstances. For example, if you make repetitive requests for information, we may charge a small fee or refuse your request.
+If you haven't bought a policy with us, you can ask us to delete your information. Again, the best the way to do that is usually via the app.
 
-To correct any inaccuracies in the information on your account, you can login to the app to update it at any time. Some information can also be updated by our support team.
+We need to keep some information in certain circumstances for the detection and prevention of fraud, to check the accuracy of any information we've provided (like quotes for example) or in case of any future disputes.
 
-We don't send many marketing emails - but if you've opted in to our updates and change your mind - you can unsubscribe at any time.
+In those cases, we'll retain the minimum information needed in the circumstances. To do this, we keep your conversation history, name, date of birth, any legal terms you've agreed to and a copy of the quotes we've issued.
+
+### Right to object
+
+You have the right to object to the processing of your data in certain circumstances. For example, you have the right to stop your data being used for direct marketing. We don't send many marketing emails. But if you've opted in to our updates and change your mind - you can unsubscribe at any time.
+
+### Right to portability
+
+You have a right to get a copy of the personal data we hold about you. We'll provide your data in a standard portable format. If you have any trouble understanding the data, let us know and we'll help. The best way to ask is usually via the app.
+
+We won't usually charge a fee for providing that information, but we may do in certain circumstances. For example, if you make repetitive requests for information, we may charge a small fee or refuse your request.
+
+### Right to rectification
+
+You can login to the app to correct any inaccuracies in the information on your account. Some information can also be updated by our support team - so please speak to us if you'd like any help.
+
+### Right to restriction
+
+You have a right to restrict the processing of your personal data in certain circumstances. This means you can limit the way we use your data.
+
+This is an alternative to requesting the erasure of your data. For example, we could securely and temporarily store your data in another system if you contest its accuracy and we need to verify it.
 
 ## Your obligations
 
@@ -98,4 +126,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.0 (2018-05-18)_](https://github.com/cuvva/terms/blob/privacy-v1.0/privacy.md)
+[_v1.1 (2018-07-02)_](https://github.com/cuvva/terms/blob/privacy-v1.1/privacy.md)
