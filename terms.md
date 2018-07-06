@@ -30,7 +30,7 @@ Currently it is not possible to purchase our Products when outside the UK.
 
 Cuvva Limited is authorised and regulated by the FCA, as we described earlier. We're permitted to arrange non-investment general insurance contracts. You can check this information on the FCA's Register by visiting [www.fca.org.uk/register](https://www.fca.org.uk/firms/financial-services-register) or by contacting the FCA on [0800 111 6768](tel:08001116768).
 
-Cuvva is responsible for arranging and administering our Products. As part of this service, it is our intention to provide you with an exceptional level of customer support at all times. Should you be dissatisfied with Cuvva, we have a formal complaints procedure. You can contact us via the app or by e-mail at [support@cuvva.com](mailto:support@cuvva.com). If you'd rather send us a letter in the post - contact us in the app or by email to get our up-to-date postal address.
+Cuvva is responsible for arranging and administering our Products. As part of this service, it is our intention to provide you with an exceptional level of customer support at all times. Should you be dissatisfied with Cuvva, we have a formal complaints procedure. You can contact us via the app or by e-mail at [support@cuvva.com](mailto:support@cuvva.com). Alternatively, you can write to us at 12 Mallow Street, London, EC1Y 8RQ.
 
 The Insurers are responsible for the underlying insurance policy and related claims. Should you be dissatisfied with the Insurers, you can contact them directly. If you need any further information, please refer to your Insurance Contract or get in touch with us.
 
@@ -48,7 +48,11 @@ Before purchasing Products via our app, you should read the relevant Insurance C
 
 **You can only use our app to purchase Products for yourself.** You can't purchase on behalf of another person. If you represent yourself as another person to apply for a Product, the Product may not be valid.
 
-You can't pay for our services using a payment card that belongs to someone else. You should only use payment details relating to a bank account of yours.
+You must not pay for our services using a payment card that belongs to someone else. You should only use payment details relating to a bank account of yours.
+
+If you use a payment card belonging to someone else, or the details of a bank account which isn't yours, we may take appropriate action. That could mean a ban on your account.
+
+If the account holder requests a chargeback, we reserve the right to charge you reasonable costs.
 
 Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity.  Cuvva will not be responsible to you for any losses or inconvenience as a result of our app being unavailable.
 
@@ -164,4 +168,4 @@ If you are based in Scotland, these terms of business shall be governed by and c
 
 If you are based in Northern Ireland, these terms of business shall be governed by and construed in accordance with Northern Irish law. In relation to any legal action or proceedings arising out of or in connection with these terms of business we both irrevocably submit to the exclusive jurisdiction of the Courts of Northern Ireland.
 
-[_v1.0 (2018-05-18)_](https://github.com/cuvva/terms/blob/terms-v1.0/terms.md)
+[_v1.1 (2018-07-06)_](https://github.com/cuvva/terms/blob/terms-v1.1/terms.md)
