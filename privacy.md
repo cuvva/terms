@@ -66,7 +66,7 @@ We'll ask for this information to arrange any travel insurance products. We need
 
 ### Publicly available information
 
-We may use publicly available information, or information in plain view, to prevent against misuse. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information, to systematically compare it with our user information. But we may use targeted approaches, and tools, to the extent they're proportionate and non-discriminatory.
+We may use publicly available information, or information in plain view, to prevent against misuse. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information, but we may use targeted approaches and tools, to the extent they're proportionate and non-discriminatory.
 
 ### Information relating to children
 
