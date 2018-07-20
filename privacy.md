@@ -28,7 +28,7 @@ We use device advertising identifiers to help determine how users find us. For e
 
 ### Communication
 
-Our conversations (including phone calls and emails) may be recorded or monitored to provide an audit trail.
+Our conversations (including chats, emails and phone calls) may be recorded or monitored to provide an audit trail.
 
 ### System logs
 
@@ -40,19 +40,41 @@ Once you've entered your driving licence details and agreed to the Fair Obtainin
 
 ### Location and telematics data
 
-Before we collect any location or telematics data, your device will ask whether you'll allow location services. Your device should give you the option to allow location services always, while using the app or never.
+Before we collect any location or telematics data, your device will ask whether you'll allow location services. Your device should give you the option to allow location services always, while using the app, or never.
 
-We need your location to offer you a quote. So if you choose to never allow location services, your ability to use us will be limited.
+We need your location to offer you a quote. It helps us prevent misuse, and lets us know you're purchasing from the right place - bearing in mind you can only purchase our products while you're in the UK. If you choose to never allow location services, your ability to use us will be limited.
 
-If you choose to allow location services *while using the app*, then we will use your location to generate a quote upon your request. Your location will be used to determine risk, and will be recorded on your profile once the quote is provided to you. We may need to check the location to help prevent misuse or to help with claims processing.
+If you choose to allow location services *while using the app*, then we'll use your location to help generate a quote upon your request. Your location can be used to determine risk, and will be recorded on your profile once the quote is provided to you. We may need to check the location to help with claims processing.
 
-If you choose to *always* allow location services, we will use location data in the same way as if you choose to allow it *while using the app* - but with the addition of using motion data from devices you use. This can be used to record journeys while your policy is active, to help prevent misuse, or help with claims processing.
+If you choose to *always* allow location services, we'll use location data in the same way as if you choose to allow it *while using the app* - but with the addition of using motion data, from devices you use, if you're using our motor insurance products. This can be used to record journeys while your policy is active, to help prevent misuse, or help with claims processing.
 
 No matter which option you choose for location services, you can change this at any time in your device's settings.
 
+### Health data
+
+We'll process this if you use our travel insurance products. This will be done when you answer medical questions in the app, or if you'd like to chat with us about your health or someone else's.
+
+We only ask you the questions we need to, in order to arrange travel insurance for you and any companions. Your answers will be used to determine risk, help process claims, and prevent against misuse. Your answers will be shared with the underwriter of your policy for those same reasons.
+
+Any information relating to your health is given by you, with your express consent, so we can use it for the above reasons only.
+
+Similarly, any information relating to someone else's health is given by you, with express consent given by them, or someone with parental responsibility for them, so we can use it for the above reasons only.
+
+### Travel destinations and dates
+
+We'll ask for this information to arrange any travel insurance products. We need to know those details, and share them with the underwriter; to determine risk, help process claims, and to prevent against misuse.
+
 ### Publicly available information
 
-We may use publicly available information, or information in plain view, to prevent against misuse and to protect other road users. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information, to systematically compare it with our user information. But we may use targeted approaches, and tools, to the extent they're proportionate and non-discriminatory.
+We may use publicly available information, or information in plain view, to prevent against misuse. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information, but we may use targeted approaches and tools, to the extent they're proportionate and non-discriminatory.
+
+### Information relating to children
+
+Children (individuals under 18) have the same rights as adults over their personal data.
+
+We'll process information relating to children in the above ways, for the performance of an insurance contract, or for our legitimate interests in providing the best service we can.
+
+If you're under 18 and would like to use our service, remember you can ask us any questions in the app.
 
 ### Third party services
 
@@ -62,11 +84,13 @@ Be aware of the privacy policies of any third party service you use, even if you
 
 ## Other people's consent
 
-If you choose to share someone's information with us, it's your responsibility to ensure they  consent to you doing so.
+If you choose to share someone's information with us, it's your responsibility to ensure they consent, or someone with parental responsibility for them consents, to you doing so.
 
-## Sharing your data with other people
+## Sharing data with other people
 
 If you use Cuvva with a car which belongs to, or is registered to, someone else, we may share your policy information with them - including the legal documents.
+
+If you arrange travel insurance for any companions, their policy documents will be emailed to them directly, to the email address(es) you provide us with. So it's important you provide the correct email address each time.
 
 ## Where does my information go?
 
@@ -126,4 +150,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.1 (2018-07-02)_](https://github.com/cuvva/terms/blob/privacy-v1.1/privacy.md)
+[_v1.2 (2018-07-20)_](https://github.com/cuvva/terms/blob/privacy-v1.2/privacy.md)
