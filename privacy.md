@@ -2,8 +2,6 @@
 
 Here at Cuvva we take your privacy very seriously. This notice will tell you how we use your personal information.
 
-We have never, and will never, sell your data to anyone.
-
 ## Who are you?
 
 We're Cuvva Limited (Cuvva, we, our, us). We're authorised and regulated by the Financial Conduct Authority (FCA) under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
