@@ -2,7 +2,7 @@
 
 Here at Cuvva we take your privacy very seriously. This notice will tell you how we use your personal information.
 
-We have never, and will never, sell your data to anyone. 
+We have never, and will never, sell your data to anyone.
 
 ## Who are you?
 
@@ -54,13 +54,13 @@ No matter which option you choose for location services, you can change this at 
 
 ### Health data
 
-We'll process this if you use our travel insurance products. This will be done when you answer medical questions in the app, or if you'd like to chat with us about your health or someone else's. 
+We'll process this if you use our travel insurance products. This will be done when you answer medical questions in the app, or if you'd like to chat with us about your health or someone else's.
 
 We only ask you the questions we need to, in order to arrange travel insurance for you and any companions. Your answers will be used to determine risk, help process claims, and prevent against misuse. Your answers will be shared with the underwriter of your policy for those same reasons.
 
 Any information relating to your health is given by you, with your express consent, so we can use it for the above reasons only.
 
-Similarly, any information relating to someone else's health is given by you, with express consent given by them, or someone with parental responsibility for them, so we can use it for the above reasons only. 
+Similarly, any information relating to someone else's health is given by you, with express consent given by them, or someone with parental responsibility for them, so we can use it for the above reasons only.
 
 ### Travel destinations and dates
 
@@ -72,11 +72,11 @@ We may use publicly available information, or information in plain view, to prev
 
 ### Information relating to children
 
-Children (individuals under 18) have the same rights as adults over their personal data. 
+Children (individuals under 18) have the same rights as adults over their personal data.
 
 We'll process information relating to children in the above ways, for the performance of an insurance contract, or for our legitimate interests in providing the best service we can.
 
-If you're under 18 and would like to use our service, remember you can ask us any questions in the app. 
+If you're under 18 and would like to use our service, remember you can ask us any questions in the app.
 
 ### Third party services
 
@@ -86,13 +86,13 @@ Be aware of the privacy policies of any third party service you use, even if you
 
 ## Other people's consent
 
-If you choose to share someone's information with us, it's your responsibility to ensure they consent, or someone with parental responsibility for them consents, to you doing so. 
+If you choose to share someone's information with us, it's your responsibility to ensure they consent, or someone with parental responsibility for them consents, to you doing so.
 
 ## Sharing data with other people
 
 If you use Cuvva with a car which belongs to, or is registered to, someone else, we may share your policy information with them - including the legal documents.
 
-If you arrange travel insurance for any companions, their policy documents will be emailed to them directly, to the email address(es) you provide us with. So it's important you provide the correct email address each time. 
+If you arrange travel insurance for any companions, their policy documents will be emailed to them directly, to the email address(es) you provide us with. So it's important you provide the correct email address each time.
 
 ## Where does my information go?
 
