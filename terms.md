@@ -14,15 +14,15 @@ These Terms will be legally binding when you accept them. We'll make small chang
 
 ## 2. Our Services
 
-We're an independent insurance intermediary acting on your behalf to arrange motor insurance.
+We're an independent insurance intermediary acting on your behalf to arrange motor insurance and/or travel insurance.
 
-Cuvva acts on your behalf in obtaining either of two products (**Products**): a short-term product (**Short-term**); and a subscription product (**Subscription**).
+Cuvva acts on your behalf in obtaining either of two products (**Products**): short-term motor insurance (**Short-term**); and  travel insurance (**Travel**).
 
-The Products are underwritten by insurance companies (**Insurers**), not Cuvva. To purchase a Product, you need to agree to a contract with the relevant Insurer (**Insurance Contract**) which will govern the terms and conditions on which the nominated vehicle is insured.
+The Products are underwritten by insurance companies (**Insurers**), not Cuvva. To purchase a Product, you need to agree to a contract with the relevant Insurer (**Insurance Contract**). This will govern the terms and conditions on which the nominated vehicle is insured or individuals are insured.
 
 **Cuvva doesn't provide personal recommendations or advice. Cuvva hasn't carried out an analysis of the market to identify the best possible offer for you.** You'll need to make your own choice on whether the product is suitable for your needs.
 
-The Short-term product is provided by a single insurer on a non-exclusive basis (meaning we may use a different Insurer each time you use the Short-term Product). The Subscription product is provided by a single insurer on an exclusive basis (meaning you receive your Subscription from the same Insurer). Details of the relevant Insurer can be found within your Insurance Contract prior to purchasing either Product, and/or are available on request.
+Our Short-term and Travel products are each provided by a single insurer on a non-exclusive basis. Details of the relevant Insurer can be found within your Insurance Contract prior to purchasing either Product, and/or are available on request.
 
 Currently it is not possible to purchase our Products when outside the UK.
 
@@ -34,9 +34,9 @@ Cuvva is responsible for arranging and administering our Products. As part of th
 
 The Insurers are responsible for the underlying insurance policy and related claims. Should you be dissatisfied with the Insurers, you can contact them directly. If you need any further information, please refer to your Insurance Contract or get in touch with us.
 
-If you remain dissatisfied with either Cuvva or our Insurers, you are entitled to refer your complaint to the Financial Ombudsman Service at any time and free of charge. You can find more details here about how to do this here: [http://www.financial-ombudsman.org.uk/publications/consumer-leaflet.htm](http://www.financial-ombudsman.org.uk/publications/consumer-leaflet.htm).
+If you remain dissatisfied with either Cuvva or our Insurers, you're entitled to refer your complaint to the Financial Ombudsman Service at any time and free of charge. You can find out more here: [http://www.financial-ombudsman.org.uk/publications/consumer-leaflet.htm](http://www.financial-ombudsman.org.uk/publications/consumer-leaflet.htm).
 
-We are also covered by the Financial Services Compensation Scheme (FSCS). You may be entitled to compensation from the FSCS if we cannot meet our obligations. Further information about compensation scheme arrangement is available here: [https://fscs.org.uk/your-claim](https://fscs.org.uk/your-claim)
+We're also covered by the Financial Services Compensation Scheme (FSCS). You may be entitled to compensation from the FSCS in the unlikely event we cannot meet our obligations. Further information about the compensation scheme arrangement is available here: [https://fscs.org.uk/your-claim](https://fscs.org.uk/your-claim)
 
 ## 4. Information about the Insurers and Purchasing Process
 
@@ -46,7 +46,9 @@ After you authorise payment, we may carry out final checks which can result in a
 
 Before purchasing Products via our app, you should read the relevant Insurance Contract with the Insurer, which is provided within the app. The Insurance Contract covers any terms and conditions between you and the Insurer (whereas these Terms are between you and Cuvva).
 
-**You can only use our app to purchase Products for yourself.** You can't purchase on behalf of another person. If you represent yourself as another person to apply for a Product, the Product may not be valid.
+**You can only use our app to purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for motor insurance Product, the Product may not be valid.
+
+You can use our app to purchase travel insurance for a companion joining you on your trip, provided you have their consent, subject to the limitations set out during the purchasing journey.
 
 You must not pay for our services using a payment card that belongs to someone else. You should only use payment details relating to a bank account of yours.
 
@@ -58,9 +60,9 @@ Cuvva can't guarantee that our app will be available at all times, including due
 
 ## 5. Your Responsibility for Accurate information
 
-In the case of all insurance, the validity of cover and the amount you pay depends on the information you provide. **It's your responsibility to provide complete and accurate information to us and the Insurer at all times**, including when you purchase your Product. It's important that all statements you make are complete, true and accurate.
+In the case of all insurance, the validity of cover and the amount you pay depends on the information you provide. **It's your responsibility to provide complete and accurate information to us and the Insurer at all times**, including when you purchase your Product. It's important that all statements you make and all questions you answer are complete, true and accurate.
 
-You must notify us of anything which may affect the Product, insurance policy or quote, such as motoring convictions, criminal convictions or any vehicle modifications.
+You must notify us of anything which may affect the Product, insurance policy or quote. For Short-term, this could be things like motoring convictions, criminal convictions or any vehicle modifications. For travel, this could be any health issues, or anything you're aware of which may mean you won't be able to make the trip.
 
 You can update your details yourself or speak with us in the app, by e-mail, or in writing. All communications are recorded - see our Privacy Notice for more information.
 
@@ -68,10 +70,10 @@ If you're not sure whether you need to tell us something - please ask. We're hap
 
 If the information provided by you is not complete and accurate:
 
-- The insurance policy may be voided by the Insurer, meaning the insurance policy effectively never existed and you may be liable for driving without insurance
-- The insurance policy may be cancelled by the Insurer, meaning the Insurer can refuse to pay a claim, or may not pay a claim in full
+- The insurance policy may be voided by the Insurer, meaning the insurance policy effectively never existed and, if using our Short-term product, you may be liable for driving without insurance.
+- The insurance policy may be cancelled by the Insurer, meaning the Insurer can refuse to pay a claim, or may not pay a claim in full.
 - The Insurer may require you pay additional premiums, change the compulsory excess, or the extent of the cover may be affected to reflect the increased insurance risk.
-- You may be responsible for damage or loss to a third party if you cause an accident.
+- If using our Short-term product, you may be responsible for damage or loss to a third party if you cause an accident.
 
 **Further details of the Insurer's rights are set out in the Insurance Contract.**
 
@@ -79,7 +81,7 @@ We won't be responsible for any loss, damage or otherwise that results from you 
 
 ## 6. Cancellation
 
-If you purchase our Products, the details of your cancellation rights are included in the relevant Insurance Contract. **In most cases, due to the rules governing short-term insurance, once the Product is active you no longer have a right to receive a refund.**
+If you purchase our Products, the details of your cancellation rights are included in the relevant Insurance Contract. **In most cases, due to the rules governing short-term insurance, once the Short-term Product is active you no longer have a right to receive a refund.**
 
 **Your Insurance Contract will include a cancellation clause for the Insurer in certain circumstances. You should ensure you understand when this might happen before you enter into the Insurance Contract.**
 
@@ -95,7 +97,7 @@ Prior to purchasing your Product you'll be able to review the Insurance Contract
 
 We may need to contact you from time-to-time, usually by e-mail or in the app. It is important that you read any messages sent to you and respond in a timely fashion when necessary. Please be aware that we may require certain information from you on behalf of our Insurers and failure to provide such information can result in the cancellation of an existing policy and/or not being allowed to purchase future policies. Any such action will be taken in accordance with the terms of your Insurance Contract.
 
-It's important to ensure that the details of the vehicle you want to insure match the details that you enter in the app. Failure to do so can lead to you getting insured on the wrong vehicle! Please also check that the details that we provide you about the vehicle prior to purchase match the vehicle you wish to drive.
+It's important to ensure the details of any vehicle you want to insure match the details you enter in the app. Failure to do so can lead to you getting insured on the wrong vehicle! Please also check that the details that we provide you about the vehicle prior to purchase match the vehicle you wish to drive.
 
 ## 9. Motor Insurance Database
 
@@ -121,16 +123,16 @@ We reserve the right to resign as your insurance intermediary at any time. We ma
 
 ## 13. If things go wrong
 
-We understand that we may have responsibilities in the event of our negligence, and do not attempt to restrict or exclude our responsibility.
-We do not accept any responsibility for any loss or damage you may incur as a result of the acts or omissions of your Insurer.
+We understand that we may have responsibilities in the event of our negligence, and don't attempt to restrict or exclude our responsibility.
+We don't accept any responsibility for any loss or damage you may incur as a result of the acts or omissions of your Insurer.
 
 If we don't meet our obligations under these Terms due to events outside of our control, such as machine failure, industrial disputes or because we have to keep to a relevant law, we won't be responsible for any losses or costs caused.
 
 ## 14. Your Instructions
 
-Usually all communications are made via the app, however we may also contact you by e-mail, letter, telephone or face-to-face. We cannot guarantee that your instructions have been received unless we have acknowledged them. We reserve the right to refuse instructions but, if we do, we will inform you.
+Usually all communications are made via the app, however we may also contact you by e-mail, letter, telephone or face-to-face. We cannot guarantee that your instructions have been received unless we have acknowledged them. We reserve the right to refuse instructions but, if we do, we'll inform you.
 
-Please note that office hours are Monday to Friday, 9.00am to 6.00pm UK time. There may be a delay in responding to instructions if they are received outside of office hours.
+Please note that office hours are Monday to Friday, 9.00am to 6.00pm UK time. There may be a delay in responding to instructions if they're received outside of office hours. But you can speak with us in the app 24 hours a day, 365 days a year, and we'll get back to you as soon as we can.
 
 ## 15. Privacy Notice
 
@@ -138,7 +140,7 @@ You can find details of how we treat the information you provide to us (includin
 
 ## 16. Money Laundering &amp; Proceeds of Crime
 
-We are obliged to report to the Serious Organised Crime Agency any suspicion of money laundering or terrorist financing activity and we may be prohibited from disclosing to you the contents of such report or the fact that such report has been made.
+We're obliged to report to the Serious Organised Crime Agency any suspicion of money laundering or terrorist financing activity and we may be prohibited from disclosing to you the contents of such report or the fact that such report has been made.
 
 ## 17. Third Party Rights
 
@@ -150,11 +152,11 @@ If any part of these Terms is or becomes illegal, invalid or unenforceable then 
 
 ## 19. Waiver
 
-Our failure or delay in enforcing or partially enforcing any provision of the Terms will not be construed as a waiver of any of our rights under the Terms. This means that If we do not insist immediately that you do anything you are required to do under these Terms, or if we delay in taking steps against you in respect of your breaking this contract, that will not mean that you do not have to do those things and it will not prevent us taking steps against you at a later date.
+Our failure or delay in enforcing or partially enforcing any provision of the Terms will not be construed as a waiver of any of our rights under the Terms. This means that If we don't insist immediately that you do anything you're required to do under these Terms, or if we delay in taking steps against you in respect of your breaking this contract, that won't mean you don't have to do those things, and it won't prevent us taking steps against you at a later date.
 
 ## 20. Use of the Cuvva App
 
-By using the Cuvva App you agree that you are solely responsible for ensuring you have permission to use the relevant vehicle to which the Product relates. Cuvva has no control and takes no responsibility for the relevant vehicle.
+By using the Cuvva App you agree that you are solely responsible for ensuring you have permission to use any relevant vehicle to which the Product relates. Cuvva has no control and takes no responsibility for the relevant vehicle.
 
 ## 21. Insurer solvency
 
@@ -162,10 +164,6 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 ## 22. Law and jurisdiction
 
-If you are based in England or Wales, these terms of business shall be governed by and construed in accordance with English law. In relation to any legal action or proceedings arising out of or in connection with these terms of business we both irrevocably submit to the exclusive jurisdiction of the Courts of England and Wales.
-
-If you are based in Scotland, these terms of business shall be governed by and construed in accordance with Scottish law. In relation to any legal action or proceedings arising out of or in connection with these terms of business we both irrevocably submit to the exclusive jurisdiction of the Courts of Scotland.
-
-If you are based in Northern Ireland, these terms of business shall be governed by and construed in accordance with Northern Irish law. In relation to any legal action or proceedings arising out of or in connection with these terms of business we both irrevocably submit to the exclusive jurisdiction of the Courts of Northern Ireland.
+The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
 [_v1.1 (2018-07-06)_](https://github.com/cuvva/terms/blob/terms-v1.1/terms.md)
