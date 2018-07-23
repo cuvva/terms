@@ -48,7 +48,7 @@ Before purchasing Products via our app, you should read the relevant Insurance C
 
 **You can only use our app to purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for motor insurance Product, the Product may not be valid.
 
-You can use our app to purchase travel insurance for a companion joining you on your trip, provided you have their consent, subject to the limitations set out during the purchasing journey. 
+You can use our app to purchase travel insurance for a companion joining you on your trip, provided you have their consent, subject to the limitations set out during the purchasing journey.
 
 You must not pay for our services using a payment card that belongs to someone else. You should only use payment details relating to a bank account of yours.
 
@@ -132,7 +132,7 @@ If we don't meet our obligations under these Terms due to events outside of our 
 
 Usually all communications are made via the app, however we may also contact you by e-mail, letter, telephone or face-to-face. We cannot guarantee that your instructions have been received unless we have acknowledged them. We reserve the right to refuse instructions but, if we do, we'll inform you.
 
-Please note that office hours are Monday to Friday, 9.00am to 6.00pm UK time. There may be a delay in responding to instructions if they're received outside of office hours. But you can speak with us in the app 24 hours a day, 365 days a year, and we'll get back to you as soon as we can. 
+Please note that office hours are Monday to Friday, 9.00am to 6.00pm UK time. There may be a delay in responding to instructions if they're received outside of office hours. But you can speak with us in the app 24 hours a day, 365 days a year, and we'll get back to you as soon as we can.
 
 ## 15. Privacy Notice
 
@@ -164,6 +164,6 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 ## 22. Law and jurisdiction
 
-The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you’re free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you’re resident there and wish to do so.
+The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
 [_v1.1 (2018-07-06)_](https://github.com/cuvva/terms/blob/terms-v1.1/terms.md)
