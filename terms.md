@@ -62,7 +62,7 @@ Cuvva can't guarantee that our app will be available at all times, including due
 
 In the case of all insurance, the validity of cover and the amount you pay depends on the information you provide. **It's your responsibility to provide complete and accurate information to us and the Insurer at all times**, including when you purchase your Product. It's important that all statements you make and all questions you answer are complete, true and accurate.
 
-You must notify us of anything which may affect the Product, insurance policy or quote. For Short-term, this could be things like motoring convictions, criminal convictions or any vehicle modifications. For travel, this could be any health issues, or anything you're aware of which may mean you won't be able to make the trip.
+You must notify us of anything which may affect the Product, insurance policy or quote. For Short-term, this could mean telling us about any previous incidents you've been involved in, or if there's any reason you may not be able to legally drive the vehicle. For travel, this could be any health issues, or anything you're aware of which may mean you won't be able to make the trip.
 
 You can update your details yourself or speak with us in the app, by e-mail, or in writing. All communications are recorded - see our Privacy Notice for more information.
 
