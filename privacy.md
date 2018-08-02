@@ -12,7 +12,7 @@ You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be
 
 ## What's my personal information?
 
-That's information which identifies you, or can be used with readily available information to identify you. We need personal information to offer you cover. So we'll collect anything we need via the app, our website and any other interactions you might have with us.
+That's information which identifies you, or can be used with readily available information to identify you. We need personal information to see if we can cover you, to calculate the premium, and to help with any claims. So we'll collect anything we need via the app, our website and any other interactions you might have with us. You can find more detail on the information we ask for *here*.
 
 We'll keep your personal information only for as long as we need to. If you've bought a policy with us, we're required by the FCA to keep your data for at least seven years. That's because you'll have purchased a regulated financial product.
 
@@ -54,7 +54,7 @@ No matter which option you choose for location services, you can change this at 
 
 We'll process this if you use our travel insurance products. This will be done when you answer medical questions in the app, or if you'd like to chat with us about your health or someone else's.
 
-We only ask you the questions we need to, in order to arrange travel insurance for you and any companions. Your answers will be used to determine risk, help process claims, and prevent against misuse. Your answers will be shared with the underwriter of your policy for those same reasons.
+We only ask you the questions we need to, in order to arrange travel insurance for you and any companions. Your answers will be used to determine risk, help process claims, and prevent against misuse. Your answers will be shared with the underwriter of your policy for those same reasons, and will be stored in relation to any claims. You can read the questions we ask *here*.
 
 Any information relating to your health is given by you, with your express consent, so we can use it for the above reasons only.
 
@@ -94,17 +94,11 @@ If you arrange travel insurance for any companions, their policy documents will 
 
 ## Where does my information go?
 
-The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may also be processed by staff outside the EEA who work for us or one of our suppliers. The parties we send your information to are obliged to comply with data protection laws, regulations and standards. They each have their own privacy notice which we can help you find - just let us know.
+The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may be processed by staff outside the EEA who work for us or one of our suppliers. 
 
-We may share your information with these third parties:
+The parties we send your information to are obliged to comply with data protection laws, regulations and standards. Each of them is either; EU/EEA based, EU/US Privacy Shield compliant, or is based in a country recognised by the European Commission as having adequate protection. They also each have their own privacy notice. If you’d like help finding them - just let us know. 
 
-- underwriters of any policies you purchase
-- companies Cuvva use to help us deliver our service
-- any statutory body, for legal or regulatory requirements, and for fraud detection and prevention
-- with another company, if we were to merge with them or were acquired by them
-- anyone you have consented to provide information to, for example if you connected your Cuvva account to a third party service
-
-If you'd like to know who your data has been shared with, let us know.
+You can find out more on where your information goes *here*. 
 
 ## What are my data rights?
 
