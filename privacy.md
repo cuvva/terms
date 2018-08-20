@@ -68,6 +68,10 @@ We'll ask for this information to arrange any travel insurance products. We need
 
 We may use publicly available information, or information in plain view, to prevent against misuse. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information, but we may use targeted approaches and tools, to the extent they're proportionate and non-discriminatory.
 
+### Focus groups
+
+Occasionally we'll invite people to Cuvva HQ, or another agreed location, to canvass their views and carry out branding exercises. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to  process the data in anonymised form.
+
 ### Information relating to children
 
 Children (individuals under 18) have the same rights as adults over their personal data.
