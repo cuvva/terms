@@ -1,0 +1,14 @@
+- Name
+- Age / date of birth
+- Sex
+- Residential address
+- Email address
+- Telephone number
+- Selfie
+- Vehicle registration mark (number plate)
+- Driving licence photo
+- Driving incident history / any ban information
+- Employment status / occupation
+- Travel destinations, with dates
+- Health details, via in-app questions
+- Payment details

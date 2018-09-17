@@ -12,7 +12,7 @@ You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be
 
 ## What's my personal information?
 
-That's information which identifies you, or can be used with readily available information to identify you. We need personal information to offer you cover. So we'll collect anything we need via the app, our website and any other interactions you might have with us.
+That's information which identifies you, or can be used with readily available information to identify you. We need personal information to see if we can cover you, to calculate the premium, and to help with any claims. So we'll collect anything we need via the app, our website and any other interactions you might have with us. You can find more detail on the information we ask for [here](https://github.com/cuvva/terms/blob/master/questions.md).
 
 We'll keep your personal information only for as long as we need to. If you've bought a policy with us, we're required by the FCA to keep your data for at least seven years. That's because you'll have purchased a regulated financial product.
 
@@ -54,7 +54,7 @@ No matter which option you choose for location services, you can change this at 
 
 We'll process this if you use our travel insurance products. This will be done when you answer medical questions in the app, or if you'd like to chat with us about your health or someone else's.
 
-We only ask you the questions we need to, in order to arrange travel insurance for you and any companions. Your answers will be used to determine risk, help process claims, and prevent against misuse. Your answers will be shared with the underwriter of your policy for those same reasons.
+We only ask you the questions we need to, in order to arrange travel insurance for you and any companions. Your answers will be used to determine risk, help process claims, and prevent against misuse. Your answers will be shared with the underwriter of your policy for those same reasons, and will be stored in relation to any claims. You can read the questions we ask [here](https://github.com/cuvva/terms/blob/master/health.md).
 
 Any information relating to your health is given by you, with your express consent, so we can use it for the above reasons only.
 
@@ -67,6 +67,10 @@ We'll ask for this information to arrange any travel insurance products. We need
 ### Publicly available information
 
 We may use publicly available information, or information in plain view, to prevent against misuse. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information, but we may use targeted approaches and tools, to the extent they're proportionate and non-discriminatory.
+
+### Focus groups
+
+Occasionally we'll invite people to Cuvva HQ, or another agreed location, to canvass their views and carry out branding exercises. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to process the data in anonymised form.
 
 ### Information relating to children
 
@@ -94,17 +98,11 @@ If you arrange travel insurance for any companions, their policy documents will 
 
 ## Where does my information go?
 
-The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may also be processed by staff outside the EEA who work for us or one of our suppliers. The parties we send your information to are obliged to comply with data protection laws, regulations and standards. They each have their own privacy notice which we can help you find - just let us know.
+The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may be processed by staff outside the EEA who work for us or one of our suppliers.
 
-We may share your information with these third parties:
+The parties we send your information to are obliged to comply with data protection laws, regulations and standards. Each of them is either; EU/EEA based, EU/US Privacy Shield compliant, or is based in a country recognised by the European Commission as having adequate protection. They also each have their own privacy notice. If you'd like help finding them - just let us know.
 
-- underwriters of any policies you purchase
-- companies Cuvva use to help us deliver our service
-- any statutory body, for legal or regulatory requirements, and for fraud detection and prevention
-- with another company, if we were to merge with them or were acquired by them
-- anyone you have consented to provide information to, for example if you connected your Cuvva account to a third party service
-
-If you'd like to know who your data has been shared with, let us know.
+You can find out more on where your information goes [here](https://github.com/cuvva/terms/blob/master/third-parties.md).
 
 ## What are my data rights?
 
@@ -150,4 +148,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.2 (2018-07-20)_](https://github.com/cuvva/terms/blob/privacy-v1.2/privacy.md)
+[_v1.3 (2018-09-17)_](https://github.com/cuvva/terms/blob/privacy-v1.3/privacy.md)
