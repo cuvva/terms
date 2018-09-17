@@ -1,4 +1,0 @@
-- Name
-- Age
-- Email address or telephone number
-- Health details, by answering questions in the app
