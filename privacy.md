@@ -28,7 +28,7 @@ We use device advertising identifiers to help determine how users find us. For e
 
 ### Communication
 
-Our conversations (including chats, emails and phone calls) may be recorded or monitored to provide an audit trail.
+Our conversations (including chats, emails and phone calls) may be recorded or monitored to provide an audit trail. We may use them in an anonymised form to help train the Cuvva team, too.
 
 ### System logs
 
@@ -54,7 +54,7 @@ No matter which option you choose for location services, you can change this at 
 
 We'll process this if you use our travel insurance products. This will be done when you answer medical questions in the app, or if you'd like to chat with us about your health or someone else's.
 
-We only ask you the questions we need to, in order to arrange travel insurance for you and any companions. Your answers will be used to determine risk, help process claims, and prevent against misuse. Your answers will be shared with the underwriter of your policy for those same reasons, and will be stored in relation to any claims. You can read the questions we ask [here](https://github.com/cuvva/terms/blob/master/health.md).
+We only ask you the questions we need to, in order to arrange travel insurance for you and any companions. Your answers will be used to determine risk, help process claims, and prevent misuse. Your answers will be shared with the underwriter of your policy for those same reasons, and will be stored in relation to any claims. You can read the questions we ask [here](https://github.com/cuvva/terms/blob/master/health.md).
 
 Any information relating to your health is given by you, with your express consent, so we can use it for the above reasons only.
 
@@ -62,15 +62,19 @@ Similarly, any information relating to someone else's health is given by you, wi
 
 ### Travel destinations and dates
 
-We'll ask for this information to arrange any travel insurance products. We need to know those details, and share them with the underwriter; to determine risk, help process claims, and to prevent against misuse.
+We'll ask for this information to arrange any travel insurance products. We need to know those details, and share them with the underwriter; to determine risk, help process claims, and to prevent misuse.
 
 ### Publicly available information
 
-We may use publicly available information, or information in plain view, to prevent against misuse. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information, but we may use targeted approaches and tools, to the extent they're proportionate and non-discriminatory.
+We may use publicly available information, or information in plain view, to prevent misuse. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information, but we may use targeted approaches and tools, to the extent they're proportionate and non-discriminatory.
 
-### Focus groups
+### Focus groups, feedback and reviews
 
-Occasionally we'll invite people to Cuvva HQ, or another agreed location, to canvass their views and carry out branding exercises. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to process the data in anonymised form.
+We love feedback. So much so that we occasionally invite people to Cuvva HQ, or another agreed location, to canvass their views and carry out branding exercises. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to process the data in anonymised form.
+
+We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the 'phone too. We don't send many emails of that kind, but when we do, there will always be an option to unsubscribe. 
+
+We also really appreciate it when Cuvva users review us online. We may re-publish said reviews, along with your first name if that was included in your review.
 
 ### Information relating to children
 
