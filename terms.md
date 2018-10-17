@@ -48,9 +48,9 @@ Before purchasing Products via our app, you should read the relevant Insurance C
 
 You can use our app to purchase travel insurance for a companion joining you on your trip, provided you have their consent, subject to the limitations set out during the purchasing journey.
 
-You must not pay for our services using a payment card that belongs to someone else. You should only use payment details relating to a bank account of yours.
+You must not pay for our services using a payment card in someone else's name. You should only use a payment card which is in your name.
 
-If you use a payment card belonging to someone else, or the details of a bank account which isn't yours, we may take appropriate action. That could mean a block on your account. If the account holder requests a chargeback, we reserve the right to charge you reasonable costs.
+If you use a payment card which isn't in your name, we may take appropriate action. That could mean a block on your account. If an account holder requests a chargeback, we reserve the right to charge you reasonable costs.
 
 Once you've purchased a Short-term product, you can't change it to cover a different vehicle. If you wanted to insure a different vehicle, you would need to get a new quote in the app, before purchasing a new Short-term product.
 
