@@ -52,7 +52,7 @@ You must not pay for our services using a payment card in someone else's name. Y
 
 If you use a payment card which isn't in your name, we may take appropriate action. That could mean a block on your account. If an account holder requests a chargeback, we reserve the right to charge you reasonable costs.
 
-Once you've purchased a Short-term product, we can't make any changes to it. So you wouldn't be able to change your cover to another vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app, before purchasing a new Short-term product.
+We can't make any changes to a short-term insurance policy once it's been purchased, whether it's motor or travel insurance. So if you purchase a Short-term product, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app, before purchasing a new Short-term product.
 
 Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity.  Cuvva will not be responsible to you for any losses or inconvenience as a result of our app being unavailable.
 
