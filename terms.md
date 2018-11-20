@@ -10,11 +10,11 @@ If you think there's a mistake or anything needs amending, please get in touch. 
 
 These Terms are provided by Cuvva Limited (**Cuvva, we, our**) a company incorporated in England (no. 08907985) with registered office 12 Mallow Street, London, EC1Y 8RQ. We're authorised and regulated by the Financial Conduct Authority under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
-These Terms will be legally binding when you accept them. We'll make small changes from time-to-time, so come back and read these Terms now and again. We'll notify you by e-mail or by a notification in the app or website if we make material changes, so you can read and let us know if you accept the updated version.
+These Terms will be legally binding when you accept them. We'll make small changes from time-to-time, so come back and read these Terms now and again. We'll notify you by email or by a notification in the app or website if we make material changes, so you can read and let us know if you accept the updated version.
 
 ## 2. Our Services
 
-We're an independent insurance intermediary acting on your behalf to arrange either of two products (**Products**): short-term motor insurance (**Short-term**); and/or  travel insurance (**Travel**).
+We're an independent insurance intermediary acting on your behalf to arrange either of two products (**Products**): short-term motor insurance (**Short-term**); and/or travel insurance (**Travel**).
 
 The Products are underwritten by insurance companies (**Insurers**), not Cuvva. To purchase a Product, you need to agree to a contract with the relevant Insurer (**Insurance Contract**). This will govern the terms and conditions on which the nominated vehicle is insured or individuals are insured.
 
@@ -28,7 +28,7 @@ Currently it's not possible to purchase our Products when outside the UK.
 
 Cuvva Limited is authorised and regulated by the FCA, as we described earlier. We're permitted to arrange non-investment general insurance contracts. You can check this information on the FCA's Register by visiting [www.fca.org.uk/register](https://www.fca.org.uk/firms/financial-services-register) or by contacting the FCA on [0800 111 6768](tel:08001116768).
 
-Cuvva is responsible for arranging and administering our Products. As part of this service, it's our intention to provide you with an exceptional level of customer support at all times. But if you're unhappy with Cuvva, we have a formal complaints procedure. You can contact us via the app or by e-mail at [support@cuvva.com](mailto:support@cuvva.com). Alternatively, you can write to us at 12 Mallow Street, London, EC1Y 8RQ.
+Cuvva is responsible for arranging and administering our Products. As part of this service, it's our intention to provide you with an exceptional level of customer support at all times. But if you're unhappy with Cuvva, we have a formal complaints procedure. You can contact us via the app or by email at [support@cuvva.com](mailto:support@cuvva.com). Alternatively, you can write to us at 12 Mallow Street, London, EC1Y 8RQ.
 
 The Insurers are responsible for the underlying insurance policy and related claims. If you're unhappy with the Insurers, you can contact them directly. If you need any further information, please refer to your Insurance Contract or get in touch with us.
 
@@ -54,7 +54,7 @@ If you use a payment card which isn't in your name, we may take appropriate acti
 
 We can't make any changes to a short-term insurance policy once it's been purchased, whether it's motor or travel insurance. So if you purchase a Short-term product, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app, before purchasing a new Short-term product.
 
-Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity.  Cuvva will not be responsible to you for any losses or inconvenience as a result of our app being unavailable.
+Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva will not be responsible to you for any losses or inconvenience as a result of our app being unavailable.
 
 ## 5. Your Responsibility for Accurate information
 
@@ -62,7 +62,7 @@ In the case of all insurance, the validity of cover and the amount you pay depen
 
 You must notify us of anything which may affect the Product, insurance policy or quote. For Short-term, this could mean telling us about any previous incidents you've been involved in, or if there's any reason you may not be able to legally drive the vehicle. For travel, this could be any health issues, or anything you're aware of which may mean you won't be able to make the trip.
 
-You can update your details yourself or speak with us in the app, by e-mail, or in writing. All communications are recorded - see our Privacy Notice for more information.
+You can update your details yourself or speak with us in the app, by email, or in writing. All communications are recorded - see our Privacy Notice for more information.
 
 If you're not sure whether you need to tell us something - please ask. We're happy to help!
 
@@ -93,7 +93,7 @@ All commissions, taxes and fees are disclosed in our app, or available from us o
 
 Prior to purchasing your Product you'll be able to review the Insurance Contract in long format. Depending on the Product, you may also receive a summary (**Key Facts Document**). Following purchase you'll receive an email with your Insurance Certificate and Insurance Contract relating to your policy. The email will also include a breakdown of what you've paid and some other useful information, like how to contact us if you have an accident. These documents are also visible within the app.
 
-We may need to contact you from time-to-time, usually by e-mail or in the app. It's important you read any messages sent to you and respond in a timely fashion when necessary. Please be aware that we may require certain information from you on behalf of our Insurers, and failure to provide such information can result in the cancellation of an existing policy and/or not being allowed to purchase future policies. Any such action will be taken in accordance with the terms of your Insurance Contract.
+We may need to contact you from time-to-time, usually by email or in the app. It's important you read any messages sent to you and respond in a timely fashion when necessary. Please be aware that we may require certain information from you on behalf of our Insurers, and failure to provide such information can result in the cancellation of an existing policy and/or not being allowed to purchase future policies. Any such action will be taken in accordance with the terms of your Insurance Contract.
 
 It's important to ensure the details of any vehicle you want to insure match the details you enter in the app. Failure to do so can lead to you getting insured on the wrong vehicle! Please also check that the details we provide you about the vehicle, prior to purchase, match the vehicle you wish to drive.
 
@@ -101,7 +101,7 @@ It's important to ensure the details of any vehicle you want to insure match the
 
 All UK car insurance policies are automatically added to the "Motor Insurance Database" which is used by the police and ANPR cameras to confirm cars are driving legally. Although Cuvva sends information to the MID faster than other companies, unfortunately, the database is slow to update and it's possible your policy will have expired before it shows up on the MID.
 
-Your policy documents (found in app or by e-mail) are proof of your cover and if there are any questions from the authorities, they can do a live check or get in touch with Cuvva. Please ensure that any authorities double-check your policy documents and if there's any doubt, they should contact Cuvva. Once your car is impounded you typically have to pay a high fee for the vehicle's release.
+Your policy documents (found in app or by email) are proof of your cover and if there are any questions from the authorities, they can do a live check or get in touch with Cuvva. Please ensure that any authorities double-check your policy documents and if there's any doubt, they should contact Cuvva. Once your car is impounded you typically have to pay a high fee for the vehicle's release.
 
 ## 10. Authentication
 
@@ -129,7 +129,7 @@ If we don't meet our obligations under these Terms due to events outside of our 
 
 ## 14. Your Instructions
 
-Usually all communications are made via the app, but we may also contact you by e-mail, letter, telephone or face-to-face. We can't guarantee your instructions have been received unless we've acknowledged them. We reserve the right to refuse instructions but, if we do, we'll let you know.
+Usually all communications are made via the app, but we may also contact you by email, letter, telephone or face-to-face. We can't guarantee your instructions have been received unless we've acknowledged them. We reserve the right to refuse instructions but, if we do, we'll let you know.
 
 Our office hours are Monday to Friday, 9.00am to 6.00pm UK time. There may be a delay in responding to instructions if they're received outside of office hours. But you can speak with us in the app 24 hours a day, 365 days a year, and we'll get back to you as soon as we can.
 
