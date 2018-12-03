@@ -72,7 +72,7 @@ We may use publicly available information, or information in plain view, to prev
 
 We love feedback. So much so that we occasionally invite people to Cuvva HQ, or another agreed location, to canvass their views and carry out branding exercises. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to process the data in anonymised form.
 
-We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the 'phone too. We don't send many emails of that kind, but when we do, there will always be an option to unsubscribe. 
+We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the 'phone too. We don't send many emails of that kind, but when we do, there will always be an option to unsubscribe.
 
 We also really appreciate it when Cuvva users review us online. We may re-publish said reviews, along with your first name if that was included in your review.
 
@@ -152,4 +152,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.3 (2018-09-17)_](https://github.com/cuvva/terms/blob/privacy-v1.3/privacy.md)
+[_v1.4 (2018-12-03)_](https://github.com/cuvva/terms/blob/privacy-v1.4/privacy.md)
