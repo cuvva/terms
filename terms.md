@@ -121,7 +121,7 @@ We reserve the right to resign as your insurance intermediary at any time. We ma
 
 ## 13. If things go wrong
 
-We understand that we may have responsibilities in the event of our negligence, and don't attempt to restrict or exclude our responsibility. 
+We understand that we may have responsibilities in the event of our negligence, and don't attempt to restrict or exclude our responsibility.
 
 We don't accept any responsibility for any loss or damage you may incur as a result of the acts or omissions of your Insurer.
 
@@ -165,4 +165,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
-[_v1.4 (2018-11-21)_](https://github.com/cuvva/terms/blob/terms-v1.4/terms.md)
+[_v1.4 (2018-12-03)_](https://github.com/cuvva/terms/blob/terms-v1.4/terms.md)
