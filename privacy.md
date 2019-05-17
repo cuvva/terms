@@ -98,7 +98,11 @@ If you choose to share someone's information with us, it's your responsibility t
 
 If you use Cuvva with a car which belongs to, or is registered to, someone else, we may share your policy information with them - including the legal documents.
 
-If you arrange travel insurance for any companions, their policy documents will be emailed to them directly, to the email address(es) you provide us with. So it's important you provide the correct email address each time.
+If you arrange travel insurance for any companions, their policy documents will be emailed to them directly, to the email address(es) you provide us with. So it's important you provide the correct email address each time. 
+
+## Cookies
+
+As with most websites, we use cookies. You can find out more, including how to opt out, [here](https://github.com/cuvva/terms/blob/master/cookies.md).
 
 ## Where does my information go?
 
