@@ -1,4 +1,4 @@
-As with most websites, we use cookies. Cookies don’t apply to the Cuvva app, but they apply when you visit our website.
+As with most websites, we use cookies. Cookies don't apply to the Cuvva app, but they apply when you visit our website.
 
 **What are cookies?**
 
