@@ -2,7 +2,7 @@ As with most websites, we use cookies. Cookies don't apply to the Cuvva app, but
 
 **What are cookies?**
 
-Cookies are small data files that many internet sites download to a user’s device. 
+Cookies are small data files that many internet sites download to a user's device. 
 
 Some last for the duration of your visit, and expire when you close the website. Others remember when you return to the website, and last longer. 
 
