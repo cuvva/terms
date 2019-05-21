@@ -18,9 +18,9 @@ We're an independent insurance intermediary acting on your behalf to arrange eit
 
 The Products are underwritten by insurance companies (**Insurers**), not Cuvva. To buy a Product, you need to agree to a contract with the relevant Insurer (**Insurance Contract**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
 
-**Cuvva doesn't give personal recommendations or advice. Cuvva hasn't carried out an analysis of the market to identify the best possible offer for you.** You'll need to make your own choice on whether the Product is suitable for your needs.
+**Cuvva doesn't give personal recommendations or advice. Cuvva hasn't carried out an analysis of the market to identify the best possible offer for you.** You'll need to make your own choice on whether the product is suitable for your needs.
 
-Our Short-term and Travel Products are provided by insurers on a non-exclusive basis. Details of the relevant Insurer can be found in your Insurance Contract before purchase, and are available on request.
+Our Short-term and Travel products are provided by insurers on a non-exclusive basis. Details of the relevant Insurer can be found in your Insurance Contract before purchase, and are available on request.
 
 Currently it's not possible to buy our Products when you're outside the UK.
 
@@ -48,19 +48,11 @@ Before buying Products via our app, you should read the relevant Insurance Contr
 
 You can use our app to purchase travel insurance for a companion joining you on your trip, provided you have their consent, subject to the limitations set out during the purchasing journey.
 
-You must not pay for our services using a payment card in someone else's name. You must only use a payment card which is in your name.
+You must not pay for our services using a payment card in someone else's name. You should only use a payment card which is in your name.
 
-If you use a payment card which isn't in your name, we may take appropriate action. That could mean freezing your account. If an account holder requests a chargeback, we reserve the right to charge you reasonable costs.
+If you use a payment card which isn't in your name, we may take appropriate action. That could mean a block on your account. If an account holder requests a chargeback, we reserve the right to charge you reasonable costs.
 
 We can't make any changes to a short-term insurance policy once it's been purchased, whether it's motor or travel insurance. So if you purchase a Short-term product, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app, before purchasing a new Short-term product.
-
-You can refer a friend for a discount off their first Product - you can get a discount too. Head to your profile, and go to _Refer a friend for a discount_, to share your referral code.
-
-Your friend will have three months, from when they redeem your code, to use their discount. When your friend buys their first Product using that discount, you will get your discount, which will be valid for three months.  
-
-Referrals are intended for people you know. So please don't post your referral code publicly. We might limit how many people can redeem your code, and change your code, if we find it posted publicly.
-
-If you’re using any other promotional code, the expiry date will depend on the promotion you’re looking to benefit from. If you have any questions, including when the deadlines are, please chat to us and we’ll help.
 
 Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app being unavailable.
 
@@ -91,7 +83,7 @@ If you purchase our Products, the details of your cancellation rights are includ
 
 **Your Insurance Contract will include a cancellation clause for the Insurer in certain circumstances. You should ensure you understand when this might happen before you enter into the Insurance Contract.**
 
-## 7. How We Get Paid
+## 7. How we get paid
 
 For all Products, we'll tell you the insurance premiums, taxes and fees payable in our quote summary which you can see in the app before purchase. Cuvva Limited is usually paid either by receiving a percentage of the insurance premium by way of commission from the Insurer or service provider, or by receiving an admin fee from you for arranging the insurance, or both. We may earn additional amounts from Insurers to reflect the performance of the Products.
 
@@ -113,21 +105,21 @@ Please ensure the authorities double-check your policy documents, and if there's
 
 ## 10. Authentication
 
-Please keep your phone security details safe and confidential - tell us immediately if you think someone else may have accessed the app using them.
+Please keep your phone security details safe and confidential - tell us immediately if you think someone else may have accessed the Cuvva App using them.
 
 **If you don't keep your phone security details safe and confidential, and/or you allow another person to access the app using them, and another person uses your phone to purchase a Product, Cuvva will not be obliged to refund you for that Product.**
 
 In order to verify that your card details are active we may charge a small nominal amount (for example £1.00) to your card or account, this will be released back to you within 7 days (this is sometimes known as an "active card check"). This may still happen if the card verification fails, and can happen more than once if you add the card multiple times.
 
-## 11. Claims and Incident Reporting
+## 11. Claims and incident reporting
 
 Claims should be notified to the Insurer as soon as possible. If you don't, an Insurer may refuse to deal with your claim or reduce the amount you receive from them - Cuvva can't intervene with the Insurer on your behalf. In the event an Insurer becomes insolvent or delays making settlement, we don't accept responsibility for paying any unpaid amounts owed to you.
 
 ## 12. Termination
 
-We reserve the right to resign as your insurance intermediary at any time. We may issue a warning, suspend, or freeze your account if you breach any of these Terms; infringe or attempt to infringe any rights of other people; if you're using a Product outside its intended application; if we suspect you're using the app to commit or attempt to commit a criminal offence; or if you abuse our staff. If we freeze your account, we might not be able to tell you why. But we'll continue to fulfil any outstanding regulatory responsibilities to you.
+We reserve the right to resign as your insurance intermediary at any time. We may issue a warning, suspend or terminate your right to use the Cuvva App at any time, including, but not limited to, if you breach any of these Terms; infringe or violate or attempt to infringe or violate any rights of third parties (including other Cuvva users); if you're using a Product outside its intended application; or if we suspect you're using the Cuvva App to commit or attempt to commit a criminal offence. If we suspend or terminate your access, we'll continue to fulfil any outstanding regulatory responsibilities to you following our termination of these Terms.
 
-## 13. If Things Go Wrong
+## 13. If things go wrong
 
 We understand that we may have responsibilities in the event of our negligence, and don't attempt to restrict or exclude our responsibility.
 
@@ -161,15 +153,15 @@ If any part of these Terms is or becomes illegal, invalid or unenforceable then 
 
 Our failure or delay in enforcing or partially enforcing any provision of the Terms won't be construed as a waiver of any of our rights under the Terms. This means that if we don't insist immediately that you do anything you're required to do under these Terms, or if we delay in taking steps against you in respect of your breaking this contract, that won't mean you don't have to do those things, and it won't prevent us taking steps against you at a later date.
 
-## 20. Permission to Use Any Relevant Vehicle
+## 20. Use of the Cuvva App
 
-By using the app you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle.
+By using the Cuvva App you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle.
 
-## 21. Insurer Solvency
+## 21. Insurer solvency
 
 We don't guarantee the solvency of any insurer we help arrange your purchase Products from. An insolvent Insurer may be unable to pay a proportion or all of any claim made. If an Insurer becomes insolvent you may need to pay a further premium to pay for alternative insurance cover. In the event an Insurer becomes insolvent, we'll let you know as soon as we can and help as best we can.
 
-## 22. Law and Jurisdiction
+## 22. Law and jurisdiction
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
