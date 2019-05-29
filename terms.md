@@ -161,16 +161,16 @@ If any part of these Terms is or becomes illegal, invalid or unenforceable then 
 
 Our failure or delay in enforcing or partially enforcing any provision of the Terms won't be construed as a waiver of any of our rights under the Terms. This means that if we don't insist immediately that you do anything you're required to do under these Terms, or if we delay in taking steps against you in respect of your breaking this contract, that won't mean you don't have to do those things, and it won't prevent us taking steps against you at a later date.
 
-## 20. Permission to Use Any Relevant Vehicle
+## 20. Permission to use any relevant vehicle
 
 By using the app you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle.
 
-## 21. Insurer Solvency
+## 21. Insurer solvency
 
 We don't guarantee the solvency of any insurer we help arrange your purchase Products from. An insolvent Insurer may be unable to pay a proportion or all of any claim made. If an Insurer becomes insolvent you may need to pay a further premium to pay for alternative insurance cover. In the event an Insurer becomes insolvent, we'll let you know as soon as we can and help as best we can.
 
-## 22. Law and Jurisdiction
+## 22. Law and jurisdiction
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
-[_v1.5 (2019-03-20)_](https://github.com/cuvva/terms/blob/terms-v1.5/terms.md)
+[_v1.6 (2019-05-30)_](https://github.com/cuvva/terms/blob/terms-v1.6/terms.md)
