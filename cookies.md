@@ -32,7 +32,7 @@ We use other third party services which create cookies:
 - [Microsoft Bing Ads](https://privacy.microsoft.com/en-GB/privacystatement#maincookiessimilartechnologiesmodule)
 - [Branch Web SDK](https://branch.io/cookie-declaration)
 
-## How to turn off or edit cookies
+## How to turn off or edit cookies
 
 - Via this [tool](https://optout.aboutads.info), or
 - In the settings of your web browser
