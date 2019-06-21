@@ -2,20 +2,20 @@
 
 As with most websites, we use cookies. Cookies don't apply to the Cuvva app, but they apply when you visit our website.
 
-**What are cookies?**
+## What are cookies?
 
 Cookies are small data files that many internet sites download to a user's device.
 
 Some last for the duration of your visit, and expire when you close the website. Others remember when you return to the website, and last longer.
 
-**Why do we use cookies?**
+## Why do we use cookies?
 
 We use cookies:
 
 - To analyse behaviour (for example, which pages you visited). This lets us show more relevant content and ads.
 - To give you a better experience (we save your data to avoid you having to re-enter it each time you visit). This comes in handy when getting an estimate on our website.
 
-**We use a few different kinds of cookies:**
+## What cookies do we use?
 
 - “Single Session cookies” or “Session cookies”
 - “Global” and “Persistent cookies”
