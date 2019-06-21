@@ -100,6 +100,10 @@ If you use Cuvva with a car which belongs to, or is registered to, someone else,
 
 If you arrange travel insurance for any companions, their policy documents will be emailed to them directly, to the email address(es) you provide us with. So it's important you provide the correct email address each time.
 
+## Cookies
+
+As with most websites, we use cookies. You can find out more, including how to opt out in our cookie policy, which you can find on our website.
+
 ## Where does my information go?
 
 The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may be processed by staff outside the EEA who work for us or one of our suppliers.
@@ -152,4 +156,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.4 (2018-12-03)_](https://github.com/cuvva/terms/blob/privacy-v1.4/privacy.md)
+[_v1.5 (2019-06-21)_](https://github.com/cuvva/terms/blob/privacy-v1.5/privacy.md)
