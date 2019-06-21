@@ -102,7 +102,7 @@ If you arrange travel insurance for any companions, their policy documents will 
 
 ## Cookies
 
-As with most websites, we use cookies. You can find out more, including how to opt out, [here](https://github.com/cuvva/terms/blob/master/cookies.md).
+As with most websites, we use cookies. You can find out more, including how to opt out in our cookie policy, which you can find on our website.
 
 ## Where does my information go?
 
