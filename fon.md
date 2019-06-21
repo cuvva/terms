@@ -1,4 +1,4 @@
-# Fair Obtaining Notice
+# Fair obtaining notice
 
 > Information about how we access your data via the DVLA
 
