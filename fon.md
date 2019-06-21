@@ -2,25 +2,25 @@
 
 > Information about how we access your data via the DVLA
 
-## How we will use your data
+## How we'll use your data
 
-### Insurance underwriting purposes
+### Insurance underwriting & anti-fraud purposes
 
-We will use your data to examine the potential risk in relation to your (and/or a third party's) prospective policy so that we can:
+We'll use your data to look at the potential risk relating to your policy so we can:
 
-1. Provide your (or any person included on the proposal) Driving Licence Number ("DLN") to the DVLA to confirm your (or the relevant person included on the proposal) licence status, entitlement and relevant restriction information and endorsement/conviction data. Searches may be carried out prior to the date of the insurance policy and at any point throughout the duration of your insurance policy including at the mid-term adjustment and renewal stage. A search of the DLN with the DVLA should not show a footprint against your driving licence.
-0. Search your (or any person included on the proposal) 'No Claims Discount' details against a No Claims Discount database ("NCD") to obtain information in relation to your 'No Claims Discount' entitlement. Such searches may be carried out against your (or the relevant person included on the proposal) DLN, name, date of birth, Vehicle Registration Mark ("VRM") and or postcode. A search of the DLN against the NCD should not show a footprint against your (or another relevant person included on the proposal) driving licence.
-0. Searches may be carried out at point of quote and if an insurance policy is incepted at the renewal stage.
+- Give your driving licence number (DLN) to the DVLA to confirm your licence status, entitlement and relevant restriction information and endorsement/conviction data. This also helps us to check your information to prevent fraud, and reduce incidents of negligent mis-representation and nondisclosure.
+- Carrying out searches of your DLN against details held by the DVLA. We do this to confirm your licence status, entitlement and restriction information and endorsement/conviction data. This helps us to check your information to prevent misuse and fraud.
 
-### Anti-fraud purposes
+Searches may be carried out against your DLN, name, date of birth, vehicle registration mark and or postcode.
 
-i.e. to detect and prevent fraudulent claims and/or activities by:
+Searches may be carried out before the insurance policy is taken out - and at any point throughout the duration of your insurance policy or once it has ended.
 
-1. Undertaking searches against your (or any person included on the proposal) DLN against details held by the DVLA to confirm your licence status, entitlement and restriction information and endorsement/conviction data. This helps insurers check information to prevent fraud and reduce incidences of negligent misrepresentation and non-disclosure. A search of the DLN with the DVLA should not show a footprint against your (or another relevant person included on the proposal) driving licence.
-0. Searching your (or any person included on the proposal) 'No Claims Discount' details against a No Claims Discount database ("NCD") to obtain information in relation to your 'No Claims Discount' entitlement. Such searches may be carried out against your (or the relevant person included on the proposal) DLN, name, date of birth, Vehicle Registration Mark ("VRM") and or postcode. A search of the DLN against the NCD should not show a footprint against your (or another relevant person included on the proposal) driving licence.
+Searching your DLN with the DVLA should not show a record against your driving licence.
 
 ## How your data will be processed
 
-Your personal data will not be used for marketing. It will only be shared within organisations involved with the administration of your insurance policy or as otherwise set out in this Data Protection Notice.
+Your personal data will only be shared with organisations involved in the administration of your insurance policy, or as otherwise set out in our privacy notice.
 
-We will pass details of your 'No Claims Discount' to certain organisations to be recorded on a NCD database. This will occur if information requires updating or correcting at any stage, and also at the renewal stage of your policy and upon or after the cancellation of your policy prior to the expiry date.
+If you have any questions, the best way to speak with us is in the app. Otherwise, you can email us at privacy@cuvva.com, or write to us at 12 Mallow Street, London, EC1Y 8RQ.
+
+You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be contacted by email at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Studio 5, 155 Commercial Street, London, E1 6BJ. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
