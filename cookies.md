@@ -37,3 +37,5 @@ How exactly you do that will depend on your browser or device settings. Try look
 Once turned off, you might still see ads for Cuvva in other places. But these will be more general and not based on your specific information.
 
 If you need a hand, chat to us in the app and we'll be happy to help.
+
+[_v1.0 (2019-06-21)_](https://github.com/cuvva/terms/blob/cookies-v1.0/cookies.md)
