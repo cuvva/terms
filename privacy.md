@@ -6,15 +6,15 @@ Here at Cuvva we take your privacy very seriously. This notice will tell you how
 
 We're Cuvva Limited (Cuvva, we, our, us). We're authorised and regulated by the Financial Conduct Authority (FCA) under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
-If you have any questions about our handling of personal information, the best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at 12 Mallow Street, London, EC1Y 8RQ.
+If you have any questions about our handling of personal information, the best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at 3 Angel Square, London, EC1V 1NY.
 
-You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be contacted by email at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Studio 5, 155 Commercial Street, London E1 6BJ. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
+You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be contacted by email at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Eagle House, 163 City Road, London, EC1V 1NR. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
 
 ## What's my personal information?
 
 That's information which identifies you, or can be used with readily available information to identify you. We need personal information to see if we can cover you, to calculate the premium, and to help with any claims. So we'll collect anything we need via the app, our website and any other interactions you might have with us. You can find more detail on the information we ask for [here](https://github.com/cuvva/terms/blob/master/questions.md).
 
-We'll keep your personal information only for as long as we need to. If you've bought a policy with us, we're required by the FCA to keep your data for at least seven years. That's because you'll have purchased a regulated financial product.
+We'll keep your personal information only for as long as we need to. If you've bought a policy with us, we need to keep your data for at least seven years. That's because you'll have purchased a regulated financial product, and because of possible future claims.
 
 ## What other information do you collect?
 
@@ -72,7 +72,7 @@ We may use publicly available information, or information in plain view, to prev
 
 We love feedback. So much so that we occasionally invite people to Cuvva HQ, or another agreed location, to canvass their views and carry out branding exercises. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to process the data in anonymised form.
 
-We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the 'phone too. We don't send many emails of that kind, but when we do, there will always be an option to unsubscribe.
+We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the phone too. We don't send many emails of that kind, but when we do, there will always be an option to unsubscribe.
 
 We also really appreciate it when Cuvva users review us online. We may re-publish said reviews, along with your first name if that was included in your review.
 
@@ -120,7 +120,7 @@ If you haven't bought a policy with us, you can ask us to delete your informatio
 
 We need to keep some information in certain circumstances for the detection and prevention of fraud, to check the accuracy of any information we've provided (like quotes for example) or in case of any future disputes.
 
-In those cases, we'll retain the minimum information needed in the circumstances. To do this, we keep your conversation history, name, date of birth, any legal terms you've agreed to and a copy of the quotes we've issued.
+In those cases, we'll retain the minimum information needed in the circumstances. To do this, we may keep your conversation history, name, date of birth, any legal terms you've agreed to or copies of quotes we've issued.
 
 ### Right to object
 
