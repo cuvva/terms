@@ -28,7 +28,7 @@ We use device advertising identifiers to help determine how users find us. For e
 
 ### Communication
 
-Our conversations (including chats, emails and phone calls) may be recorded or monitored to provide an audit trail. We may use them in an anonymised form to help train the Cuvva team, too.
+Our conversations (including chats, emails and phone calls) may be recorded or monitored to provide an audit trail. We may use them to help train the Cuvva team, too.
 
 ### System logs
 
@@ -36,7 +36,7 @@ Access information may be gathered when you use our services, including device I
 
 ### Driving licence data
 
-Once you've entered your driving licence details and agreed to the Fair Obtaining Notice, we may collect information about your driving licence from the DVLA or relevant authorities. We need this so we can offer motor insurance products to you.
+Once you've entered your driving licence details and agreed to the [Fair Obtaining Notice](https://github.com/cuvva/terms/blob/master/fon.md), we may collect information about your driving licence and history from the DVLA, MyLicence or other relevant entities. We need this so we can offer motor insurance products to you.
 
 ### Location and telematics data
 
@@ -116,11 +116,13 @@ You can find out more on where your information goes [here](https://github.com/c
 
 ### Right to erasure
 
-If you haven't bought a policy with us, you can ask us to delete your information. Again, the best the way to do that is usually via the app.
+If you'd like us to delete your information, just let us know. Again, the best the way to do that is usually via the app.
 
-We need to keep some information in certain circumstances for the detection and prevention of fraud, to check the accuracy of any information we've provided (like quotes for example) or in case of any future disputes.
+Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. We need to keep your data for at least 7 years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover.
 
-In those cases, we'll retain the minimum information needed in the circumstances. To do this, we may keep your conversation history, name, date of birth, any legal terms you've agreed to or copies of quotes we've issued.
+In other cases, where we delete your account, we'll archive some information for the detection and prevention of fraud, to check the accuracy of any information we've provided (like quotes for example) or in case of any future disputes.
+
+To do that, we'll retain the minimum information needed in the circumstances. That can include your conversation history, email address, name, date of birth, any legal terms you've agreed to or copies of quotes we've issued. That archived data won't be accessed unless it's needed for the above reasons, and it will be deleted after 7 years.
 
 ### Right to object
 
@@ -156,4 +158,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.6 (2019-08-23)_](https://github.com/cuvva/terms/blob/privacy-v1.6/privacy.md)
+[_v1.7 (2020-01-20)_](https://github.com/cuvva/terms/blob/privacy-v1.7/privacy.md)
