@@ -1,6 +1,6 @@
 # Fair obtaining notice
 
-> Information about how we access your data via the DVLA
+> Information about how we access your data via the DVLA, MyLicence and other relevant entities
 
 ## How we'll use your data
 
