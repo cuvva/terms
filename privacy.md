@@ -36,7 +36,7 @@ Access information may be gathered when you use our services, including device I
 
 ### Driving licence data
 
-Once you've entered your driving licence details and agreed to the [Fair Obtaining Notice] (https://github.com/cuvva/terms/blob/master/fon.md)., we may collect information about your driving licence and history from the DVLA, MyLicence or other relevant entities. We need this so we can offer motor insurance products to you.
+Once you've entered your driving licence details and agreed to the [Fair Obtaining Notice](https://github.com/cuvva/terms/blob/master/fon.md), we may collect information about your driving licence and history from the DVLA, MyLicence or other relevant entities. We need this so we can offer motor insurance products to you.
 
 ### Location and telematics data
 
@@ -122,7 +122,7 @@ Bear in mind that if you've bought a policy with us, we may not be able to delet
 
 In other cases, where we delete your account, we'll archive some information for the detection and prevention of fraud, to check the accuracy of any information we've provided (like quotes for example) or in case of any future disputes.
 
-To do that, we'll retain the minimum information needed in the circumstances. That can include your conversation history, email address, name, date of birth, any legal terms you've agreed to or copies of quotes we've issued. That archived data won't be accessed unless it's needed for the above reasons, and it will be deleted after 7 years. 
+To do that, we'll retain the minimum information needed in the circumstances. That can include your conversation history, email address, name, date of birth, any legal terms you've agreed to or copies of quotes we've issued. That archived data won't be accessed unless it's needed for the above reasons, and it will be deleted after 7 years.
 
 ### Right to object
 
