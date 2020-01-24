@@ -2,7 +2,7 @@
 
 Here at Cuvva we take your privacy very seriously. This notice will tell you how we use your personal information.
 
-## Who are you?
+## Who we are
 
 We're Cuvva Limited (Cuvva, we, our, us). We're authorised and regulated by the Financial Conduct Authority (FCA) under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
@@ -10,13 +10,13 @@ If you have any questions about our handling of personal information, the best w
 
 You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be contacted by email at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Eagle House, 163 City Road, London, EC1V 1NR. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
 
-## What's my personal information?
+## Your personal information
 
-That's information which identifies you, or can be used with readily available information to identify you. We need personal information to see if we can cover you, to calculate the premium, and to help with any claims. So we'll collect anything we need via the app, our website and any other interactions you might have with us. You can find more detail on the information we ask for [here](https://github.com/cuvva/terms/blob/master/questions.md).
+This means information which identifies you, or can be used with readily available information to identify you. We need personal information to see if we can cover you, to calculate the premium, and to help with any claims. So we'll collect anything we need via the app, our website and any other interactions you might have with us. You can find more detail on the information we ask for [here](https://github.com/cuvva/terms/blob/master/questions.md).
 
 We'll keep your personal information only for as long as we need to. If you've bought a policy with us, we need to keep your data for at least seven years. That's because you'll have purchased a regulated financial product, and because of possible future claims.
 
-## What other information do you collect?
+## Other information we collect
 
 We collect other information via the app, our website and other interactions you might have with us - to deliver the best service we can. All information we collect can be used to help us improve our service, for providing better customer support, and for calculating prices for your quotes. Calculating pricing requires automated decision-making and profiling.
 
@@ -70,7 +70,7 @@ We may use publicly available information, or information in plain view, to prev
 
 ### Focus groups, feedback and reviews
 
-We love feedback. So much so that we occasionally invite people to Cuvva HQ, or another agreed location, to canvass their views and carry out branding exercises. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to process the data in anonymised form.
+We love feedback. So much so that we occasionally invite people to Cuvva HQ, or another agreed location, to find out their views and carry out branding exercises. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to process the data in anonymised form.
 
 We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the phone too. We don't send many emails of that kind, but when we do, there will always be an option to unsubscribe.
 
@@ -104,7 +104,7 @@ If you arrange travel insurance for any companions, their policy documents will 
 
 As with most websites, we use cookies. You can find out more, including how to opt out in our cookie policy, which you can find on our website.
 
-## Where does my information go?
+## Where your information goes
 
 The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may be processed by staff outside the EEA who work for us or one of our suppliers.
 
@@ -112,7 +112,7 @@ The parties we send your information to are obliged to comply with data protecti
 
 You can find out more on where your information goes [here](https://github.com/cuvva/terms/blob/master/third-parties.md).
 
-## What are my data rights?
+## Your data rights
 
 ### Right to erasure
 
@@ -158,4 +158,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.7 (2020-01-20)_](https://github.com/cuvva/terms/blob/privacy-v1.7/privacy.md)
+[_v1.8 (2020-01-24)_](https://github.com/cuvva/terms/blob/privacy-v1.8/privacy.md)
