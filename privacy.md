@@ -112,7 +112,7 @@ The parties we send your information to are obliged to comply with data protecti
 
 You can find out more on where your information goes [here](https://github.com/cuvva/terms/blob/master/third-parties.md).
 
-## Your data rights 
+## Your data rights
 
 ### Right to erasure
 
