@@ -44,7 +44,7 @@ After you authorise payment, we may carry out final checks which can result in a
 
 Before buying products via our app, you should read the relevant insurance contract with the insurer, which is provided within the app. The insurance contract covers any terms and conditions between you and the insurer (whereas these terms are between you and Cuvva).
 
-**You can only use our app to purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for a motor insurance product, the product may not be valid. 
+**You can only use our app to purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for a motor insurance product, the product may not be valid.
 
 We reserve the right to charge you reasonable costs for chargebacks raised in your name, or against any payment cards you've used.
 
