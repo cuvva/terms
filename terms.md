@@ -46,17 +46,15 @@ Before buying products via our app, you should read the relevant insurance contr
 
 **You can only use our app to purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for a motor insurance product, the product may not be valid.
 
+We reserve the right to charge you reasonable costs for chargebacks raised in your name, or against any payment cards you've used.
+
 You can use our app to purchase travel insurance for a companion joining you on your trip, provided you have their consent, subject to the limitations set out during the purchasing journey.
-
-You must not pay for our services using a payment card in someone else's name. You must only use a payment card which is in your name.
-
-If you use a payment card which isn't in your name, we may take appropriate action. That could mean freezing your account. If an account holder requests a chargeback, we reserve the right to charge you reasonable costs.
 
 We can't make any changes to a short-term insurance policy once it's been purchased, whether it's motor or travel insurance. So if you purchase a short-term product, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app, before purchasing a new short-term product.
 
 Referrals are intended for people you know. So please don't post your referral code publicly. We might limit how many people can redeem your code, and change your code, if we find it posted publicly.
 
-The expiry date of any discount will depend on the promotion you’re looking to benefit from. But no discount will last for more than 12 months from the date of redemption. If you have any questions, including when the deadlines are, please chat to us and we’ll help.
+The expiry date of any discount will depend on the promotion you're looking to benefit from. But no discount will last for more than 12 months from the date of redemption. If you have any questions, including when the deadlines are, please chat to us and we'll help.
 
 Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app being unavailable.
 
@@ -89,7 +87,11 @@ If you purchase our products, the details of your cancellation rights are includ
 
 ## 7. How we get paid
 
-For all products, we'll tell you the insurance premiums, taxes and fees payable in our quote summary which you can see in the app before purchase. Cuvva Limited is usually paid either by receiving a percentage of the insurance premium by way of commission from the insurer or service provider, or by receiving an admin fee from you for arranging the insurance, or both. We may earn additional amounts from Insurers to reflect the performance of the products.
+For all products, we'll tell you the insurance premiums, taxes and fees payable in our quote summary which you can see in the app before purchase.
+
+We receive the whole of your payment on a risk transfer basis, as the agent of the insurer. This means that when you pay for your policy, your payment is deemed to have already been received by the insurer. Depending on the product, your payment may be held in a non-statutory trust bank account. These measures help us keep your payments safe.
+
+We're usually paid either by receiving a percentage of the insurance premium in commission from the insurer or service provider, or by receiving an admin fee from you for arranging the insurance, or both. We may earn interest on the money in our bank accounts, and additional amounts from Insurers to reflect the performance of the products.
 
 ## 8. Correspondence
 
@@ -169,4 +171,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
-[_v1.7 (2019-08-23)_](https://github.com/cuvva/terms/blob/terms-v1.7/terms.md)
+[_v1.8 (2020-04-30)_](https://github.com/cuvva/terms/blob/terms-v1.8/terms.md)
