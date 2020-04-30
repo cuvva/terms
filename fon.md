@@ -8,14 +8,14 @@
 
 We'll use your data to look at the potential risk relating to your policy so we can:
 
-- Give your driving licence number (DLN) to the DVLA to confirm your licence status, entitlement and relevant restriction information and endorsement/conviction data. This also helps us to check your information to prevent fraud, and reduce incidents of negligent mis-representation and nondisclosure.
-- Carrying out searches of your DLN against details held by the DVLA. We do this to confirm your licence status, entitlement and restriction information and endorsement/conviction data. This helps us to check your information to prevent misuse and fraud.
+- Give your driving licence number (DLN) to the DVLA, MyLicence or other relevant entities to confirm your licence status, entitlement and relevant restriction information and endorsement/conviction data. This also helps us to check your information to prevent fraud, and reduce incidents of negligent mis-representation and nondisclosure.
+- Carrying out searches of your DLN against details held by the DVLA, MyLicence or other relevant entities. We do this to confirm your licence status, entitlement and restriction information and endorsement/conviction data. This helps us to check your information to prevent misuse and fraud.
 
 Searches may be carried out against your DLN, name, date of birth, vehicle registration mark and or postcode.
 
 Searches may be carried out before the insurance policy is taken out - and at any point throughout the duration of your insurance policy or once it has ended.
 
-Searching your DLN with the DVLA should not show a record against your driving licence.
+Searching your DLN with the DVLA, MyLicence or other relevant entities should not show a record against your driving licence.
 
 ## How your data will be processed
 
