@@ -6,6 +6,7 @@ We may share your information with:
 	- data storage
 	- fraud prevention
 	- marketing
+	- soft credit checks
 	- payment handling
 	- product development
 	- transactional messages
