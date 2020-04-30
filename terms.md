@@ -52,7 +52,7 @@ We can't make any changes to a short-term insurance policy once it's been purcha
 
 Referrals are intended for people you know. So please don't post your referral code publicly. We might limit how many people can redeem your code, and change your code, if we find it posted publicly.
 
-The expiry date of any discount will depend on the promotion you’re looking to benefit from. But no discount will last for more than 12 months from the date of redemption. If you have any questions, including when the deadlines are, please chat to us and we’ll help.
+The expiry date of any discount will depend on the promotion you're looking to benefit from. But no discount will last for more than 12 months from the date of redemption. If you have any questions, including when the deadlines are, please chat to us and we'll help.
 
 Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app being unavailable.
 
@@ -85,7 +85,7 @@ If you purchase our products, the details of your cancellation rights are includ
 
 ## 7. How we get paid
 
-For all products, we'll tell you the insurance premiums, taxes and fees payable in our quote summary which you can see in the app before purchase. 
+For all products, we'll tell you the insurance premiums, taxes and fees payable in our quote summary which you can see in the app before purchase.
 
 We receive the whole of your payment on a risk transfer basis, as the agent of the insurer. This means that when you pay for your policy, your payment is deemed to have already been received by the insurer. Depending on the product, your payment may be held in a non-statutory trust bank account. These measures help us keep your payments safe.
 
