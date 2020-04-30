@@ -62,11 +62,11 @@ Similarly, any information relating to someone else's health is given by you, wi
 
 ### Soft credit checks
 
-Depending on the cover you're looking for, we might carry out a soft credit check using your details. We’ll only do that when we need to, to see if we can cover you.
+Depending on the cover you're looking for, we might carry out a soft credit check using your details. We'll only do that when we need to, to see if we can cover you.
 
-This means we take into account your credit score, number of judgements against you (if any), reported insurance policy history, claims data and whether you’re on the electoral roll. This information won’t be readily available to members of the Cuvva team. But our systems will check the data as part of the quoting process. 
+This means we take into account your credit score, number of judgements against you (if any), reported insurance policy history, claims data and whether you're on the electoral roll. This information won't be readily available to members of the Cuvva team. But our systems will check the data as part of the quoting process.
 
-Soft credit checks don’t leave a visible footprint on your credit file. You can see them on your own credit file, but lenders can’t. 
+Soft credit checks don't leave a visible footprint on your credit file. You can see them on your own credit file, but lenders can't.
 
 ### Travel destinations and dates
 
