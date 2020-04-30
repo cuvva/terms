@@ -46,7 +46,7 @@ Before buying products via our app, you should read the relevant insurance contr
 
 **You can only use our app to purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for a motor insurance product, the product may not be valid. 
 
-If you pay for a product using a payment card belonging to someone else, and they go on to request a chargeback, we reserve the right to charge you reasonable costs.
+We reserve the right to charge you reasonable costs for chargebacks raised in your name, or against any payment cards you've used.
 
 You can use our app to purchase travel insurance for a companion joining you on your trip, provided you have their consent, subject to the limitations set out during the purchasing journey.
 
