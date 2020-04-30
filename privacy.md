@@ -60,6 +60,14 @@ Any information relating to your health is given by you, with your express conse
 
 Similarly, any information relating to someone else's health is given by you, with express consent given by them, or someone with parental responsibility for them, so we can use it for the above reasons only.
 
+### Soft credit checks
+
+Depending on the cover you're looking for, we might carry out a soft credit check using your details. We’ll only do that when we need to, to see if we can cover you.
+
+This means we take into account your credit score, number of judgements against you (if any), reported insurance policy history, claims data and whether you’re on the electoral roll. This information won’t be readily available to members of the Cuvva team. But our systems will check the data as part of the quoting process. 
+
+Soft credit checks don’t leave a visible footprint on your credit file. You can see them on your own credit file, but lenders can’t. 
+
 ### Travel destinations and dates
 
 We'll ask for this information to arrange any travel insurance products. We need to know those details, and share them with the underwriter; to determine risk, help process claims, and to prevent misuse.
