@@ -14,13 +14,13 @@ These terms will be legally binding when you accept them. We'll make small chang
 
 ## 2. Our services
 
-We're an independent insurance intermediary acting on your behalf to arrange either of two products (**products**): short-term motor insurance (**short-term**); and/or travel insurance (**travel**).
+We're an independent insurance intermediary acting on your behalf to arrange motor insurance, and/or travel insurance (our **products**).
 
-The Products are underwritten by insurance companies (**insurers**), not Cuvva. To buy a product, you need to agree to a contract with the relevant insurer (**insurance contract**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
+Our products are underwritten by insurance companies (**insurers**), not Cuvva. To buy a product, you need to agree to a contract with the relevant insurer (**insurance contract**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
 
 **Cuvva doesn't give personal recommendations or advice. Cuvva hasn't carried out an analysis of the market to identify the best possible offer for you.** You'll need to make your own choice on whether the product is suitable for your needs.
 
-Our short-term and travel products are provided by insurers on a non-exclusive basis. Details of the relevant insurer can be found in your insurance contract before purchase, and are available on request.
+Our products are provided by insurers on a non-exclusive basis. Details of the relevant insurer can be found in your insurance contract before purchase, and are available on request.
 
 Currently it's not possible to buy our products when you're outside the UK.
 
@@ -50,7 +50,7 @@ We reserve the right to charge you reasonable costs for chargebacks raised in yo
 
 You can use our app to purchase travel insurance for a companion joining you on your trip, provided you have their consent, subject to the limitations set out during the purchasing journey.
 
-We can't make any changes to a short-term insurance policy once it's been purchased, whether it's motor or travel insurance. So if you purchase a short-term product, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app, before purchasing a new short-term product.
+We can't make changes to a product once it's been purchased, whether it's motor or travel insurance. So if you purchase a motor insurance product, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app, before purchasing a new motor insurance product.
 
 Referrals are intended for people you know. So please don't post your referral code publicly. We might limit how many people can redeem your code, and change your code, if we find it posted publicly.
 
@@ -62,7 +62,7 @@ Cuvva can't guarantee that our app will be available at all times, including due
 
 In the case of all insurance, the validity of cover and the amount you pay depends on the information you provide. **It's your responsibility to provide complete and accurate information to us and the insurer at all times**, including when you buy your product. It's important that all statements you make and all questions you answer are complete, true and accurate.
 
-You must tell us about anything which may affect the product, insurance policy or quote. For short-term, this could mean telling us about any previous incidents you've been involved in, or if there's any reason you may not be able to legally drive the vehicle. For travel, this could be any health issues, or anything you're aware of which may mean you won't be able to make the trip.
+You must tell us about anything which may affect the product, insurance policy or quote. For motor insurance, this could mean telling us about any previous incidents you've been involved in, or if there's any reason you may not be able to legally drive the vehicle. For travel, this could be any health issues, or anything you're aware of which may mean you won't be able to make the trip.
 
 You can update your details yourself or speak with us in the app, by email, or in writing. All communications are recorded - see our privacy notice for more information.
 
@@ -70,10 +70,10 @@ If you're not sure whether you need to tell us something - please ask. We're hap
 
 If the information provided by you isn't complete and accurate:
 
-- The insurance policy may be voided by the insurer, meaning the insurance policy effectively never existed and, if using our short-term product, you may be liable for driving without insurance.
+- The insurance policy may be voided by the insurer, meaning the insurance policy effectively never existed and, if using a motor insurance product, you may be liable for driving without insurance.
 - The insurance policy may be cancelled by the insurer, meaning the insurer can refuse to pay a claim, or may not pay a claim in full.
 - The insurer may require you pay additional premiums, change the compulsory excess, or the extent of the cover may be affected to reflect the increased insurance risk.
-- If using our short-term product, you may be responsible for damage or loss to a third party if you cause an accident.
+- If using a motor insurance product, you may be responsible for damage or loss to a third party if you cause an accident.
 
 **Further details of the insurer's rights are set out in the insurance contract.**
 
@@ -81,7 +81,7 @@ We won't be responsible for any loss, damage or otherwise that results from you 
 
 ## 6. Cancellation
 
-If you purchase our products, the details of your cancellation rights are included in the relevant insurance contract. **In most cases, due to the rules governing short-term insurance, once the short-term product is active you no longer have a right to receive a refund.**
+If you purchase our products, the details of your cancellation rights are included in the relevant insurance contract. **In most cases, due to the rules governing short-term insurance, once a motor insurance product is active you no longer have a right to receive a refund.**
 
 **Your insurance contract will include a cancellation clause for the insurer in certain circumstances. You should ensure you understand when this might happen before you enter into the insurance contract.**
 
