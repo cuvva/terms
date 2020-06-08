@@ -74,13 +74,17 @@ We'll ask for this information to arrange any travel insurance products. We need
 
 ### Publicly available information
 
-We may use publicly available information, or information in plain view, to prevent misuse. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information, but we may use targeted approaches and tools, to the extent they're proportionate and non-discriminatory.
+We may use publicly available information, or information in plain view, to prevent misuse. We may take appropriate action based on any such information we come across. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information. But we may use targeted approaches and tools, to the extent they're proportionate and non-discriminatory.
 
 ### Focus groups, feedback and reviews
 
-We love feedback. So much so that we occasionally invite people to Cuvva HQ, or another agreed location, to find out their views and carry out branding exercises. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to process the data in anonymised form.
+We love feedback. So much so that we occasionally invite people to Cuvva HQ, or another agreed location, to find out their views. This will include the use of personal data which will be made clear to the people involved beforehand. Usually name, contact details and sometimes a video of the exercise. We'll only do so with the explicit consent of those involved. If consent is withdrawn, we may continue to process the data in anonymised form.
 
-We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the phone too. We don't send many emails of that kind, but when we do, there will always be an option to unsubscribe.
+We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the phone too.
+
+If you've given us feedback via our website, the app, or by chatting with us; first of all, thank you! We might email you with an update on the action we've taken following your feebdack.
+
+We don't send many emails of the kind described above. But when we do, there will always be an option to unsubscribe.
 
 We also really appreciate it when Cuvva users review us online. We may re-publish said reviews, along with your first name if that was included in your review.
 
@@ -166,4 +170,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.9 (2020-04-30)_](https://github.com/cuvva/terms/blob/privacy-v1.9/privacy.md)
+[_v1.10 (2020-06-08)_](https://github.com/cuvva/terms/blob/privacy-v1.10/privacy.md)
