@@ -82,7 +82,7 @@ We love feedback. So much so that we occasionally invite people to Cuvva HQ, or 
 
 We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the phone too.
 
-If you've given us feedback via our website, the app, or by chatting with us; first of all, thank you! We might email you with an update on the action we've taken following your feebdack.
+If you've given us feedback via our website, the app, or by chatting with us; first of all, thank you! We might email you with an update on the action we've taken following your feedback.
 
 We don't send many emails of the kind described above. But when we do, there will always be an option to unsubscribe.
 
