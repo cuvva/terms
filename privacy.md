@@ -82,7 +82,7 @@ We love feedback. So much so that we occasionally invite people to Cuvva HQ, or 
 
 We'll occasionally email Cuvva users, when it's relevant to them, to ask for their thoughts on our service. And if we're given permission following that email, we'll get in touch over the phone too.
 
-If you've given us feedback via our website, the app, or by chatting with us; first of all, thank you! We might email you with an update on the action we've taken following your feebdack.
+If you've given us feedback via our website, the app, or by chatting with us; first of all, thank you! We might email you with an update on the action we've taken following your feedback.
 
 We don't send many emails of the kind described above. But when we do, there will always be an option to unsubscribe.
 
@@ -170,4 +170,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.10 (2020-06-08)_](https://github.com/cuvva/terms/blob/privacy-v1.10/privacy.md)
+[_v1.11 (2020-06-26)_](https://github.com/cuvva/terms/blob/privacy-v1.11/privacy.md)
