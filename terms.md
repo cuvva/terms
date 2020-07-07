@@ -1,5 +1,3 @@
-# Terms & conditions
-
 **Why you should read these**
 
 Please read these terms and conditions (**terms**) carefully before you use Cuvva. They'll tell you who we are, how we provide products to you, how we might change these terms, how you or we could end our agreement to these terms, what to do if there's a problem and other important information.
