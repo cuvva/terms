@@ -1,5 +1,3 @@
-# Privacy notice
-
 Here at Cuvva we take your privacy very seriously. This notice will tell you how we use your personal information.
 
 ## Who we are
