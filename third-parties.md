@@ -6,9 +6,10 @@ We may share your information with:
 	- data storage
 	- fraud prevention
 	- marketing
-	- soft credit checks
 	- payment handling
 	- product development
+	- risk modelling
+	- soft credit checks
 	- transactional messages
 - underwriters of any policies you purchase
 - insurance databases
