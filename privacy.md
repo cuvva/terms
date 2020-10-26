@@ -38,15 +38,13 @@ Once you've entered your driving licence details and agreed to the [Fair Obtaini
 
 ### Location and telematics data
 
-Before we collect any location or telematics data, your device will ask whether you'll allow location services. Your device should give you the option to allow location services always, while using the app, or never.
+Before we collect any location or telematics data, your device will ask for your consent. We need your location to offer you a quote. It helps us prevent misuse, and lets us know you're purchasing from the right place - bearing in mind you can only purchase our products while you're in the UK. 
 
-We need your location to offer you a quote. It helps us prevent misuse, and lets us know you're purchasing from the right place - bearing in mind you can only purchase our products while you're in the UK. If you choose to never allow location services, your ability to use us will be limited.
+Your location can be used to determine risk, and will be recorded on your profile once you get your quote. We may need to check the location to help with claims.
 
-If you choose to allow location services *while using the app*, then we'll use your location to help generate a quote upon your request. Your location can be used to determine risk, and will be recorded on your profile once the quote is provided to you. We may need to check the location to help with claims processing.
+We need motion data to determine accurately when you’re driving, and to work out if we can give you more accurate pricing based on driving behaviour. We’ll also use that data to determine eligibility, and to help with any claims.
 
-If you choose to *always* allow location services, we'll use location data in the same way as if you choose to allow it *while using the app* - but with the addition of using motion data, from devices you use, if you're using our motor insurance products. This can be used to record journeys while your policy is active, to help prevent misuse, or help with claims processing.
-
-No matter which option you choose for location services, you can change this at any time in your device's settings.
+We won’t use your location or motion data for anything we haven’t listed above. You can change your consent for location and motion data at any time from your device's settings. But your ability to use us will be limited if we can’t access the data we need.
 
 ### Health data
 
@@ -57,6 +55,8 @@ We only ask you the questions we need to, in order to arrange travel insurance f
 Any information relating to your health is given by you, with your express consent, so we can use it for the above reasons only.
 
 Similarly, any information relating to someone else's health is given by you, with express consent given by them, or someone with parental responsibility for them, so we can use it for the above reasons only.
+
+Due to coronavirus (COVID-19) we’ve paused travel cover for a while. But as always, you can chat to us 24/7 if you have any questions.
 
 ### Soft credit checks
 
@@ -69,6 +69,8 @@ Soft credit checks don't leave a visible footprint on your credit file. You can 
 ### Travel destinations and dates
 
 We'll ask for this information to arrange any travel insurance products. We need to know those details, and share them with the underwriter; to determine risk, help process claims, and to prevent misuse.
+
+As we mentioned earlier, we’re not selling travel insurance right now, though.
 
 ### Publicly available information
 
@@ -118,7 +120,7 @@ As with most websites, we use cookies. You can find out more, including how to o
 
 The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may be processed by staff outside the EEA who work for us or one of our suppliers.
 
-The parties we send your information to are obliged to comply with data protection laws, regulations and standards. Each of them is either; EU/EEA based, EU/US Privacy Shield compliant, or is based in a country recognised by the European Commission as having adequate protection. They also each have their own privacy notice. If you'd like help finding them - just let us know.
+The parties we send your information to are obliged to comply with data protection laws, regulations and standards. Each of them signs a contract with Cuvva, giving assurances over the security and correct treatment of your information. Where the data is sent overseas outside the EU/EEA, the protection provided may be based on standard clauses verified by the European Commission and other data security safeguards. Or there might be an adequacy decision in place guaranteeing an equivalent degree of data protection.
 
 You can find out more on where your information goes [here](https://github.com/cuvva/terms/blob/master/third-parties.md).
 
