@@ -38,9 +38,7 @@ Once you've entered your driving licence details and agreed to the [Fair Obtaini
 
 ### Location and telematics data
 
-Before we collect any location or telematics data, your device will ask for your consent. We need your location to offer you a quote. It helps us prevent misuse, and lets us know you're purchasing from the right place - bearing in mind you can only purchase our products while you're in the UK. 
-
-Your location can be used to determine risk, and will be recorded on your profile. We may need to check the location to help with claims.
+Before we collect any location or telematics data, your device will ask for your consent. We need your location to offer you a quote. It helps us prevent misuse, and lets us know you're purchasing from the right place - bearing in mind you can only purchase our products while you're in the UK. Your location can be used to determine risk, and will be recorded on your profile. 
 
 We may use motion data to see if we can cover you, to determine accurately when you’re driving, and to work out your pricing based on driving behaviour. We may also use that data to help with any claims.
 
