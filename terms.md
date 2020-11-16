@@ -24,7 +24,7 @@ Currently it's not possible to buy our products when you're outside the UK.
 
 ## 3. Your protection
 
-Cuvva Limited is authorised and regulated by the FCA, as we described earlier. We're permitted to arrange non-investment general insurance contracts. You can check this on the FCA's Register by visiting [www.fca.org.uk/register](https://register.fca.org.uk/s/firm?id=001b000000o1JXIAA2) or by contacting the FCA on [0800 111 6768](tel:08001116768).
+Cuvva Limited is authorised and regulated by the FCA, as we described earlier. We're permitted to arrange non-investment general insurance contracts. You can check this on the FCA's Register by visiting [www.fca.org.uk/register](https://www.fca.org.uk/firms/financial-services-register) or by contacting the FCA on [0800 111 6768](tel:08001116768).
 
 Cuvva is responsible for arranging and administering our products. As part of this service, we want to give you an exceptional level of customer support at all times. But if you're unhappy with Cuvva, we have a formal complaints procedure. You can contact us via the app or by email at [support@cuvva.com](mailto:support@cuvva.com). Alternatively, you can write to us at the address listed above.
 
