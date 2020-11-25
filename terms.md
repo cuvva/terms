@@ -58,7 +58,7 @@ Cuvva can't guarantee that our app will be available at all times, including due
 
 In the case of all insurance, the validity of cover and the amount you pay depends on the information you provide. **It's your responsibility to provide complete and accurate information to us and the insurer at all times**, including when you buy your product. It's important that all statements you make and all questions you answer are complete, true and accurate.
 
-You must tell us about anything which may affect the product, insurance policy or quote. This could mean telling us about any previous incidents you've been involved in, or if there's any reason you may not be able to legally drive the vehicle. 
+You must tell us about anything which may affect the product, insurance policy or quote. This could mean telling us about any previous incidents you've been involved in, or if there's any reason you may not be able to legally drive the vehicle.
 
 You can update your details yourself or speak with us in the app, by email, or in writing. All communications are recorded - see our privacy notice for more information.
 
