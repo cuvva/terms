@@ -26,7 +26,7 @@ Currently it's not possible to buy our products when you're outside the UK.
 
 Cuvva Limited is authorised and regulated by the FCA, as we described earlier. We're permitted to arrange non-investment general insurance contracts. You can check this on the FCA's Register by visiting [https://www.fca.org.uk/register](https://www.fca.org.uk/register) or by contacting the FCA on [0800 111 6768](tel:08001116768).
 
-Cuvva is responsible for arranging and administering our products. As part of this service, we want to give you an exceptional level of customer support at all times. But if you're unhappy with Cuvva, we have a formal [complaints policy](https://www.cuvva.com/support/cuvva-complaints-policy). 
+Cuvva is responsible for arranging and administering our products. As part of this service, we want to give you an exceptional level of customer support at all times. But if you're unhappy with Cuvva, we have a formal [complaints policy](https://www.cuvva.com/support/cuvva-complaints-policy).
 
 We're also covered by the Financial Services Compensation Scheme (FSCS). You may be entitled to compensation from the FSCS in the unlikely event we can't meet our obligations. Further information about the compensation scheme is available here: [https://fscs.org.uk/your-claim](https://fscs.org.uk/your-claim)
 
@@ -163,4 +163,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
-[_v1.10 (2020-11-25)_](https://github.com/cuvva/terms/blob/terms-v1.10/terms.md)
+[_v1.11 (2021-01-27)_](https://github.com/cuvva/terms/blob/terms-v1.11/terms.md)
