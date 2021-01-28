@@ -12,7 +12,7 @@ These terms will be legally binding when you accept them. We'll make small chang
 
 ## 2. Our services
 
-We're a motor insurance intermediary offering innovative and attractive products (our **products**).
+We're a motor insurance intermediary offering innovative products (our **products**).
 
 Our products are underwritten by insurance companies (**insurers**), not Cuvva. To buy a product, you need to agree to a contract with the relevant insurer (**insurance contract**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
 
@@ -163,4 +163,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
-[_v1.11 (2021-01-27)_](https://github.com/cuvva/terms/blob/terms-v1.11/terms.md)
+[_v1.11 (2021-01-28)_](https://github.com/cuvva/terms/blob/terms-v1.11/terms.md)
