@@ -12,7 +12,7 @@ These terms will be legally binding when you accept them. We'll make small chang
 
 ## 2. Our services
 
-We're an independent insurance intermediary acting on your behalf to arrange motor insurance (our **products**).
+We're a motor insurance intermediary offering innovative products (our **products**).
 
 Our products are underwritten by insurance companies (**insurers**), not Cuvva. To buy a product, you need to agree to a contract with the relevant insurer (**insurance contract**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
 
@@ -26,11 +26,7 @@ Currently it's not possible to buy our products when you're outside the UK.
 
 Cuvva Limited is authorised and regulated by the FCA, as we described earlier. We're permitted to arrange non-investment general insurance contracts. You can check this on the FCA's Register by visiting [https://www.fca.org.uk/register](https://www.fca.org.uk/register) or by contacting the FCA on [0800 111 6768](tel:08001116768).
 
-Cuvva is responsible for arranging and administering our products. As part of this service, we want to give you an exceptional level of customer support at all times. But if you're unhappy with Cuvva, we have a formal complaints procedure. You can contact us via the app or by email at [support@cuvva.com](mailto:support@cuvva.com). Alternatively, you can write to us at the address listed above.
-
-The insurers are responsible for the underlying insurance policy and related claims. If you're unhappy with the insurers, you can contact them directly. If you need any further information, check out your insurance contract or get in touch with us.
-
-If we've had a chance to reply to your complaint and you're still unhappy, you can refer your complaint to the Financial Ombudsman Service free of charge. You can find out more here: [http://www.financial-ombudsman.org.uk/publications/consumer-leaflet.htm](http://www.financial-ombudsman.org.uk/publications/consumer-leaflet.htm).
+Cuvva is responsible for arranging and administering our products. As part of this service, we want to give you an exceptional level of customer support at all times. But if you're unhappy with Cuvva, we have a formal [complaints policy](https://www.cuvva.com/support/cuvva-complaints-policy).
 
 We're also covered by the Financial Services Compensation Scheme (FSCS). You may be entitled to compensation from the FSCS in the unlikely event we can't meet our obligations. Further information about the compensation scheme is available here: [https://fscs.org.uk/your-claim](https://fscs.org.uk/your-claim)
 
@@ -87,7 +83,7 @@ For all products, we'll tell you the insurance premiums, taxes and fees payable 
 
 We receive the whole of your payment on a risk transfer basis, as the agent of the insurer. This means that when you pay for your policy, your payment is deemed to have already been received by the insurer. Depending on the product, your payment may be held in a non-statutory trust bank account. These measures help us keep your payments safe.
 
-We're usually paid either by receiving a percentage of the insurance premium in commission from the insurer or service provider, or by receiving an admin fee from you for arranging the insurance, or both. We may earn interest on the money in our bank accounts, and additional amounts from Insurers to reflect the performance of the products.
+We're usually paid either by receiving a percentage of the insurance premium in commission from the insurer or service provider, or by receiving an admin fee from you for arranging the insurance, or both. We may earn interest on the money in our bank accounts, and additional amounts from insurers to reflect the performance of the products.
 
 ## 8. Correspondence
 
@@ -167,4 +163,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
-[_v1.10 (2020-11-25)_](https://github.com/cuvva/terms/blob/terms-v1.10/terms.md)
+[_v1.11 (2021-01-28)_](https://github.com/cuvva/terms/blob/terms-v1.11/terms.md)
