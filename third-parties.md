@@ -9,6 +9,7 @@ We may share your information with:
 	- payment handling
 	- product development
 	- risk modelling
+	- security testing
 	- soft credit checks
 	- transactional messages
 - underwriters of any policies you purchase
