@@ -10,6 +10,8 @@ These terms are provided by Cuvva Limited (**Cuvva, we, our**) a company incorpo
 
 These terms will be legally binding when you accept them. We'll make small changes from time-to-time, so come back and read these terms now and again. We'll notify you by email or by a notification in the app or website if we make material changes, so you can read and let us know if you accept the updated version.
 
+Blah
+
 ## 2. Our services
 
 We're a motor insurance intermediary offering innovative products (our **products**).
