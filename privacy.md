@@ -128,7 +128,7 @@ We won't usually charge a fee for providing that information, but we may do in c
 
 ### Right to rectification
 
-You can login to the app to correct any inaccuracies in the information on your account. Some information can also be updated by our support team - so please speak to us if you'd like any help.
+You can login to the app to correct any inaccuracies in parts of your account. Some information can only be updated by our support team - so please speak to us if you'd like any help. Changing information on your account could impact your pricing, and it could mean that we're no longer able to offer you one or more of our products.
 
 ### Right to restriction
 
