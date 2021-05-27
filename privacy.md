@@ -4,7 +4,7 @@ Here at Cuvva we take your privacy very seriously. This notice will tell you how
 
 We're Cuvva Limited (Cuvva, we, our, us). We're authorised and regulated by the Financial Conduct Authority (FCA) under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
-If you have any questions about our handling of personal information, the best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at 3 Angel Square, London, EC1V 1NY.
+If you have any questions about our handling of personal information, the best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at Cuvva Limited, 6th Floor, Senna Building, Gorsuch Place, London, E2 8JF.
 
 You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be contacted by email at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Eagle House, 163 City Road, London, EC1V 1NR. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
 
@@ -128,7 +128,7 @@ We won't usually charge a fee for providing that information, but we may do in c
 
 ### Right to rectification
 
-You can login to the app to correct any inaccuracies in the information on your account. Some information can also be updated by our support team - so please speak to us if you'd like any help.
+You can login to the app to correct any inaccuracies in parts of your account. Some information can only be updated by our support team - so please speak to us if you'd like any help. Changing information on your account could impact your pricing. It could also mean that we're no longer able to offer you one or more of our products.
 
 ### Right to restriction
 
