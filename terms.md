@@ -6,7 +6,7 @@ If you think there's a mistake or anything needs amending, please get in touch. 
 
 ## 1. General
 
-These terms are provided by Cuvva Limited (**Cuvva, we, our**) a company incorporated in England (no. 08907985) with registered office 3 Angel Square, London, EC1V 1NY. We're authorised and regulated by the Financial Conduct Authority under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
+These terms are provided by Cuvva Limited (**Cuvva, we, our**) a company incorporated in England (no. 08907985) with registered office at Cuvva Limited, 6th Floor, Senna Building, Gorsuch Place, London, E2 8JF. We're authorised and regulated by the Financial Conduct Authority under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
 These terms will be legally binding when you accept them. We'll make small changes from time-to-time, so come back and read these terms now and again. We'll notify you by email or by a notification in the app or website if we make material changes, so you can read and let us know if you accept the updated version.
 
