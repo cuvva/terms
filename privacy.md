@@ -12,8 +12,6 @@ You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be
 
 This means information which identifies you, or can be used with readily available information to identify you. We need personal information to see if we can cover you, to calculate the premium, and to help with any claims. So we'll collect anything we need via the app, our website and any other interactions you might have with us. You can find more detail on the information we ask for [here](https://github.com/cuvva/terms/blob/master/questions.md).
 
-We'll keep your personal information only for as long as we need to. If you've bought a policy with us, we need to keep your data for at least seven years. That's because you'll have purchased a regulated financial product, and because of possible future claims.
-
 ## Other information we collect
 
 We collect other information via the app, our website and other interactions you might have with us - to deliver the best service we can. All information we collect can be used to help us improve our service, for providing better customer support, and for calculating prices for your quotes. Calculating pricing requires automated decision-making and profiling.
@@ -43,6 +41,10 @@ Before we collect any location or telematics data, your device will ask for your
 We may use motion data to see if we can cover you, to determine accurately when you're driving, and to work out your pricing based on driving behaviour. We may also use that data to help with any claims.
 
 We won't use your location or motion data for anything we haven't listed above. You can change your consent for location and motion data at any time from your device's settings. But your ability to use us will be limited if we can't access the data we need.
+
+### Claims data
+
+We may collect claims data to help us improve our processes and those of our partners, to help with risk modelling, and to help with the detection and prevention of fraud.
 
 ### Soft credit checks
 
@@ -84,13 +86,11 @@ Be aware of the privacy policies of any third party service you use, even if you
 
 ## Other people's consent
 
-If you choose to share someone's information with us, it's your responsibility to ensure they consent, or someone with parental responsibility for them consents, to you doing so.
+If you choose to share someone's information with us, it's your responsibility to ensure they consent or someone with parental responsibility for them consents.
 
 ## Sharing data with other people
 
 If you use Cuvva with a car which belongs to, or is registered to, someone else, we may share your policy information with them - including the legal documents.
-
-If you arrange travel insurance for any companions, their policy documents will be emailed to them directly, to the email address(es) you provide us with. So it's important you provide the correct email address each time.
 
 ## Cookies
 
@@ -104,17 +104,27 @@ The parties we send your information to are obliged to comply with data protecti
 
 You can find out more on where your information goes [here](https://github.com/cuvva/terms/blob/master/third-parties.md).
 
+## How long we keep your information for
+
+We'll keep your information only for as long as there's a need to. 
+
+If you're a customer and you've bought a Cuvva policy, we need to keep your data for at least seven years from when your most recent policy expired. 
+
+If you've created a Cuvva account but you haven't bought a Cuvva policy, or if it's been more than seven years since your most recent Cuvva policy expired, we may be able to delete your account upon your request. There's more information on that below.
+
+If you've applied for a job at Cuvva and you weren't successful this time around, our systems will automatically delete your data after 12 months. 
+
 ## Your data rights
 
 ### Right to erasure
 
 If you'd like us to delete your information, just let us know. Again, the best the way to do that is usually via the app.
 
-Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. We need to keep your data for at least 7 years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover.
+Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. We need to keep your data for at least seven years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover. 
 
-In other cases, where we delete your account, we'll archive some information for the detection and prevention of fraud, to check the accuracy of any information we've provided (like quotes for example) or in case of any future disputes.
+There may be other reasons why we won't be able to delete your account even where you haven't bought a policy; for example any disputes, or for the detection and prevention of fraud.
 
-To do that, we'll retain the minimum information needed in the circumstances. That can include your conversation history, email address, name, date of birth, any legal terms you've agreed to or copies of quotes we've issued. That archived data won't be accessed unless it's needed for the above reasons, and it will be deleted after 7 years.
+In other cases and wherever we can, we will delete your account upon your request. By doing so, your personal data will be removed from our live systems. Your data will still exist in the electronic ether, but it will have been put beyond use. This means that your data would be far more difficult for us to access, and we will have no intention to use or access it again. There may be rare cases where we need to retrieve such archived information, for example if we're required to by a court order.
 
 ### Right to object
 
