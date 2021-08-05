@@ -1,20 +1,20 @@
-Here at Cuvva we take your privacy very seriously. This notice will tell you how we use your personal information.
+Here at Cuvva we take your privacy very seriously. This notice will tell you how we use your personal data.
 
 ## Who we are
 
 We're Cuvva Limited (Cuvva, we, our, us). We're authorised and regulated by the Financial Conduct Authority (FCA) under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
-If you have any questions about our handling of personal information, the best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at Cuvva Limited, 6th Floor, Senna Building, Gorsuch Place, London, E2 8JF.
+If you have any questions about our handling of personal data, the best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at Cuvva Limited, 6th Floor, Senna Building, Gorsuch Place, London, E2 8JF.
 
 You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be contacted by email at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Eagle House, 163 City Road, London, EC1V 1NR. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
 
-## Your personal information
+## Your personal data
 
-This means information which identifies you, or can be used with readily available information to identify you. We need personal information to see if we can cover you, to calculate the premium, and to help with any claims. So we'll collect anything we need via the app, our website and any other interactions you might have with us. You can find more detail on the information we ask for [here](https://github.com/cuvva/terms/blob/master/questions.md).
+This means information which identifies you, or can be used with readily available information to identify you. We need personal data to see if we can cover you, to calculate the premium, and to help with any claims. So we'll collect anything we need via the app, our website and any other interactions you might have with us. You can find more detail on the information we ask for [here](https://github.com/cuvva/terms/blob/master/questions.md).
 
 ## Other information we collect
 
-We collect other information via the app, our website and other interactions you might have with us - to deliver the best service we can. All information we collect can be used to help us improve our service, for providing better customer support, and for calculating prices for your quotes. Calculating pricing requires automated decision-making and profiling.
+We collect other information via the app, our website and other interactions you might have with us to deliver the best service we can. All information we collect can be used to help us improve our service, for providing better customer support, and for calculating prices for your quotes. Calculating pricing requires automated decision-making and profiling.
 
 ### Device information
 
@@ -42,9 +42,11 @@ We may use motion data to see if we can cover you, to determine accurately when 
 
 We won't use your location or motion data for anything we haven't listed above. You can change your consent for location and motion data at any time from your device's settings. But your ability to use us will be limited if we can't access the data we need.
 
-### Claims data
+### Quotes, pricing and claims data
 
-We may collect claims data to help us improve our processes and those of the relevant insurer, to help with risk modelling, and to help with the detection and prevention of fraud.
+We may collect data on quotes, pricing and claims to help us improve our pricing, processes and those of the relevant insurer, to help with risk modelling, and to help with the detection and prevention of fraud.
+
+By continuing, you acknowledge that quotes, pricing and claims data belongs to us (to the extent that it doesn't include your personal data) and that we are entitled to retain data relating to your quotes, policies, telematics, claims and other information as long as is necessary and thereafter on an anonymised basis (see "How long we keep your information for" below)."
 
 ### Soft credit checks
 
@@ -92,6 +94,8 @@ If you choose to share someone's information with us, it's your responsibility t
 
 If you use Cuvva with a car which belongs to, or is registered to, someone else, we may share your policy information with them - including the legal documents.
 
+We may share our data on your quotes, price, location, telematics, claims and other information with our underwriters and third party providers (such as telematics service providers). Where necessary, this will include your personal data (such as where personal data is needed to arrange, administer and underwrite your policy). Where practicable, we will anonymise your personal data when doing so.
+
 ## Cookies
 
 As with most websites, we use cookies. You can find out more, including how to opt out in our cookie policy, which you can find on our website.
@@ -106,11 +110,17 @@ You can find out more on where your information goes [here](https://github.com/c
 
 ## How long we keep your information for
 
-We'll keep your information only for as long as there's a need to. 
+We'll keep your data only for as long as there's a need to. This includes retaining your personal data for as long as is necessary to:
 
-If you're a customer and you've bought a Cuvva policy, we need to keep your data for at least seven years from when your most recent policy expired. 
+*respond to any questions, complaints or claims made by you or on your behalf;
+*to show that we treated you fairly;
+*to keep records required by law.
 
-If you've created a Cuvva account but you haven't bought a Cuvva policy, or if it's been more than seven years since your most recent Cuvva policy expired, we may be able to delete your account upon your request. There's more information on that below.
+If you're a customer and you've bought a Cuvva policy, we need to keep your data for at least seven years from when your most recent policy expired, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later.
+
+When it's no longer necessary to keep your personal data, we'll delete or anonymise it. After this period, we're entitled to retain data relating to quotes, policies, telematics, claims and other information on an anonymised basis, which shall belong to us to the extent it doesn't include your personal data.
+
+If you've created a Cuvva account but you haven't bought a Cuvva policy, or if it's been more than seven years since your most recent Cuvva policy expired or finally decided or settled claim (whichever is later), we may be able to delete your account upon your request. There's more information on that below.
 
 If you've applied for a job at Cuvva and you weren't successful this time around, our systems will automatically delete your data after 12 months. 
 
