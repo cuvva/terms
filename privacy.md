@@ -112,9 +112,9 @@ You can find out more on where your information goes [here](https://github.com/c
 
 We'll keep your data only for as long as there's a need to. This includes retaining your personal data for as long as is necessary to:
 
-*respond to any questions, complaints or claims made by you or on your behalf;
-*to show that we treated you fairly;
-*to keep records required by law.
+* respond to any questions, complaints or claims made by you or on your behalf;
+* to show that we treated you fairly;
+* to keep records required by law.
 
 If you're a customer and you've bought a Cuvva policy, we need to keep your data for at least seven years from when your most recent policy expired, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later.
 
