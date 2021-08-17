@@ -122,7 +122,7 @@ When it's no longer necessary to keep your personal data, we'll delete or anonym
 
 If you've created a Cuvva account but you haven't bought a Cuvva policy, or if it's been more than seven years since your most recent Cuvva policy expired or finally decided or settled claim (whichever is later), we may be able to delete your account upon your request. There's more information on that below.
 
-If you've applied for a job at Cuvva and you weren't successful this time around, our systems will automatically delete your data after 12 months. 
+If you've applied for a job at Cuvva and you weren't successful this time around, our systems will automatically delete your data after 12 months.
 
 ## Your data rights
 
@@ -130,7 +130,7 @@ If you've applied for a job at Cuvva and you weren't successful this time around
 
 If you'd like us to delete your information, just let us know. Again, the best way to do that is usually via the app.
 
-Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. We need to keep your data for at least seven years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover. 
+Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. We need to keep your data for at least seven years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover.
 
 There may be other reasons why we won't be able to delete your account even where you haven't bought a policy; for example any disputes, or for the detection and prevention of fraud.
 
@@ -148,7 +148,7 @@ We won't usually charge a fee for providing that information, but we may do in c
 
 ### Right to rectification
 
-You can login to the app to correct any inaccuracies in parts of your account. Some information can only be updated by our support team - so please speak to us if you'd like any help. Changing information on your account could impact your pricing, and it could mean that we're no longer able to offer you one or more of our products. 
+You can login to the app to correct any inaccuracies in parts of your account. Some information can only be updated by our support team - so please speak to us if you'd like any help. Changing information on your account could impact your pricing, and it could mean that we're no longer able to offer you one or more of our products.
 
 ### Right to restriction
 
