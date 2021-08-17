@@ -170,4 +170,4 @@ Please get in touch if you need to talk to us about anything, and we'll do our b
 
 If you've made a complaint and are still unhappy, you can speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.12 (2020-11-09)_](https://github.com/cuvva/terms/blob/privacy-v1.12/privacy.md)
+[_v1.13 (2021-08-17)_](https://github.com/cuvva/terms/blob/privacy-v1.13/privacy.md)
