@@ -173,7 +173,7 @@ We keep our privacy notice under regular review, and we'll tell you when we make
 
 ## Questions, comments or concerns
 
-Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at privacy@cuvva.com, or write to us at 6th floor, Senna Building, Gorsuch Place, London, E2 8JF.
+Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at 6th floor, Senna Building, Gorsuch Place, London, E2 8JF.
 
 If you've made a complaint and you're unhappy with our reply, you're entitled to speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
