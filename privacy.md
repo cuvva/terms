@@ -1,24 +1,24 @@
 We take your privacy very seriously. We promise that:
 
-We __never sell__ your data, or share it with anyone who doesn’t need it as part of your Cuvva experience.
+We __never sell__ your data, or share it with anyone who doesn't need it as part of your Cuvva experience.
 
 We were tech people before we were insurance people. So our systems are __highly secure__.
 
-We’re __committed to transparency__. This notice tells you all about how we use your personal data.
+We're __committed to transparency__. This notice tells you all about how we use your personal data.
 
 ## Who we are
 
 We're Cuvva Limited (Cuvva, we, our, us). We're authorised and regulated by the Financial Conduct Authority (FCA) under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
-We have an independent Data Protection Officer too, they’re called Aphaia Ltd. You can contact them at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Eagle House, 163 City Road, London, EC1V 1NR. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
+We have an independent Data Protection Officer too, they're called Aphaia Ltd. You can contact them at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Eagle House, 163 City Road, London, EC1V 1NR. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
 
 ## Your personal data, and other information
 
-Personal data means information which can be used to identify you. We need personal data to see if we can cover you, to calculate your pricing, to help with any claims, and to deliver the best experience. 
+Personal data means information which can be used to identify you. We need personal data to see if we can cover you, to calculate your pricing, to help with any claims, and to deliver the best experience.
 
-We see if we can cover you, and calculate your pricing automatically. You can always chat to a human about any automated decision-making in the app. We’re available 24/7, everyday. 
+We see if we can cover you, and calculate your pricing automatically. You can always chat to a human about any automated decision-making in the app. We're available 24/7, everyday.
 
-As with all insurance, working out your pricing requires profiling. This means your pricing will be influenced by things like your age, job and location at the time of your quote. 
+As with all insurance, working out your pricing requires profiling. This means your pricing will be influenced by things like your age, job and location at the time of your quote.
 
 We'll collect anything we need via the app, our website and any other interactions you might have with us. There's more detail on the information we ask for [here](https://github.com/cuvva/terms/blob/master/questions.md).
 
@@ -26,9 +26,9 @@ We'll collect anything we need via the app, our website and any other interactio
 
 To help us provide better customer support, we may record the type of device or browser you use. This can include the model, operating system, software, and language.
 
-You can control our ability to use device advertising identifiers in your device's settings. If you give us your permission, we may use device advertising identifiers to see how you found us. This could let us know which of our ads you saw before downloading our app (like a Facebook ad, or whether you found us via a Google search). 
+You can control our ability to use device advertising identifiers in your device's settings. If you give us your permission, we may use device advertising identifiers to see how you found us. This could let us know which of our ads you saw before downloading our app (like a Facebook ad, or whether you found us via a Google search).
 
-If you need any guidance on your device's settings, just let us know and we’ll be happy to help.
+If you need any guidance on your device's settings, just let us know and we'll be happy to help.
 
 ### Communication
 
@@ -36,7 +36,7 @@ Our conversations (including chats, emails and phone calls) may be recorded or m
 
 ### System logs
 
-To help us provide better customer support, we may gather access information when you use our services. This can include IP addresses, access dates and times, system activity including app malfunction or screens viewed. 
+To help us provide better customer support, we may gather access information when you use our services. This can include IP addresses, access dates and times, system activity including app malfunction or screens viewed.
 
 ### Driving licence data
 
@@ -44,11 +44,11 @@ Once you've entered your driving licence details and agreed to the [Fair Obtaini
 
 ### Location, motion and telematics data
 
-Before we collect any location, motion or telematics data, your device will ask for your consent. 
+Before we collect any location, motion or telematics data, your device will ask for your consent.
 
 We need your location to offer you a quote. It helps us prevent misuse, and lets us know you're purchasing from the right place - bearing in mind you can only purchase our products while you're in the UK. Your location can be used to determine risk, and will be recorded on your profile.
 
-We may use motion and telematics data to see if we can cover you, to determine accurately when you're driving, to work out your pricing, and to help with any disputes or claims. You may be able to get better pricing if the data shows that you’re a good driver.
+We may use motion and telematics data to see if we can cover you, to determine accurately when you're driving, to work out your pricing, and to help with any disputes or claims. You may be able to get better pricing if the data shows that you're a good driver.
 
 We won't use your location, motion or telematics data for anything we haven't listed above. You can change your consent at any time from your device's settings. But your ability to use us will be limited if we can't access the data we need.
 
@@ -56,7 +56,7 @@ We won't use your location, motion or telematics data for anything we haven't li
 
 We may collect data on quotes, pricing and claims. This can help to improve our pricing, our processes and those of the relevant insurer, to help with risk modelling, and to help with the detection and prevention of fraud.
 
-Your personal data belongs to you. Any quote, pricing or claims data that isn’t your personal data belongs to us. In some cases, we’ll anonymise information so that it can no longer be used to identify you. 
+Your personal data belongs to you. Any quote, pricing or claims data that isn't your personal data belongs to us. In some cases, we'll anonymise information so that it can no longer be used to identify you.
 
 ### Soft credit checks
 
@@ -68,7 +68,7 @@ Soft credit checks don't leave a visible footprint on your credit file. You can 
 
 ### Publicly available information
 
-We may use publicly available information, or information in plain view, to prevent misuse. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information. 
+We may use publicly available information, or information in plain view, to prevent misuse. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information.
 
 ### Focus groups, feedback and reviews
 
@@ -96,15 +96,15 @@ If you choose to share someone's information with us, it's your responsibility t
 
 If you use Cuvva with a car which belongs to, or is registered to, someone else, we may share your policy information with them - including the legal documents.
 
-We may share our data on your quotes, price, location, telematics, claims and other information with our underwriters and third party providers (such as telematics service providers). This will include your personal data where necessary (such as where personal data is needed to arrange, administer and underwrite your policy). We’ll anonymise your personal data where practicable.
+We may share our data on your quotes, price, location, telematics, claims and other information with our underwriters and third party providers (such as telematics service providers). This will include your personal data where necessary (such as where personal data is needed to arrange, administer and underwrite your policy). We'll anonymise your personal data where practicable.
 
-We use third-party fraud detection providers that combine data of various claims using artificial intelligence and machine learning. This helps us to fight fraud and keep our pricing competitive. 
+We use third-party fraud detection providers that combine data of various claims using artificial intelligence and machine learning. This helps us to fight fraud and keep our pricing competitive.
 
 The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may be processed by staff outside the EEA who work for us or one of our suppliers.
 
-Where the data is sent outside the EU/EEA, the protection may be based on standard clauses verified by the European Commission and other data security safeguards. Or there might be an adequacy decision in place guaranteeing an equivalent degree of data protection. 
+Where the data is sent outside the EU/EEA, the protection may be based on standard clauses verified by the European Commission and other data security safeguards. Or there might be an adequacy decision in place guaranteeing an equivalent degree of data protection.
 
-The parties we send your information to are obliged to comply with data protection laws, regulations and standards. Each of them signs a contract with Cuvva, giving assurances over the security and correct treatment of your information. 
+The parties we send your information to are obliged to comply with data protection laws, regulations and standards. Each of them signs a contract with Cuvva, giving assurances over the security and correct treatment of your information.
 
 You can find out more on where your information goes [here](https://github.com/cuvva/terms/blob/master/third-parties.md).
 
@@ -112,28 +112,28 @@ You can find out more on where your information goes [here](https://github.com/c
 
 We'll keep your information only for as long as there's a need to. This includes retaining your personal data to:
 
-- Respond to any questions, complaints or claims made by you or on your behalf; 
+- Respond to any questions, complaints or claims made by you or on your behalf;
 - Detect and prevent misuse and fraud;
-- Show that we treated you fairly; 
+- Show that we treated you fairly;
 - Keep records required by law.
 
-If you're a customer and you've bought a Cuvva policy, we need to keep your data for at least seven years from when your most recent policy expired, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later. 
+If you're a customer and you've bought a Cuvva policy, we need to keep your data for at least seven years from when your most recent policy expired, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later.
 
-We need to keep it for that period of time in case of any claims against you, any disputes, or anything else meaning we need to show records of your cover. As an example, someone could make a claim against you some time after you took your policy out. Being able to refer to your records can help to defend against claims. 
+We need to keep it for that period of time in case of any claims against you, any disputes, or anything else meaning we need to show records of your cover. As an example, someone could make a claim against you some time after you took your policy out. Being able to refer to your records can help to defend against claims.
 
-If the above doesn’t apply, we may be able to delete your account upon your request. There's more information on that below.
+If the above doesn't apply, we may be able to delete your account upon your request. There's more information on that below.
 
 ## How we keep data safe
 
 Cuvva and its databases operate within the Amazon Web Services and Google Cloud. Their computers are housed in secure data centres with heavily restricted access, and numerous levels of security, to keep your data safe.
 
-Your personal data is stored securely behind two factor authentication. We hold all data on isolated networks, transmit data fully encrypted, and isolate sensitive data from other areas of our system. 
+Your personal data is stored securely behind two factor authentication. We hold all data on isolated networks, transmit data fully encrypted, and isolate sensitive data from other areas of our system.
 
 We arrange independent and expert penetration testing on our systems, which helps us maintain first-class information security.
 
 ## Your data rights
 
-## Right to erasure
+### Right to erasure
 
 If you'd like us to delete your information, just let us know. Again, the best way to do that is usually via the app.
 
@@ -141,23 +141,23 @@ Bear in mind that if you've bought a policy with us, we may not be able to delet
 
 There may be other reasons why we won't be able to delete your account where you haven't bought a policy; for example any disputes, or for the detection and prevention of fraud.
 
-In other cases and wherever we can, we’ll delete your account upon your request. This will mean that all of your data is removed from our live systems. Your data will still exist in our archive. But we will have marked your records so that they appear to have never existed. 
+In other cases and wherever we can, we'll delete your account upon your request. This will mean that all of your data is removed from our live systems. Your data will still exist in our archive. But we will have marked your records so that they appear to have never existed.
 
-## Right to object
+### Right to object
 
 You have the right to object to the processing of your data in certain circumstances. For example, you have the right to stop your data being used for direct marketing. We don't send many marketing emails. But if you've opted in to our updates and change your mind - you can unsubscribe at any time.
 
-## Right to portability
+### Right to portability
 
 You have a right to get a copy of the personal data we hold about you. We'll provide your data in a standard portable format. If you have any trouble understanding the data, let us know and we'll help. The best way to ask is usually via the app.
 
 We won't usually charge a fee for providing that information, but we may do in certain circumstances. For example, if you make repetitive requests for information, we may charge a small fee or refuse your request.
 
-## Right to rectification
+### Right to rectification
 
 You can login to the app to correct any inaccuracies in parts of your account. Some information can only be updated by our support team - so please speak to us if you'd like any help. Changing information on your account could impact your pricing, and it could mean that we're no longer able to offer you one or more of our products.
 
-## Right to restriction
+### Right to restriction
 
 You have a right to restrict the processing of your personal data in certain circumstances. This means you can limit the way we use your data.
 
@@ -175,6 +175,6 @@ We keep our privacy notice under regular review, and we'll tell you when we make
 
 Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at privacy@cuvva.com, or write to us at 6th floor, Senna Building, Gorsuch Place, London, E2 8JF.
 
-If you've made a complaint and you’re unhappy with our reply, you’re entitled to speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
+If you've made a complaint and you're unhappy with our reply, you're entitled to speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
 [_v1.13 (2021-08-17)_](https://github.com/cuvva/terms/blob/privacy-v1.13/privacy.md)
