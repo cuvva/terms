@@ -14,6 +14,10 @@ These terms will be legally binding when you accept them. We'll make small chang
 
 We're a motor insurance intermediary offering innovative products (our **products**).
 
+We offer short-term motor insurance products, which can provide cover from 1 hour up to 28 days. 
+
+We also offer monthly subscription motor insurance products, which can provide cover on a rolling basis. Please check the subscription specific terms and conditions for more information on how that product works. 
+
 Our products are underwritten by insurance companies (**insurers**), not Cuvva. To buy a product, you need to agree to a contract with the relevant insurer (**insurance contract**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
 
 **Cuvva doesn't give personal recommendations or advice. Cuvva hasn't carried out an analysis of the market to identify the best possible offer for you.** You'll need to make your own choice on whether the product is suitable for your needs.
@@ -32,23 +36,23 @@ We're also covered by the Financial Services Compensation Scheme (FSCS). You may
 
 ## 4. Information about the Insurers and Purchasing Process
 
-All transactions to buy products are completed via our app. Before payment you'll be given a quote which will be valid for a limited period, as shown in our app. You should only go ahead to the payment screen and then authorise payment if you accept the quote, the terms and the insurance contract, and want Cuvva to collect money from you.
+All transactions to buy products are completed via our app or website. Before payment you'll be given a quote which will be valid for a limited period. You should only go ahead to the payment screen and then authorise payment if you accept the quote, the terms and the insurance contract, and want Cuvva to collect money from you.
 
 After you authorise payment, we may carry out final checks which can result in a failed purchase. If this happens and results in an uncaptured payment, we'll automatically release the payment within a few minutes. But it may take up to 7 days to be processed by your bank.
 
-Before buying products via our app, you should read the relevant insurance contract with the insurer, which is provided within the app. The insurance contract covers any terms and conditions between you and the insurer (whereas these terms are between you and Cuvva).
+Before buying products, you should read the relevant insurance contract with the insurer. The insurance contract covers any terms and conditions between you and the insurer (whereas these terms are between you and Cuvva).
 
-**You can only use our app to purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for a motor insurance product, the product may not be valid.
+**You can only purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for a motor insurance product, the product may not be valid.
 
 We reserve the right to charge you reasonable costs for chargebacks raised in your name, or against any payment cards you've used.
 
-We can't make changes to a product once it's been purchased. So if you purchase a motor insurance product, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app, before purchasing a new motor insurance product.
+We can't make changes to short-term motor insurance products once they've been purchased. You wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote before purchasing a new motor insurance product.
 
 Referrals are intended for people you know. So please don't post your referral code publicly. We might limit how many people can redeem your code, and change your code, if we find it posted publicly.
 
 The expiry date of any discount will depend on the promotion you're looking to benefit from. But no discount will last for more than 12 months from the date of redemption. If you have any questions, including when the deadlines are, please chat to us and we'll help.
 
-Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app being unavailable.
+Cuvva can't guarantee that our app or website will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app or website being unavailable.
 
 ## 5. Your Responsibility for Accurate information
 
@@ -133,7 +137,7 @@ Our office hours are Monday to Friday, 09:00 to 18:00 UK time. There may be a de
 
 ## 15. Privacy notice
 
-You can find details of how we treat your personal data in our privacy notice, which you can find in our app.
+You can find details of how we treat your personal data in our privacy notice, which you can find in our app and on our website.
 
 ## 16. Money Laundering &amp; Proceeds of Crime
 
@@ -153,7 +157,7 @@ Our failure or delay in enforcing or partially enforcing any provision of the te
 
 ## 20. Permission to use any relevant vehicle
 
-By using the app you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle.
+By purchasing Cuvva products you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle.
 
 ## 21. Insurer solvency
 
