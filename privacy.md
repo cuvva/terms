@@ -177,4 +177,4 @@ Please get in touch if you have any questions, and we'll do our best to help. Th
 
 If you've made a complaint and you're unhappy with our reply, you're entitled to speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.14 (2022-04-19)_](https://github.com/cuvva/terms/blob/privacy-v1.14/privacy.md)
+[_v1.15 (2022-04-20)_](https://github.com/cuvva/terms/blob/privacy-v1.15/privacy.md)

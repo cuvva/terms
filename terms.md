@@ -163,4 +163,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
-[_v1.11 (2021-04-19)_](https://github.com/cuvva/terms/blob/terms-v1.11/terms.md)
+[_v1.12 (2022-04-20)_](https://github.com/cuvva/terms/blob/terms-v1.12/terms.md)
