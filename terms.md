@@ -2,7 +2,7 @@
 
 Please read these terms and conditions (**terms**) carefully before you use Cuvva. They'll tell you who we are, how we provide products to you, how we might change these terms, how you or we could end our agreement to these terms, what to do if there's a problem and other important information.
 
-If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com).
+If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a couple of minutes 7 days a week, 365 days a year, between **6am-1am**.
 
 ## 1. General
 
@@ -97,7 +97,7 @@ It's important to ensure the details of any vehicle you want to insure match the
 
 All UK car insurance policies are automatically added to the "Motor Insurance Database" which is used by the police and ANPR cameras to confirm cars are driving legally. Although Cuvva sends information to the MID faster than other companies, unfortunately, the database is slow to update, and it's possible your policy will have expired before it shows up on the MID.
 
-Your policy documents (found in app or by email) are proof of your cover. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, 24/7 and each day of the year, is usually via the app or by email at support@cuvva.com.
+Your policy documents (found in app or by email) are proof of your cover. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via the app or by email at support@cuvva.com. We’re here to reply within a couple of minutes 7 days a week, 365 days a year, between **6am-1am**.
 
 Please ensure the authorities double-check your policy documents, and if there's any doubt, they should contact Cuvva. Once your car is impounded you typically have to pay a high fee for the vehicle's release.
 
@@ -129,7 +129,7 @@ If we don't meet our obligations under these terms due to events outside of our 
 
 Usually all communications are made via the app, but we may also contact you by email, letter, telephone or face-to-face. We can't guarantee your instructions have been received unless we've acknowledged them. We reserve the right to refuse instructions but, if we do, we'll let you know.
 
-Our office hours are Monday to Friday, 09:00 to 18:00 UK time. There may be a delay in responding to instructions if they're received outside of office hours. But you can speak with us in the app 24 hours a day, each day of the year, and we'll get back to you as soon as we can.
+Our office hours are Monday to Friday, 09:00 to 18:00 UK time. There may be a delay in responding to instructions if they're received outside of office hours. But you can speak with us in the app between 6am and 1am, each day of the year, and we'll get back to you as soon as we can.
 
 ## 15. Privacy notice
 
@@ -163,4 +163,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
-[_v1.11 (2021-01-28)_](https://github.com/cuvva/terms/blob/terms-v1.11/terms.md)
+[_v1.11 (2021-04-19)_](https://github.com/cuvva/terms/blob/terms-v1.11/terms.md)

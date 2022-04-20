@@ -42,17 +42,3 @@ We'll also get the following pieces of information automatically from our vehicl
 - Vehicle value
 - Steering wheel placement
 
-## For travel insurance
-
-As well as some details about you, we'll ask for:
-
-- Destinations
-- Dates of your trip
-- Health details, via in-app questions
-
-If you're arranging travel insurance for any companions, please make sure you have their consent to provide their data. We'll ask you for their:
-
-- Name
-- Age
-- Email address or telephone number
-- Health details, by answering questions in the app

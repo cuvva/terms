@@ -16,7 +16,7 @@ We have an independent Data Protection Officer too, they're called Aphaia Ltd. Y
 
 Personal data means information which can be used to identify you. We need personal data to see if we can cover you, to calculate your pricing, to help with any claims, and to deliver the best experience.
 
-We see if we can cover you, and calculate your pricing automatically. You can always chat to a human about any automated decision-making in the app. We're available 24/7, everyday.
+We see if we can cover you, and calculate your pricing automatically. You can always chat to a human about any automated decision-making in the app. We're available 6am-1am, everyday.
 
 As with all insurance, working out your pricing requires profiling. This means your pricing will be influenced by things like your age, job and location at the time of your quote.
 
@@ -177,4 +177,4 @@ Please get in touch if you have any questions, and we'll do our best to help. Th
 
 If you've made a complaint and you're unhappy with our reply, you're entitled to speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
 
-[_v1.14 (2021-12-14)_](https://github.com/cuvva/terms/blob/privacy-v1.14/privacy.md)
+[_v1.14 (2022-04-19)_](https://github.com/cuvva/terms/blob/privacy-v1.14/privacy.md)
