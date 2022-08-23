@@ -2,7 +2,7 @@
 
 Please read these terms and conditions (**terms**) carefully before you use Cuvva. They'll tell you who we are, how we provide products to you, how we might change these terms, how you or we could end our agreement to these terms, what to do if there's a problem and other important information.
 
-If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a couple of minutes 7 days a week, 365 days a year, between **6am-1am**.
+If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a few minutes 7 days a week, 365 days a year, between **6am-1am**.
 
 ## 1. General
 
@@ -42,13 +42,13 @@ Before buying our products, you should read the relevant insurance contract with
 
 We reserve the right to charge you reasonable costs for chargebacks raised in your name, or against any payment cards you've used.
 
-We can't make changes to a product once it's been purchased. So if you purchase a motor insurance product, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app or website, before purchasing a new motor insurance product.
+We can't make changes to a short-term motor insurance product once it's been purchased. So if you purchase short-term motor insurance, from 1 hour up to 28 days, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle in that case, you would need to get a new quote in the app or website, before purchasing a new motor insurance product.
 
 Referrals are intended for people you know. So please don't post your referral links publicly. We might limit how many people can redeem your links if we find any posted publicly.
 
 The expiry date of any discount will depend on the promotion you're looking to benefit from. But no discount will last for more than 12 months from the date of redemption. If you have any questions, including when the deadlines are, please chat to us and we'll help.
 
-Cuvva can't guarantee that our app or website will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app or website being unavailable.
+Cuvva can't guarantee that our app or website will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app or website being unavailable or not functioning properly.
 
 ## 5. Your Responsibility for Accurate information
 
@@ -83,7 +83,7 @@ For all products, we'll tell you the insurance premiums, taxes and fees payable 
 
 We receive the whole of your payment on a risk transfer basis, as the agent of the insurer. This means that when you pay for your policy, your payment is deemed to have already been received by the insurer. Depending on the product, your payment may be held in a non-statutory trust bank account. These measures help us keep your payments safe.
 
-We're usually paid either by receiving a percentage of the insurance premium in commission from the insurer or service provider, or by receiving an admin fee from you for arranging the insurance, or both. We may earn interest on the money in our bank accounts, and additional amounts from insurers to reflect the performance of the products.
+We're usually paid by receiving an administration fee from you for arranging the insurance, or we can be paid by receiving a percentage of the insurance premium in commission from the insurance or service provider, or both. We may earn interest on the money in our bank accounts, and additional amounts from insurers to reflect the performance of the products.
 
 ## 8. Correspondence
 
@@ -97,7 +97,7 @@ It's important to ensure the details of any vehicle you want to insure match the
 
 All UK car insurance policies are automatically added to the "Motor Insurance Database" which is used by the police and ANPR cameras to confirm cars are driving legally. Although Cuvva sends information to the MID faster than other companies, unfortunately, the database is slow to update, and it's possible your policy will have expired before it shows up on the MID.
 
-Your policy documents (found in app, website, or by email) are proof of your cover. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via app / web chat or by email at support@cuvva.com. We’re here to reply within a couple of minutes 7 days a week, 365 days a year, between **6am-1am**.
+Your policy documents (found in app, website, or by email) are proof of your cover. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via app / web chat or by email at support@cuvva.com. We’re here to reply within a few of minutes 7 days a week, 365 days a year, between **6am-1am**.
 
 Please ensure the authorities double-check your policy documents. If there's any doubt, they should contact Cuvva. Once your car is impounded you typically have to pay a high fee for the vehicle's release.
 
@@ -143,7 +143,7 @@ This contract is between you and us. Nothing in these terms will give someone wh
 
 ## 18. Severability
 
-If any part of these terms is or becomes illegal, invalid or unenforceable then that part will be considered to be removed from these terms. It won't affect the legality, validity or enforceability of the remaining terms.
+If any part of these terms is or becomes illegal, invalid or unenforceable then that part will be deemed removed from these terms. It won't affect the legality, validity or enforceability of the remaining terms.
 
 ## 19. Waiver
 
