@@ -2,7 +2,7 @@
 
 Please read these terms and conditions (**terms**) carefully before you use Cuvva. They'll tell you who we are, how we provide products to you, how we might change these terms, how you or we could end our agreement to these terms, what to do if there's a problem and other important information.
 
-If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a couple of minutes 7 days a week, 365 days a year, between **6am-1am**.
+If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a few minutes 7 days a week, 365 days a year, between **6am-1am**.
 
 ## 1. General
 
@@ -32,23 +32,23 @@ We're also covered by the Financial Services Compensation Scheme (FSCS). You may
 
 ## 4. Information about the Insurers and Purchasing Process
 
-All transactions to buy products are completed via our app. Before payment you'll be given a quote which will be valid for a limited period, as shown in our app. You should only go ahead to the payment screen and then authorise payment if you accept the quote, the terms and the insurance contract, and want Cuvva to collect money from you.
+All transactions to buy products are completed via our app, or via our website. Before payment you'll be given a quote which will be valid for a limited period. You should only go ahead and authorise payment if you accept the quote, the terms and the insurance contract, and want Cuvva to collect money from you.
 
 After you authorise payment, we may carry out final checks which can result in a failed purchase. If this happens and results in an uncaptured payment, we'll automatically release the payment within a few minutes. But it may take up to 7 days to be processed by your bank.
 
-Before buying products via our app, you should read the relevant insurance contract with the insurer, which is provided within the app. The insurance contract covers any terms and conditions between you and the insurer (whereas these terms are between you and Cuvva).
+Before buying our products, you should read the relevant insurance contract with the insurer. The insurance contract covers any terms and conditions between you and the insurer (whereas these terms are between you and Cuvva).
 
-**You can only use our app to purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for a motor insurance product, the product may not be valid.
+**You can only use our app or website to purchase motor insurance for yourself.** You can't purchase motor insurance on behalf of another person. If you represent yourself as another person to apply for a motor insurance product, the product may not be valid.
 
 We reserve the right to charge you reasonable costs for chargebacks raised in your name, or against any payment cards you've used.
 
-We can't make changes to a product once it's been purchased. So if you purchase a motor insurance product, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle, you would need to get a new quote in the app, before purchasing a new motor insurance product.
+We can't make changes to a short-term motor insurance product once it's been purchased. So if you purchase short-term motor insurance, from 1 hour up to 28 days, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle in that case, you would need to get a new quote in the app or website, before purchasing a new motor insurance product.
 
-Referrals are intended for people you know. So please don't post your referral code publicly. We might limit how many people can redeem your code, and change your code, if we find it posted publicly.
+Referrals are intended for people you know. So please don't post your referral links publicly. We might limit how many people can redeem your links if we find any posted publicly.
 
 The expiry date of any discount will depend on the promotion you're looking to benefit from. But no discount will last for more than 12 months from the date of redemption. If you have any questions, including when the deadlines are, please chat to us and we'll help.
 
-Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app being unavailable.
+Cuvva can't guarantee that our app or website will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app or website being unavailable or not functioning properly.
 
 ## 5. Your Responsibility for Accurate information
 
@@ -56,7 +56,7 @@ In the case of all insurance, the validity of cover and the amount you pay depen
 
 You must tell us about anything which may affect the product, insurance policy or quote. This could mean telling us about any previous incidents you've been involved in, or if there's any reason you may not be able to legally drive the vehicle.
 
-You can update your details yourself or speak with us in the app, by email, or in writing. All communications are recorded - see our privacy notice for more information.
+You can update your details yourself or chat with us in the app, via the website, by email, or in writing. All communications are recorded - see our privacy notice for more information.
 
 If you're not sure whether you need to tell us something - please ask. We're happy to help!
 
@@ -79,33 +79,33 @@ If you purchase our products, the details of your cancellation rights are includ
 
 ## 7. How we get paid
 
-For all products, we'll tell you the insurance premiums, taxes and fees payable in our quote summary which you can see in the app before purchase.
+For all products, we'll tell you the insurance premiums, taxes and fees payable in our quote summary which you can see before purchase.
 
 We receive the whole of your payment on a risk transfer basis, as the agent of the insurer. This means that when you pay for your policy, your payment is deemed to have already been received by the insurer. Depending on the product, your payment may be held in a non-statutory trust bank account. These measures help us keep your payments safe.
 
-We're usually paid either by receiving a percentage of the insurance premium in commission from the insurer or service provider, or by receiving an admin fee from you for arranging the insurance, or both. We may earn interest on the money in our bank accounts, and additional amounts from insurers to reflect the performance of the products.
+We're usually paid by receiving an administration fee from you for arranging the insurance, or we can be paid by receiving a percentage of the insurance premium in commission from the insurance or service provider, or both. We may earn interest on the money in our bank accounts, and additional amounts from insurers to reflect the performance of the products.
 
 ## 8. Correspondence
 
-Prior to buying your product you'll be able to review the insurance contract in long format. You'll also be able to review a summary, called an Insurance Product Information Document (IPID for short). Following purchase, you'll get an email with your insurance certificate and insurance contract for your policy. The email will also include a breakdown of what you've paid and some other useful information, like how to contact us if you have an accident. These documents are also visible within the app.
+Prior to buying your product you'll be able to review the insurance contract in long format. You'll also be able to review a summary, called an Insurance Product Information Document (IPID for short). Following purchase, you'll get an email with your insurance certificate and insurance contract for your policy. The email will also include a breakdown of what you've paid and some other useful information, like how to contact us if you have an accident. You can find your documents within your Cuvva account too.
 
-We may need to contact you from time-to-time, usually by email or in the app. It's important you read any messages sent to you and respond in a timely way when needed. We may need certain information from you on behalf of our insurers, and failure to provide such information can result in the cancellation of an existing policy and/or not being allowed to buy future policies. Any action like that will be taken in line with your insurance contract.
+We may need to contact you from time-to-time; whether by email, app or web chat, letter, telephone or any other reasonable method. It's important you read any messages sent to you and respond in a timely way when needed. We may need certain information from you on behalf of our insurers, and failure to provide such information can result in the cancellation of an existing policy and/or not being allowed to buy future policies. Any action like that will be taken in line with your insurance contract.
 
-It's important to ensure the details of any vehicle you want to insure match the details you enter in the app. Failure to do so can lead to you getting insured on the wrong vehicle! Please also check that the details we give you about the vehicle, before purchase, match the vehicle you wish to drive.
+It's important to ensure the details of any vehicle you want to insure match the details you enter in the app or website. Failure to do so can lead to you getting insured on the wrong vehicle! Please also check that the details we give you about the vehicle, before purchase, match the vehicle you wish to drive.
 
 ## 9. Motor Insurance Database
 
 All UK car insurance policies are automatically added to the "Motor Insurance Database" which is used by the police and ANPR cameras to confirm cars are driving legally. Although Cuvva sends information to the MID faster than other companies, unfortunately, the database is slow to update, and it's possible your policy will have expired before it shows up on the MID.
 
-Your policy documents (found in app or by email) are proof of your cover. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via the app or by email at support@cuvva.com. We’re here to reply within a couple of minutes 7 days a week, 365 days a year, between **6am-1am**.
+Your policy documents (found in app, website, or by email) are proof of your cover. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via app / web chat or by email at support@cuvva.com. We’re here to reply within a few of minutes 7 days a week, 365 days a year, between **6am-1am**.
 
-Please ensure the authorities double-check your policy documents, and if there's any doubt, they should contact Cuvva. Once your car is impounded you typically have to pay a high fee for the vehicle's release.
+Please ensure the authorities double-check your policy documents. If there's any doubt, they should contact Cuvva. Once your car is impounded you typically have to pay a high fee for the vehicle's release.
 
 ## 10. Authentication
 
-Please keep your phone security details safe and confidential - tell us immediately if you think someone else may have accessed the app using them.
+Please keep your Cuvva account details safe and confidential. Tell us immediately if you think someone else may have accessed your account.
 
-**If you don't keep your phone security details safe and confidential, and/or you allow another person to access the app using them, and another person uses your phone to purchase a product, Cuvva will not be obliged to refund you for that product.**
+**If you don't keep your account details safe and confidential, and/or you allow another person to access your account, and another person uses your account to purchase a product, Cuvva will not be obliged to refund you for that product.**
 
 In order to verify that your card details are active we may charge a small nominal amount (for example £1.00) to your card or account, this will be released back to you within 7 days (this is sometimes known as an "active card check"). This may still happen if the card verification fails, and can happen more than once if you add the card multiple times.
 
@@ -127,13 +127,11 @@ If we don't meet our obligations under these terms due to events outside of our 
 
 ## 14. Your instructions
 
-Usually all communications are made via the app, but we may also contact you by email, letter, telephone or face-to-face. We can't guarantee your instructions have been received unless we've acknowledged them. We reserve the right to refuse instructions but, if we do, we'll let you know.
-
-Our office hours are Monday to Friday, 09:00 to 18:00 UK time. There may be a delay in responding to instructions if they're received outside of office hours. But you can speak with us in the app between 6am and 1am, each day of the year, and we'll get back to you as soon as we can.
+Usually all communications are made via the app, but we may also contact you by email, letter, telephone or any other reasonable method. We can't guarantee your instructions have been received unless we've acknowledged them. We reserve the right to refuse instructions but, if we do, we'll let you know.
 
 ## 15. Privacy notice
 
-You can find details of how we treat your personal data in our privacy notice, which you can find in our app.
+You can find details of how we treat your personal data in our privacy notice, which you can find in our app or website.
 
 ## 16. Money Laundering &amp; Proceeds of Crime
 
@@ -145,7 +143,7 @@ This contract is between you and us. Nothing in these terms will give someone wh
 
 ## 18. Severability
 
-If any part of these terms is or becomes illegal, invalid or unenforceable then that part will be considered to be removed from these terms. It won't affect the legality, validity or enforceability of the remaining terms.
+If any part of these terms is or becomes illegal, invalid or unenforceable then that part will be deemed removed from these terms. It won't affect the legality, validity or enforceability of the remaining terms.
 
 ## 19. Waiver
 
@@ -153,7 +151,7 @@ Our failure or delay in enforcing or partially enforcing any provision of the te
 
 ## 20. Permission to use any relevant vehicle
 
-By using the app you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle.
+By using the app or website you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle.
 
 ## 21. Insurer solvency
 
