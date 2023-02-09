@@ -4,11 +4,11 @@ Please read these terms and conditions (**terms**) carefully before you use Cuvv
 
 These terms are a binding legal agreement between you and Cuvva that govern your right to use the websites, applications, and other offerings from Cuvva (our **services**). These terms will tell you who we are, how we provide products to you, how we might change these terms, how you or we could end our agreement to these terms, what to do if there's a problem and other important information.
 
-If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a few minutes any day of the a week, between **6am-1am**. Bear in mind that we may reduce our support hours during the Christmas period or in exceptional circumstances.
+If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a few minutes any day of the a week, between **9am-9pm**. Bear in mind that we may reduce our support hours during the Christmas period or in exceptional circumstances.
 
 ## 1. General
 
-These terms are provided by Cuvva Limited (**Cuvva, we, our**) a company incorporated in England (no. 08907985) with registered office at Cuvva Limited, 6th Floor, Senna Building, Gorsuch Place, London, E2 8JF. We're authorised and regulated by the Financial Conduct Authority under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
+These terms are provided by Cuvva Limited (**Cuvva, we, our**) a company incorporated in England (no. 08907985) with registered office at Cuvva, Ground Floor, Old Sorting House, 46 Essex Road, London, N1 8LN. We're authorised and regulated by the Financial Conduct Authority under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
 These terms will be legally binding when you accept them. We'll make small changes from time-to-time, so come back and read these terms now and again. We'll notify you by email or by a notification in the app or website if we make material changes, so you can read and let us know if you accept the updated version.
 
