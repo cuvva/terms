@@ -1,14 +1,14 @@
 **Why you should read these**
 
-Please read these terms and conditions (**terms**) carefully before you use Cuvva. These terms are a binding legal agreement between you and Cuvva that govern your right to use the websites, applications, and other offerings from Cuvva (our **services**). 
+Please read these terms and conditions (**terms**) carefully before you use Cuvva. 
 
-They'll tell you who we are, how we provide products to you, how we might change these terms, how you or we could end our agreement to these terms, what to do if there's a problem and other important information.
+These terms are a binding legal agreement between you and Cuvva that govern your right to use the websites, applications, and other offerings from Cuvva (our **services**). These terms will tell you who we are, how we provide products to you, how we might change these terms, how you or we could end our agreement to these terms, what to do if there's a problem and other important information.
 
-If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a few minutes 7 days a week, 365 days a year, between **6am-1am**.
+If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a few minutes any day of the a week, between **9am-9pm**. Bear in mind that we may reduce our support hours during the Christmas period or in exceptional circumstances.
 
 ## 1. General
 
-These terms are provided by Cuvva Limited (**Cuvva, we, our**) a company incorporated in England (no. 08907985) with registered office at Cuvva Limited, 6th Floor, Senna Building, Gorsuch Place, London, E2 8JF. We're authorised and regulated by the Financial Conduct Authority under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
+These terms are provided by Cuvva Limited (**Cuvva, we, our**) a company incorporated in England (no. 08907985) with registered office at Cuvva, Ground Floor, Old Sorting House, 46 Essex Road, London, N1 8LN. We're authorised and regulated by the Financial Conduct Authority under number 690273. And we're registered with the Information Commissioner's Office under number ZA056769.
 
 These terms will be legally binding when you accept them. We'll make small changes from time-to-time, so come back and read these terms now and again. We'll notify you by email or by a notification in the app or website if we make material changes, so you can read and let us know if you accept the updated version.
 
@@ -99,7 +99,7 @@ It's important to ensure the details of any vehicle you want to insure match the
 
 All UK car insurance policies are automatically added to the "Motor Insurance Database" which is used by the police and ANPR cameras to confirm cars are driving legally. Although Cuvva sends information to the MID faster than other companies, unfortunately, the database is slow to update, and it's possible your policy will have expired before it shows up on the MID.
 
-Your policy documents (found in app, website, or by email) are proof of your cover. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via app / web chat or by email at support@cuvva.com. We’re here to reply within a few of minutes 7 days a week, 365 days a year, between **6am-1am**.
+Your policy documents (found in app, website, or by email) are proof of your cover. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via app / web chat or by email at support@cuvva.com. 
 
 Please ensure the authorities double-check your policy documents. If there's any doubt, they should contact Cuvva. Once your car is impounded you typically have to pay a high fee for the vehicle's release.
 
@@ -117,11 +117,11 @@ Claims should be notified to the insurer as soon as possible. If you don't, an i
 
 ## 12. About Cuvva’s Social Garage
 
-As part of our services, we may offer functionality to make it easier for you to lend your vehicle to another Cuvva customer or to borrow another customer’s vehicle. We call this our **“Social Garage”** sharing feature. If you are lending your vehicle to another customer we refer to you as the **“lender”**. If you are borrowing another customer’s vehicle we refer to you as the **“borrower”**. 
+As part of our services, we may offer functionality to make it easier for you to lend your vehicle to another Cuvva customer, or to borrow another customer’s vehicle. We call this our **“Social Garage”** sharing feature. If you are lending your vehicle to another customer we refer to you as the **“lender”**. If you are borrowing another customer’s vehicle we refer to you as the **“borrower”**. 
 
-Cuvva can just help lenders and borrowers connect. Cuvva does not own or control any vehicle listed or insured through Cuvva’s Social Garage and is not party to nor involved in any transaction between lenders and borrowers (whether facilitated via Social Garage or otherwise). The contract to lend or borrow a vehicle is directly between the lender and borrower. Other than in relation to your insurance policy, Cuvva is not acting as your agent.
+Cuvva can just help lenders and borrowers connect. Cuvva does not own or control any vehicle listed or insured through Cuvva’s Social Garage. Cuvva is not party to nor involved in any transaction between lenders and borrowers (whether facilitated via Social Garage or otherwise). The contract to lend or borrow a vehicle is directly between the lender and borrower. Other than in relation to your insurance policy, Cuvva is not acting as your agent.
 
-While we may facilitate the provision of information about a vehicle or driver through our Social Garage, such information is solely informational and it is up to you to decide whether or not to use that information to lend your vehicle or borrow another customer’s vehicle. Cuvva does not review or verify the information which lenders and borrowers provide to each other via Social Garage or otherwise. Cuvva has no control over, and does not guarantee: the existence, quality, safety or legality of any driver, vehicle or vehicle loan; the truth or accuracy of information provided; or that a lender or borrower will actually complete a loan or return the vehicle in the same condition or at all. Please refer to our privacy notice for more information on how we treat your personal data.
+While our Social Garage may facilitate the sharing of vehicle or driver information, such information is solely informational. It's up to you to decide whether or not to use that information to lend your vehicle, or borrow another customer’s vehicle. Cuvva does not review or verify the information which lenders and borrowers provide to each other via Social Garage or otherwise. Cuvva has no control over, and does not guarantee: the existence, quality, safety or legality of any driver, vehicle or vehicle loan; the truth or accuracy of information provided; or that a lender or borrower will complete a loan, or return the vehicle in the same condition, or at all. Please refer to our privacy notice for more information on how we treat your personal data.
 
 ## 13. Your responsibilities when using Social Garage 
 
@@ -129,33 +129,31 @@ While we may facilitate the provision of information about a vehicle or driver t
 
 A lender will not have rights under a borrower’s insurance policy. This means that if the borrower has an accident in a lender’s vehicle, it is up to the borrower to make a claim under the borrower’s insurance policy.  
 
-**You, the lender, shouldn't charge the borrower anything to borrow your vehicle**. If you do, this risks invalidating the borrower's insurance.
-
-As a lender it is your responsibility to ensure that the vehicle which you are lending to a borrower is:
+As a **lender** it is **your responsibility** to ensure that the vehicle which you are lending to a borrower is:
 
 - Owned by you, or you otherwise have the legal right to lend the vehicle to the borrower;
 - Roadworthy and has a valid MOT; 
 - Has up to date road tax and is not registered as off the road (SORN); and
 - Validly insured by you, the lender, in respect of your own use of the vehicle.
 
-As a borrower it is your responsibility to ensure that, when using the vehicle loaned to you, you will:
+As a **borrower** it is **your responsibility** to ensure that, when using the vehicle loaned to you, you will:
 
 - Comply with the terms agreed between you and the lender about how you will use the lender’s vehicle;
-- Not sell, rent, dispose, damage or otherwise deal with the vehicle or any part of it, and you will not give or purport to give any other person any rights over the vehicle;
+- Not sell, rent, dispose, damage or otherwise deal with the vehicle or any part of it, and you will not give or purport to give any other person any rights over the lender’s vehicle;
 - Return the vehicle to the lender in the same condition as you received it;
 - Have valid insurance for the duration of your borrowing; and
-- Drive safely and legally and to comply with all relevant laws and regulations, including holding a valid driving licence.
+- Drive safely and legally and comply with all relevant laws and regulations, including holding a valid driving licence.
 
-In using or accessing our Social Garage feature, you are solely responsible for:
+In using or accessing our Social Garage feature, **you are solely responsible** for:
 
 - The accuracy, content and legality of the information you provide about a vehicle lending or borrowing transaction;
 - Your commitments to the lender or borrower (as appropriate) and for the lending and borrowing transaction in its entirety, and agree that if you have any problem with a vehicle loan you will take that up with the lender or borrower and not involve Cuvva (save to the extent relevant to your insurance policy); and
 - The legality of your actions in relation to the vehicle lending or borrowing transaction. 
 
-In using or accessing our services you will not:
+In using or accessing our services you will **not**:
 
 - Breach or circumvent any laws, third-party rights, intellectual property rights or our systems, technical measures or policies;
-- Use our services if you are not able to form legally binding contracts (for example, if you are a minor) or are temporarily or indefinitely suspended from using our services;
+- Use our services if you are not able to form legally binding contracts or drive (for example, if you are a minor) or are temporarily or indefinitely suspended from using our services;
 - Provide false, inaccurate, misleading or defamatory content to any person about yourself, any other person or any vehicle;
 - Use the contact information or personal data of any other customers for any purpose other than solely in relation to a specific vehicle loan transaction via Social Garage;
 
@@ -164,7 +162,7 @@ We may (without limiting other remedies) limit, suspend or terminate your user a
 - Creating problems or possible legal liabilities for us or any other person; or
 - Infringing or abusing the spirit of any of these terms, the rights of any person or our employees.
 
-Our Social Garage is a new service, so we reserve the right at any time to discontinue or modify the offering and its features. If we do, we’ll try to provide you with notice where possible, but some changes might occur without notice.
+Our Social Garage is a new service, so we reserve the right at any time to discontinue or modify the offering and its features. If we do, we’ll try to provide you with notice where feasible, but some changes might occur without notice.
 
 ## 14. Termination
 
@@ -176,7 +174,7 @@ We provide our services on an “as is” basis, without any guarantees, warrant
 
 **We don't accept any responsibility for any loss or damage you may incur as a result of the acts or omissions of your insurer.**
 
-You agree that we shall not be liable in contract or in tort to you or any third party for any indirect, incidental or consequential damages, including, but not limited to, damages for loss of profits, goodwill, or other intangible losses (even if we have been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the services; (ii) any transaction between you and any other person (whether via Social Garage or otherwise); or (iii) unauthorised access to or alteration of your data. **If we are liable to you, our liability will be limited to £250 in total.**
+You agree that we shall not be liable in contract or in tort to you or any third party for any indirect, incidental or consequential damages, including, but not limited to, damages for loss of profits, goodwill, or other intangible losses (even if we have been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the services; (ii) any transaction between you and any other person (whether via Social Garage or otherwise); or (iii) unauthorised access to or alteration of your data. **If we are found to be liable to you, our liability will be limited to £250 in total**.
 
 We understand that we may have responsibilities in the event of our negligence, and don't attempt to restrict or exclude our responsibility in the event of negligence, fraud or anything else that by law cannot be limited.
 
@@ -222,4 +220,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase Pro
 
 The laws of England and Wales apply to our service. Any disputes are intended to be heard by the Courts of England and Wales. But we recognise you're free to choose the laws and jurisdiction of Scotland, or Northern Ireland, if you're resident there and wish to do so.
 
-[_v1.13 (2022-09-01)_](https://github.com/cuvva/terms/blob/terms-v1.13/terms.md)
+[_v1.16 (2023-02-21)_](https://github.com/cuvva/terms/blob/terms-v1.16/terms.md)
