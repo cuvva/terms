@@ -130,7 +130,7 @@ Claims should be notified to the insurer as soon as possible. If you don't, an i
 
 As part of our services, we may offer functionality to make it easier for you to lend your vehicle to another Cuvva customer, or to borrow another customer’s vehicle. In these terms, we call this our **"Car Sharing"** sharing feature. If you are lending your vehicle to another customer we refer to you as the **“lender”**. If you are borrowing another customer’s vehicle we refer to you as the **“borrower”**. The following clauses 11 to 14 are relevant if you are a Lender or Borrower.
 
-Lenders and Borrowers are expected to abide by our [Expected Behaviour Policy](link) when sharing vehicles, which are incorporated into these terms by reference.
+Lenders and Borrowers are expected to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when sharing vehicles, which are incorporated into these terms by reference.
 
 Cuvva’s Car Sharing feature can merely help lenders and borrowers connect. Cuvva does not own or control any vehicle listed or insured through Cuvva. The contract to lend or borrow a vehicle is directly between the Lender and Borrower.
 
@@ -176,7 +176,7 @@ In using or accessing our services **you will not**:
 - Provide false, inaccurate, misleading or defamatory content to any person about yourself, any other person or any vehicle;
 - Use the contact information or personal data of any other customers for any purpose other than solely lending a vehicle to them or borrowing their vehicle;
 
-You should always make sure to abide by our [Expected Behaviour Policy](link) when lending or borrowing a vehicle.
+You should always make sure to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when lending or borrowing a vehicle.
 
 ## 14. Payments for sharing vehicles
 
@@ -197,7 +197,7 @@ Cuvva may partner with, and share your data with, third party payment processing
 We reserve the right to terminate this agreement with you and/or to resign as your insurance intermediary at any time. We may terminate, resign, issue a warning, suspend, or freeze your account if we think that you were or are: 
 - in breach any of these terms;
 - using a product or service outside its intended application;
-- in breach of our [Expected Behaviour Policy](link)
+- in breach of our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy)
 - using the app or website to commit or attempt to commit a criminal offence; or 
 - abusing our staff. 
 
@@ -257,7 +257,7 @@ Our failure or delay in enforcing or partially enforcing any provision of the te
 
 ## 24. Permission to use any relevant vehicle
 
-By using the app or website you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle or your behaviour. Please remember to abide by our [Expected Behaviour Policy](link) when lending or borrowing a vehicle.
+By using the app or website you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle or your behaviour. Please remember to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when lending or borrowing a vehicle.
 
 ## 25. Insurer solvency
 
