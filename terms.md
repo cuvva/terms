@@ -102,6 +102,7 @@ We receive the whole of your payment on a risk transfer basis, as the agent of t
 We're usually paid by receiving an administration fee from you for arranging the insurance. Alternatively or in addition, we may agree with the insurer to be paid by receiving a percentage of the insurance premium in commission from the insurance or service provider. We may earn interest on the money in our bank accounts, and additional amounts from insurers to reflect the performance of the Products.
 
 If you use our **“Car Sharing”** service (see clause 11 onwards), in addition to or instead of the remuneration set out above, we may also charge you a separate fee for our services in helping you to lend your vehicle or to borrow another customer’s vehicle. Any such fees will be set out separately to any of our fees for arranging your insurance and will show any value added tax (**“VAT”**) on our fees.
+
 Cuvva is entitled to vary its fees for any of its Products or services from time to time. Any fees due will be made clear at time of payment.
 
 
@@ -128,29 +129,29 @@ Claims should be notified to the insurer as soon as possible. If you don't, an i
 
 ## 11. Additional terms when sharing vehicles via Cuvva
 
-As part of our services, we may offer functionality to make it easier for you to lend your vehicle to another Cuvva customer, or to borrow another customer’s vehicle. In these terms, we call this our **"Car Sharing"** sharing feature. If you are lending your vehicle to another customer we refer to you as the **“lender”**. If you are borrowing another customer’s vehicle we refer to you as the **“borrower”**. The following clauses 11 to 14 are relevant if you are a Lender or Borrower.
+As part of our services, we may offer functionality to make it easier for you to lend your vehicle to another Cuvva customer, or to borrow another customer’s vehicle. In these terms, we call this our **"Car Sharing"** sharing feature. If you are lending your vehicle to another customer we refer to you as the **“lender”**. If you are borrowing another customer’s vehicle we refer to you as the **“Borrower”**. The following clauses 11 to 14 are relevant if you are a Lender or Borrower.
 
 Lenders and Borrowers are expected to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when sharing vehicles, which are incorporated into these terms by reference.
 
-Cuvva’s Car Sharing feature can merely help lenders and borrowers connect. Cuvva does not own or control any vehicle listed or insured through Cuvva. The contract to lend or borrow a vehicle is directly between the Lender and Borrower.
+Cuvva’s Car Sharing feature can merely help lenders and Borrowers connect. Cuvva does not own or control any vehicle listed or insured through Cuvva. The contract to lend or borrow a vehicle is directly between the Lender and Borrower.
 
 For Cuvva’s Car Sharing feature, Cuvva acts as agent to the Lender to collect any payment owed by the Borrower to the Lender for Car Sharing (see Section 14 below for more detail).
 
 ## 12. Providing information when sharing vehicles
 
-While our app or website may facilitate the sharing of vehicle or driver information, such information is solely informational. It's up to you to decide whether or not to rely on and use that information to lend your vehicle, or borrow another customer’s vehicle. Cuvva does not review or verify the information which Lenders and Borrowers provide to us nor to each other. Cuvva has no control over, and does not guarantee: the existence, quality, safety or legality of any driver, vehicle or vehicle loan; the truth or accuracy of information provided; or that a lender or borrower will complete a loan, or return the vehicle in the same condition, or at all. 
+While our app or website may facilitate the sharing of vehicle or driver information, such information is solely informational. It's up to you to decide whether or not to rely on and use that information to lend your vehicle, or borrow another customer’s vehicle. Cuvva does not review or verify the information which Lenders and Borrowers provide to us nor to each other. Cuvva has no control over, and does not guarantee: the existence, quality, safety or legality of any driver, vehicle or vehicle loan; the truth or accuracy of information provided; or that a lender or Borrower will complete a loan, or return the vehicle in the same condition, or at all. 
 
 In providing information about yourself and your vehicle for the purposes of Car Sharing, you agree that we may use such information to facilitate Car Sharing, including providing it to other Cuvva customers, and you acknowledge that we have a legitimate interest in doing so. Please refer to our [Privacy Notice](https://support.cuvva.com/en/articles/5907862-cuvva-s-privacy-notice) for more information on how we treat your personal data.
 
-## 13. Your responsibilities when sharing vehicle 
+## 13. Your responsibilities when sharing vehicles 
 
-**If you borrow another customer’s vehicle, it is always your responsibility as the borrower to take out insurance for the duration of your borrowing**. It is **not** the responsibility of the person lending you the vehicle to take out insurance for you. 
+**If you borrow another customer’s vehicle, it is always your responsibility as the Borrower to take out insurance for the duration of your borrowing**. It is **not** the responsibility of the person lending you the vehicle to take out insurance for you. 
 
-A Lender will not have rights under a Borrower’s insurance policy. This means that **if the borrower has an accident in a lender’s vehicle, it is up to the borrower to make a claim** under the borrower’s insurance policy.  
+A Lender will not have rights under a Borrower’s insurance policy. This means that **if the Borrower has an accident in a lender’s vehicle, it is up to the Borrower to make a claim** under the Borrower’s insurance policy.  
 
-As a **Lender** it is **your responsibility** to ensure that the vehicle which you are lending to a borrower is:
+As a **Lender** it is **your responsibility** to ensure that the vehicle which you are lending to a Borrower is:
 
-- Owned by you, or you otherwise have the legal right to lend the vehicle to the borrower;
+- Owned by you, or you otherwise have the legal right to lend the vehicle to the Borrower;
 - Roadworthy and has a valid MOT; 
 - Has up to date road tax and is not registered as off the road (**"SORN"**); and
 - Validly insured by you, the lender, in respect of your own use of the vehicle.
@@ -166,7 +167,7 @@ As a **Borrower** it is **your responsibility** to ensure that, when using the v
 In using or accessing our Car Sharing service, **you are solely responsible** for:
 
 - The accuracy, content and legality of the information you provide about a vehicle lending or borrowing transaction;
-- Your commitments to the lender or borrower (as appropriate) and for the lending and borrowing transaction in its entirety, and agree that if you have any problem with a vehicle loan you will take that up with the lender or borrower and not involve Cuvva (save to the extent relevant to your insurance policy arranged by Cuvva); and
+- Your commitments to the lender or Borrower (as appropriate) and for the lending and borrowing transaction in its entirety, and agree that if you have any problem with a vehicle loan you will take that up with the lender or Borrower and not involve Cuvva (save to the extent relevant to your insurance policy arranged by Cuvva); and
 - The legality of your actions in relation to the vehicle lending or borrowing transaction. 
 
 In using or accessing our services **you will not**:
@@ -174,7 +175,7 @@ In using or accessing our services **you will not**:
 - Breach or circumvent any laws, third-party rights, intellectual property rights or our systems, technical measures or policies;
 - Use our services if you are not able to form legally binding contracts or drive (for example, if you are a minor) or are temporarily or indefinitely suspended from using our services;
 - Provide false, inaccurate, misleading or defamatory content to any person about yourself, any other person or any vehicle;
-- Use the contact information or personal data of any other customers for any purpose other than solely lending a vehicle to them or borrowing their vehicle;
+- Use the contact information or personal data of any other customers for any purpose other than solely lending a vehicle to them or borrowing their vehicle.
 
 You should always make sure to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when lending or borrowing a vehicle.
 
@@ -197,7 +198,7 @@ Cuvva may partner with, and share your data with, third party payment processing
 We reserve the right to terminate this agreement with you and/or to resign as your insurance intermediary at any time. We may terminate, resign, issue a warning, suspend, or freeze your account if we think that you were or are: 
 - in breach any of these terms;
 - using a product or service outside its intended application;
-- in breach of our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy)
+- in breach of our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy);
 - using the app or website to commit or attempt to commit a criminal offence; or 
 - abusing our staff. 
 
@@ -218,7 +219,7 @@ We understand that we may have responsibilities in the event of our negligence, 
 
 If we don't meet our obligations under these terms due to events outside of our control, such as machine failure, industrial disputes or because we have to keep to a relevant law, we won't be responsible for any losses or costs caused.
 
-If you have a dispute with a lender or a borrower, you release us (and our affiliates and subsidiaries, and our and their respective officers, directors, employees and agents) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
+If you have a dispute with a lender or a Borrower, you release us (and our affiliates and subsidiaries, and our and their respective officers, directors, employees and agents) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
 You agree to indemnify and compensate us in full (and our officers, directors, agents, subsidiaries, joint ventures and employees) for any losses or costs, including reasonable legal fees, we incur arising out of any breach by you of these terms, your improper use of our services or your breach of any law or the rights of a third party.
 
@@ -265,6 +266,6 @@ We don't guarantee the solvency of any insurer we help arrange your purchase of 
 
 ## 26. Law and jurisdiction
 
-The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if wish to do so.
+The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if you wish to do so.
 
 [_v1.16 (2023-04-19)_](https://github.com/cuvva/terms/blob/terms-v1.16/terms.md)
