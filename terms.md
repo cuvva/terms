@@ -105,7 +105,6 @@ If you use our **“Car Sharing”** service (see clause 11 onwards), in additio
 
 Cuvva is entitled to vary its fees for any of its Products or services from time to time. Any fees due will be made clear at time of payment.
 
-
 ## 8. Correspondence regarding your insurance
 
 Prior to buying your Product you'll be able to review the insurance contract in long format. You'll also be able to review a summary, called an Insurance Product Information Document (**"IPID"**). Following purchase, you'll get an email with your insurance certificate and insurance contract for your policy. The email will also include a breakdown of what you've paid and some other useful information, like how to contact us or the insurer if you have an accident. You can find your documents within your Cuvva account too.
@@ -121,7 +120,6 @@ All UK car insurance policies are automatically added to the "Motor Insurance Da
 **Your policy documents (found in app, website, or by email) are proof of your cover**. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via app / web chat or by email at **support@cuvva.com**.
 
 Please ensure the authorities double-check your policy documents. **If there's any doubt, they should contact Cuvva**. Once your car is impounded you typically have to pay a high fee for the vehicle's release.
-
 
 ## 10. Claims and incident reporting
 
