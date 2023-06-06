@@ -266,4 +266,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase of 
 
 The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if you wish to do so.
 
-[_v1.16 (2023-04-19)_](https://github.com/cuvva/terms/blob/terms-v1.16/terms.md)
+[_v1.17 (2023-04-19)_](https://github.com/cuvva/terms/blob/terms-v1.17/terms.md)

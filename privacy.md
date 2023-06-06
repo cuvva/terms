@@ -219,4 +219,4 @@ Helpline number: 0303 123 1113
 
 
 
-[_v1.16 (2023-04-19)_](https://github.com/cuvva/terms/blob/privacy-v1.16/privacy.md)
+[_v1.17 (2023-04-19)_](https://github.com/cuvva/terms/blob/privacy-v1.17/privacy.md)
