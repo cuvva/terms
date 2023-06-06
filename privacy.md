@@ -66,6 +66,13 @@ This means we take into account your credit score, number of judgements against 
 
 Soft credit checks don't leave a visible footprint on your credit file. You can see them on your own credit file, but lenders can't.
 
+
+### Bank account information
+
+If you use our Car Sharing feature to lend your vehicle or to borrow another Cuvva user’s vehicle, you may need to provide your bank account details, including account name, account number and sort code. 
+
+We need this information so that we can process payments which vehicle borrowers wish to make to vehicle lenders, and to take any Cuvva fee for providing our Car Sharing service. This information will be available to a small number of Cuvva employees (such as our Finance team) and third party payment processing and account provider services in order to process your paying or receiving of Car Sharing payments.
+
 ### Publicly available information
 
 We may use publicly available information, or information in plain view, to prevent misuse. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information.
@@ -100,6 +107,8 @@ We may share our data on your quotes, price, location, telematics, claims and ot
 
 We use third-party fraud detection providers that combine data of various claims using artificial intelligence and machine learning. This helps us to fight fraud and keep our pricing competitive.
 
+We use third party payment processing and account service providers to facilitate our Car Sharing features.
+
 The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may be processed by staff outside the EEA who work for us or one of our suppliers.
 
 Where the data is sent outside the EU/EEA, the protection may be based on standard clauses verified by the European Commission and other data security safeguards. Or there might be an adequacy decision in place guaranteeing an equivalent degree of data protection.
@@ -107,6 +116,20 @@ Where the data is sent outside the EU/EEA, the protection may be based on standa
 The parties we send your information to are obliged to comply with data protection laws, regulations and standards. Each of them signs a contract with Cuvva, giving assurances over the security and correct treatment of your information.
 
 You can find out more on where your information goes [here](https://github.com/cuvva/terms/blob/master/third-parties.md).
+
+## Lawful bases for processing your information
+
+Under the UK General Data Protection Regulation (UK GDPR), the lawful bases we rely on for processing your various information as set out above are: 
+(a) **Your consent**. Where we rely on your consent to process your data, you’re able to remove your consent at any time. If you'd like to withdraw your consent, you can just let us know, or in the case of location, motion and telematics data, change your device setting. However, your ability to use us may be limited if we can’t access certain data.
+
+(b) **Our legitimate interest**. We need to process your information to: 
+- Determine if we can cover you;
+- Calculate your pricing;
+- Help with any claims;
+- Provide better customer support;
+- Prevent fraud;
+- Process payments for Car Sharing features; and
+- Provide and improve our services in general. 
 
 ## How long we keep your information for
 
@@ -119,9 +142,13 @@ We'll keep your information only for as long as there's a need to. This includes
 
 If you're a customer and you've bought a Cuvva policy, we need to keep your data for at least seven years from when your most recent policy expired, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later.
 
+Where you have used our Car Sharing feature and provided bank account information, we will typically only keep your bank account number for up to 30 days, unless we have a legitimate reason to keep it longer.
+
 We need to keep it for that period of time in case of any claims against you, any disputes, or anything else meaning we need to show records of your cover. As an example, someone could make a claim against you some time after you took your policy out. Being able to refer to your records can help to defend against claims.
 
 If the above doesn't apply, we may be able to delete your account upon your request. There's more information on that below.
+
+If any of the above does apply, we will delete your information after the lapse of the appropriate period. This will mean that all of your data is removed from our live systems. Your data will still exist in our archive. But we will have marked your records so that they appear to have never existed.
 
 ## How we keep data safe
 
@@ -149,9 +176,9 @@ You have the right to object to the processing of your data in certain circumsta
 
 ### Right to portability
 
-You have a right to get a copy of the personal data we hold about you. We'll provide your data in a standard portable format. If you have any trouble understanding the data, let us know and we'll help. The best way to ask is usually via the app.
+You have a right to get a copy of the personal data we hold about you or to ask us to transfer that personal data to another organisation. We'll provide or transfer your data in a standard portable format. If you have any trouble understanding the data, let us know and we'll help. The best way to ask is usually via the app.
 
-We won't usually charge a fee for providing that information, but we may do in certain circumstances. For example, if you make repetitive requests for information, we may charge a small fee or refuse your request.
+We won't usually charge a fee for providing or transferring that information, but we may do in certain circumstances. For example, if you make repetitive requests for information, we may charge a small fee or refuse your request.
 
 ### Right to rectification
 
@@ -175,6 +202,21 @@ We keep our privacy notice under regular review, and we'll tell you when we make
 
 Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at Cuvva, Ground Floor, Old Sorting House, 46 Essex Road, London, N1 8LN.
 
-If you've made a complaint and you're unhappy with our reply, you're entitled to speak with the ICO: [https://ico.org.uk/concerns](https://ico.org.uk/concerns)
+If you've made a complaint and you're unhappy with our reply, you're entitled to speak with the ICO: 
 
-[_v1.16 (2023-03-16)_](https://github.com/cuvva/terms/blob/privacy-v1.16/privacy.md)
+ICO website: https://ico.org.uk/concerns
+
+ICO’s address: 
+
+Information Commissioner’s Office
+Wycliffe House
+Water Lane
+Wilmslow
+Cheshire
+SK9 5AF
+ 
+Helpline number: 0303 123 1113
+
+
+
+[_v1.16 (2023-04-19)_](https://github.com/cuvva/terms/blob/privacy-v1.16/privacy.md)
