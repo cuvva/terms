@@ -187,6 +187,8 @@ Where a Car Sharing Payment is paid to Cuvva, Cuvva will act as the Lender’s c
 
 Cuvva will initiate payment processing in the 24 hours following a car share being agreed between Lender and Borrower. Payments are subject to bank processing times and may take up to 7 days to show in your account.
 
+Where any Car Sharing Payment is unclaimed (whether because a Lender has failed to provide valid bank account details or for any other reason), Cuvva reserves the right to claim ownership of any unclaimed Car Sharing Payment 12 months after it falls due. Cuvva may, in its sole discretion, provide the Lender with a discount voucher or credit for its services up to the equivalent monetary amount of the Car Sharing Payment, valid for up to 12 months. Such a voucher or credit may be provided on an ex gratia basis and no compensation shall be owed to the Lender or Borrower.
+
 **Cuvva is entitled to charge Lenders and/or Borrowers a fee for using our Car Sharing service**. This will typically be charged directly to the Lender and expressed as a portion of the Car Sharing Payment, but Cuvva remains free to vary its fees. Where Cuvva charges a fee to a Borrower, this will be charged on behalf of the Lender who in turn authorises Cuvva to receive and retain that fee. Any fees for Car Sharing, and any VAT, will be set out clearly at time of payment. Any Car Sharing fee charged by Cuvva is distinct from any fee due to Cuvva for arranging insurance (if any), as detailed at clause 7.
 
 Cuvva may partner with, and share your data with, third party payment processing and account service providers to facilitate Car Sharing Payments Any data we share will be in accordance with our [Privacy Notice](https://support.cuvva.com/en/articles/5907862-cuvva-s-privacy-notice).
@@ -266,4 +268,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase of 
 
 The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if you wish to do so.
 
-[_v1.17 (2023-04-19)_](https://github.com/cuvva/terms/blob/terms-v1.17/terms.md)
+[_v1.18 (2023-10-02)_](https://github.com/cuvva/terms/blob/terms-v1.18/terms.md)
