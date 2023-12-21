@@ -66,6 +66,8 @@ The expiry date of any discount will depend on the promotion you're looking to b
 
 Cuvva can't guarantee that our app or website will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app or website being unavailable or not functioning properly.
 
+Cuvva will select an insurer to consider insuring you. If that insurer declines to insure you, Cuvva is not obliged to offer your business to any other insurer on its panel. Cuvva cannot guarantee that you will be offered a quote (at the same price as previously nor at all), even if you have previously purchased insurance via Cuvva. Your current quote may differ from your previous quote, due to a range of factors, including criteria set by the insurer, which may change from time to time.
+
 ## 5. Your responsibility providing accurate information to us and the insurer
 
 In the case of all insurance, the validity of cover and the amount you pay depends on the information you provide. **It's your responsibility to provide complete and accurate information to us and the insurer at all times**, including when you buy your product. It's important that all statements you make and all questions you answer are complete, true and accurate.
@@ -133,7 +135,7 @@ Lenders and Borrowers are expected to abide by our [Expected Behaviour Policy](h
 
 Cuvva’s Car Sharing feature can merely help Lenders and Borrowers connect. Cuvva does not own or control any vehicle listed or insured through Cuvva. The contract to lend or borrow a vehicle is directly between the Lender and Borrower.
 
-For Cuvva’s Car Sharing feature, Cuvva acts as agent to the Lender to collect any payment owed by the Borrower to the Lender for Car Sharing (see Section 14 below for more detail).
+For Cuvva’s Car Sharing feature, Cuvva acts as agent to the Lender to collect any payment owed by the Borrower to the Lender for Car Sharing (see Section 14 below for more detail). In particular, Lenders and Borrowers must avoid committing any Harmful Behaviour via Cuvva. “Harmful Behaviour” means posting, creating, messaging or publishing anything defamatory, libellous, offensive, harassing, obscene, malicious, discriminatory or which may otherwise be harmful, distressing, inappropriate or unacceptable. Cuvva may take such action as it considers necessary to ensure that Lenders and Borrowers are using our app and Car Sharing features in an appropriate manner, and to protect Lenders and Borrowers from any Harmful Behaviours. You can report any Harmful Behaviour by other users to us via the flag function in the app or by email to [support@cuvva.com](mailto:support@cuvva.com). 
 
 ## 12. Providing information when sharing vehicles
 
@@ -268,4 +270,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase of 
 
 The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if you wish to do so.
 
-[_v1.18 (2023-10-02)_](https://github.com/cuvva/terms/blob/terms-v1.18/terms.md)
+[_v1.19 (2023-12-21)_](https://github.com/cuvva/terms/blob/terms-v1.19/terms.md)

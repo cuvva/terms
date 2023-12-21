@@ -42,6 +42,12 @@ To help us provide better customer support, we may gather access information whe
 
 Once you've entered your driving licence details and agreed to the [Fair Obtaining Notice](https://github.com/cuvva/terms/blob/master/fon.md), we may collect information about your driving licence and history from the DVLA, MyLicence or other relevant entities. We need this so we can offer motor insurance products to you.
 
+### Photo ID and selfie
+
+We may require your consent to compare a selfie you provide with the photo in your ID by biometric means and through the help of AI. This is to positively authenticate you, in line with anti-money laundering regulations. If you are unhappy with the result of the comparison, you may reupload the photos or request to have the photos checked again with the assistance of human intervention. Your later withdrawal of consent will not affect the validity of the check made prior to the withdrawal. If you do not consent or withdraw previously given consent, your ability to use our services will be limited as processing your biometric data is necessary for us to verify your identity and decide whether you can purchase our policies. 
+
+We may also use automated systems using AI to check the quality of the photo ID you upload and train the AI using the pseudonymised photo ID for improvement purposes. If you are unhappy with the result of the check, you may reupload the photos or request to have the photos checked again with the assistance of human intervention. Where we deem appropriate, we may as part of this additional check ask you for other means of identification.
+
 ### Location, motion and telematics data
 
 Before we collect any location, motion or telematics data, your device will ask for your consent.
@@ -73,9 +79,19 @@ If you use our Car Sharing feature to lend your vehicle or to borrow another Cuv
 
 We need this information so that we can process payments which vehicle borrowers wish to make to vehicle lenders, and to take any Cuvva fee for providing our Car Sharing service. This information will be available to a small number of Cuvva employees (such as our Finance team) and third party payment processing and account provider services in order to process your paying or receiving of Car Sharing payments.
 
+### Vehicle registration mark (number plate)
+
+We may ask you to submit a photo of your vehicle for vehicle identification. Please note the photo needs to be of sufficient quality, which will primarily be checked by our automated systems using artificial intelligence (AI) but human intervention will be involved where we consider it necessary.
+
 ### Publicly available information
 
 We may use publicly available information, or information in plain view, to prevent misuse. For example, if we see information which shows a vehicle driving dangerously, we may decide to ban that vehicle and/or the driver. We don't systematically browse publicly available information to compare it with our user information.
+
+### Personal data for Car Sharing and User-Generated Content (UGC)
+
+We may collect and share your personal data through our Car Sharing feature (please refer to clause 11 in our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md) for more details about this feature) for the purposes of facilitating the lending or borrowing of a vehicle. You may also voluntarily share your own personal data through our Car Sharing feature for similar purposes. Personal data you might decide to share could include your name, ownership status of the car, preferred pick up or drop off location, profile photo and vehicle photo. We refer to any content contributed by you to our app which is visible to at least a subset of the app’s users as **“User-Generated Content”** or **“UGC”**. 
+
+This personal data and UGC will be visible to third parties who have indicated that they may wish to lend or borrow a vehicle. We will process any such personal data for the purposes of enhancing our Car Sharing feature. 
 
 ### Focus groups, feedback and reviews
 
@@ -128,8 +144,10 @@ Under the UK General Data Protection Regulation (UK GDPR), the lawful bases we r
 - Help with any claims;
 - Provide better customer support;
 - Prevent fraud;
-- Process payments for Car Sharing features; and
-- Provide and improve our services in general. 
+- Process payments for Car Sharing features;
+- Provide and improve our services in general;
+- Enhance or facilitate better use of the Car Sharing feature;
+- Prevent Harmful Behaviours (as defined in clause 11 of our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md));
 
 ## How long we keep your information for
 
@@ -138,7 +156,9 @@ We'll keep your information only for as long as there's a need to. This includes
 - Respond to any questions, complaints or claims made by you or on your behalf;
 - Detect and prevent misuse and fraud;
 - Show that we treated you fairly;
-- Keep records required by law.
+- Keep records required by law;
+- Account for various limitation periods in law; and
+- Allow it to be used in any court proceedings arising out of or in connection with you, your vehicle or your policy. 
 
 If you're a customer and you've bought a Cuvva policy, we need to keep your data for at least seven years from when your most recent policy expired, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later.
 
@@ -148,7 +168,9 @@ We need to keep it for that period of time in case of any claims against you, an
 
 If the above doesn't apply, we may be able to delete your account upon your request. There's more information on that below.
 
-If any of the above does apply, we will delete your information after the lapse of the appropriate period. This will mean that all of your data is removed from our live systems. Your data will still exist in our archive. But we will have marked your records so that they appear to have never existed.
+If any of the above does apply, we will delete your information after the lapse of the appropriate period upon your request. This will mean that all of your data is removed from our live systems. Your data will still exist in our archive. But we will have marked your records so that they appear to have never existed.
+
+Whether or not you request deletion of your own personal data, we will delete your personal data from our live systems if, after an appropriate period of time, we determine it’s no longer necessary to retain your personal data, after considering the factors listed in the first paragraph of this section.
 
 ## How we keep data safe
 
@@ -200,7 +222,7 @@ We keep our privacy notice under regular review, and we'll tell you when we make
 
 ## Questions, comments or concerns
 
-Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at [privacy@cuvva.com](mailto:privacy@cuvva.com), or write to us at Cuvva, Ground Floor, Old Sorting House, 46 Essex Road, London, N1 8LN.
+Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at [compliance@cuvva.com](mailto:compliance@cuvva.com), or write to us at Cuvva, Ground Floor, Old Sorting House, 46 Essex Road, London, N1 8LN.
 
 If you've made a complaint and you're unhappy with our reply, you're entitled to speak with the ICO: 
 
@@ -219,4 +241,4 @@ Helpline number: 0303 123 1113
 
 
 
-[_v1.17 (2023-04-19)_](https://github.com/cuvva/terms/blob/privacy-v1.17/privacy.md)
+[_v1.18 (2023-12-21)_](https://github.com/cuvva/terms/blob/privacy-v1.18/privacy.md)
