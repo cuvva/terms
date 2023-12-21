@@ -22,6 +22,6 @@ Searching your DLN with the DVLA, MyLicence or other relevant entities should no
 
 Your personal data will only be shared with organisations involved in the administration of your insurance policy, the processing of any Car Sharing payment, or as otherwise set out in our privacy notice.
 
-If you have any questions, the best way to speak with us is in the app. Otherwise, you can email us at privacy@cuvva.com, or write to us at Cuvva, Ground Floor, Old Sorting House, 46 Essex Road, London, N1 8LN.
+If you have any questions, the best way to speak with us is in the app. Otherwise, you can email us at [compliance@cuvva.com](mailto:compliance@cuvva.com), or write to us at Cuvva, Ground Floor, Old Sorting House, 46 Essex Road, London, N1 8LN.
 
 You can also contact our Data Protection Officer (DPO) - Aphaia Ltd. They can be contacted by email at dpo@aphaia.co.uk, or you can write to them at Aphaia Ltd, Eagle House, 163 City Road, London, EC1V 1NR. It can take a few days to process requests directed to Aphaia, so you might want to send the request to us directly.
