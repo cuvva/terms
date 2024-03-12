@@ -222,7 +222,7 @@ We keep our privacy notice under regular review, and we'll tell you when we make
 
 ## Questions, comments or concerns
 
-Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at [compliance@cuvva.com](mailto:compliance@cuvva.com), or write to us at Cuvva, Ground Floor, Old Sorting House, 46 Essex Road, London, N1 8LN.
+Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at [compliance@cuvva.com](mailto:compliance@cuvva.com), or write to us at Cuvva, 4th Floor, Old Sessions House, 23 Clerkenwell Green, London, EC1R 0NA.
 
 If you've made a complaint and you're unhappy with our reply, you're entitled to speak with the ICO: 
 
@@ -241,4 +241,4 @@ Helpline number: 0303 123 1113
 
 
 
-[_v1.18 (2023-12-21)_](https://github.com/cuvva/terms/blob/privacy-v1.18/privacy.md)
+[_v1.19 (2024-03-12)_](https://github.com/cuvva/terms/blob/privacy-v1.19/privacy.md)
