@@ -18,6 +18,8 @@ Searches may be carried out before the insurance policy is taken out - and at an
 
 Searching your DLN with the DVLA, MyLicence or other relevant entities should not show a record against your driving licence.
 
+Any convictions data obtained as above will be kept securely in our system through encryption. The convictions data may be shared with our underwriters or insurance partners who have implemented adequate data security measures.
+
 ## How your data will be processed
 
 Your personal data will only be shared with organisations involved in the administration of your insurance policy, the processing of any Car Sharing payment, or as otherwise set out in our privacy notice.
