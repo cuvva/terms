@@ -89,9 +89,12 @@ We may use publicly available information, or information in plain view, to prev
 
 ### Personal data for Car Sharing and User-Generated Content (UGC)
 
-We may collect and share your personal data through our Car Sharing feature (please refer to clause 11 in our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md) for more details about this feature) for the purposes of facilitating the lending or borrowing of a vehicle. You may also voluntarily share your own personal data through our Car Sharing feature for similar purposes. Personal data you might decide to share could include your name, ownership status of the car, preferred pick up or drop off location, profile photo and vehicle photo. We refer to any content contributed by you to our app which is visible to at least a subset of the app’s users as **“User-Generated Content”** or **“UGC”**. 
+We may collect and share your personal data through our Ownership feature or Car Sharing feature (please refer to clause 11 in our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md) for more details about these features) for the purposes of facilitating the lending or borrowing of a vehicle and to provide our services in general. You may also voluntarily share your own personal data through our Car Sharing feature for similar purposes. Personal data you might decide to share could include your name, ownership status of the car, preferred pick up or drop off location, profile photo and vehicle photo. We refer to any content contributed by you to our app which is visible to at least a subset of the app’s users as **“User-Generated Content”** or **“UGC”**. 
 
-This personal data and UGC will be visible to third parties who have indicated that they may wish to lend or borrow a vehicle. We will process any such personal data for the purposes of enhancing our Car Sharing feature. 
+This personal data and UGC will be visible to third parties who have indicated that they may wish to lend or borrow a vehicle. We will process any such personal data for the purposes of enhancing our Car Sharing feature.
+
+When you create and administer a car club, we refer to you as the “Car Club Admin.”
+If you are not a Car Club Admin, but you are still required to claim ownership of a vehicle (e.g. post-policy purchase), your preferred first name might appear on the vehicle profile screen if other Cuvva users search for your vehicle using the number plate. Please ensure that your preferred first name on your Cuvva account does not include your surname, to prevent your full name from being shown to other users. Please refer to clause 11 in our Terms and Conditions for more details about the ownership feature.
 
 ### Focus groups, feedback and reviews
 
