@@ -21,7 +21,7 @@ Clauses 2 (Our insurance products and services) to 11 (Additional terms when sha
 
 If you are purchasing an insurance Product with us on someone else’s vehicle which you are borrowing, clauses 11 (Additional terms when sharing vehicles via Cuvva) to 14 (Payments for sharing vehicles) inclusive will also be relevant to you, in addition to clauses 2 to 10.
 
-If you won’t have any insurance Products with us but are instead just using our services to facilitate lending your vehicle to a third party, clauses 11 (Additional terms when sharing vehicles via Cuvva) to 276 (Law and jurisdiction) inclusive are relevant to you. Clauses 15 (Termination, freezes and bans) to 276 (Law and jurisdiction) inclusive will be relevant to anyone using any Cuvva Product or service for any purpose.
+If you won’t have any insurance Products with us but are instead just using our services to facilitate lending your vehicle to a third party, clauses 11 (Additional terms when sharing vehicles via Cuvva) to 27 (Law and jurisdiction) inclusive are relevant to you. Clauses 15 (Termination, freezes and bans) to 27 (Law and jurisdiction) inclusive will be relevant to anyone using any Cuvva Product or service for any purpose.
 
 Clauses 15 (Termination, freezes and bans) to 26 (Law and jurisdiction) inclusive will be relevant to anyone using any Cuvva Product or service for any purpose.
 
