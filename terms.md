@@ -133,11 +133,12 @@ As part of our services, we may offer functionality to make it easier for you to
 
 If you add a car to a club, we may ask you to claim ownership of a vehicle, we might ask for proof that you are the legal owner of the car. Even if you do not have a car club, you might also be required to claim ownership of a vehicle, post-policy purchase. If another Cuvva user searches for your vehicle using the number plate, your preferred first name will appear on the vehicle profile screen. Please refer to our Privacy Notice for more details about the ownership feature. The following clauses 11 to 14 are relevant if you are a Lender or Borrower or Car Club Admin.
 
-Lenders and Borrowers are expected to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when sharing vehicles, which are incorporated into these terms by reference.
+Lenders, Borrowers and Car Club Admins are expected to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when sharing vehicles, which are incorporated into these terms by reference. In particular, Lenders, Borrowers and Car Club Admins must avoid committing any Harmful Behaviour via Cuvva. “Harmful Behaviour” means posting, creating, messaging or publishing anything defamatory, libellous, offensive, harassing, obscene, malicious, discriminatory or which may otherwise be harmful, distressing, inappropriate or unacceptable. Cuvva may take such action as it considers necessary to ensure that Lenders, Borrowers and Car Club Admins are using our app and Car Sharing features in an appropriate manner, and to protect Lenders, Borrowers and Car Club Admins from any Harmful Behaviours. You can report any Harmful Behaviour by other users to us via the flag function in the app or by email to [support@cuvva.com](mailto:support@cuvva.com). 
 
 Cuvva’s Car Sharing feature can merely help Lenders and Borrowers connect. Cuvva does not own or control any vehicle listed or insured through Cuvva. The contract to lend or borrow a vehicle is directly between the Lender and Borrower.
 
-For Cuvva’s Car Sharing feature, Cuvva acts as agent to the Lender to collect any payment owed by the Borrower to the Lender for Car Sharing (see Section 14 below for more detail). In particular, Lenders and Borrowers must avoid committing any Harmful Behaviour via Cuvva. “Harmful Behaviour” means posting, creating, messaging or publishing anything defamatory, libellous, offensive, harassing, obscene, malicious, discriminatory or which may otherwise be harmful, distressing, inappropriate or unacceptable. Cuvva may take such action as it considers necessary to ensure that Lenders and Borrowers are using our app and Car Sharing features in an appropriate manner, and to protect Lenders and Borrowers from any Harmful Behaviours. You can report any Harmful Behaviour by other users to us via the flag function in the app or by email to [support@cuvva.com](mailto:support@cuvva.com). 
+For Cuvva’s Car Sharing feature, Cuvva acts as agent to the Lender to collect any payment owed by the Borrower to the Lender for Car Sharing (see Section 14 below for more detail).
+
 
 ## 12. Providing information when sharing vehicles
 
@@ -209,7 +210,7 @@ We reserve the right to terminate this agreement with you and/or to resign as yo
 If we freeze your account, we might not be able to tell you why. But we'll continue to fulfil any outstanding regulatory responsibilities to you.
 
 We reserve the right at any time to suspend, discontinue or modify any of our services (such as our Car Sharing service) or some or all of its features. If we do suspend, discontinue or modify a service or feature, we’ll try to provide you with notice where feasible, but some changes might occur without notice. Unless stated otherwise, such suspension, discontinuance or modification will not terminate or modify these terms, which will continue in full force and effect.
-In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 17 to 198 and 210 to 276 inclusive.
+In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 17 to 19 and 21 to 27 inclusive.
 
 ## 16. Moderating illegal content on our platform
 

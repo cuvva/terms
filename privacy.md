@@ -50,9 +50,9 @@ We may also use automated systems using AI to check the quality of the photo ID 
 
 ### Location, motion and telematics data
 
-Before we collect any location, motion or telematics data, your device will ask for your consent.
+Before we collect any location, motion or telematics data, your device will ask for your consent, except in cases where you voluntarily share these data as part of our Car Sharing feature as explained further in the ‘Personal data for Car Sharing and User-Generated Content (UGC)’ section below.
 
-We need your location to offer you a quote. It helps us prevent misuse, and lets us know you're purchasing from the right place - bearing in mind you can only purchase our products while you're in the UK. Your location can be used to determine risk, and will be recorded on your profile.
+We need your location to offer you a quote or to help you with any disputes or claims. It helps us prevent misuse, and lets us know you're purchasing from the right place - bearing in mind you can only purchase our products while you're in the UK. Your location can be used to determine risk, and will be recorded on your profile.
 
 We may use motion and telematics data to see if we can cover you, to determine accurately when you're driving, to work out your pricing, and to help with any disputes or claims. You may be able to get better pricing if the data shows that you're a good driver.
 
@@ -94,7 +94,7 @@ We may collect and share your personal data through our Ownership feature or Car
 This personal data and UGC will be visible to third parties who have indicated that they may wish to lend or borrow a vehicle. We will process any such personal data for the purposes of enhancing our Car Sharing feature.
 
 When you create and administer a car club, we refer to you as the “Car Club Admin.”
-If you are not a Car Club Admin, but you are still required to claim ownership of a vehicle (e.g. post-policy purchase), your preferred first name might appear on the vehicle profile screen if other Cuvva users search for your vehicle using the number plate. Please ensure that your preferred first name on your Cuvva account does not include your surname, to prevent your full name from being shown to other users. Please refer to clause 11 in our Terms and Conditions for more details about the ownership feature.
+If you are not a Car Club Admin, but you are still required to claim ownership of a vehicle (e.g. post-policy purchase), your preferred first name might appear on the vehicle profile screen if other Cuvva users search for your vehicle using the number plate. Please ensure that your preferred first name on your Cuvva account does not include your surname, to prevent your full name from being shown to other users. Please refer to clause 11 in our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md) for more details about the ownership feature.
 
 ### Focus groups, feedback and reviews
 
@@ -163,17 +163,15 @@ We'll keep your information only for as long as there's a need to. This includes
 - Account for various limitation periods in law; and
 - Allow it to be used in any court proceedings arising out of or in connection with you, your vehicle or your policy. 
 
-If you're a customer and you've bought a Cuvva policy, we need to keep your data for at least seven years from when your most recent policy expired, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later.
+If you're a customer and you've bought a Cuvva policy or engaged in Car Sharing, we need to keep your account and data for at least seven years from when your most recent policy expired or Car Sharing completed, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later. If you request us to delete your data before expiry of this period, we will not be able to process your request. 
+ 
+We need to keep it for that period of time in case of any claims against you, any disputes, or anything else meaning we need to show records of your cover or records of your Car Sharing. As an example, someone could make a claim against you some time after you took your policy out or you, as a lender of a car, may have a dispute with the borrower after Car Sharing. Being able to refer to your records can help to defend against claims or assist with disputes.
 
-Where you have used our Car Sharing feature and provided bank account information, we will typically only keep your bank account number for up to 30 days, unless we have a legitimate reason to keep it longer.
+If you’re a customer but you’ve never bought a Cuvva policy or engaged in Car Sharing, we may be able to delete your account upon your request and remove your personal data from our live systems. However, your data may still exist in our archive for some time where any of the factors in the first paragraph of this section apply and it is therefore necessary to retain your data. For example, customer data related to attempted transactions are often valuable information for detecting fraud patterns. Please note, we will have marked your records so that they appear to have never existed. Your data will be removed from our archives too after the lapse of the appropriate period beyond which none of the above factors would apply. 
 
-We need to keep it for that period of time in case of any claims against you, any disputes, or anything else meaning we need to show records of your cover. As an example, someone could make a claim against you some time after you took your policy out. Being able to refer to your records can help to defend against claims.
+We will delete your personal data if, after an appropriate period of time, we determine it’s no longer necessary to retain your personal data, after considering the factors listed in the first paragraph of this section. We will delete your data after the appropriate time regardless of whether or not you have requested deletion of your personal data.
 
-If the above doesn't apply, we may be able to delete your account upon your request. There's more information on that below.
-
-If any of the above does apply, we will delete your information after the lapse of the appropriate period upon your request. This will mean that all of your data is removed from our live systems. Your data will still exist in our archive. But we will have marked your records so that they appear to have never existed.
-
-Whether or not you request deletion of your own personal data, we will delete your personal data from our live systems if, after an appropriate period of time, we determine it’s no longer necessary to retain your personal data, after considering the factors listed in the first paragraph of this section.
+Please note, in the case of any driving license-related data, including conviction data, obtained via MyLicense as set out in our [Fair obtaining notice](https://github.com/cuvva/terms/blob/master/fon.md), the data will be deleted from our systems after 24 hours from the date of obtaining them if no policy is purchased within this time. If a policy is purchased within this time, the data is subject to the retention periods set out above. 
 
 ## How we keep data safe
 
