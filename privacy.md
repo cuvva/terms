@@ -16,7 +16,7 @@ We have an independent Data Protection Officer too, they're called Aphaia Ltd. Y
 
 Personal data means information which can be used to identify you. We need personal data to see if we can cover you, to calculate your pricing, to help with any claims, and to deliver the best experience.
 
-We see if we can cover you, and calculate your pricing automatically. You can always chat to a human about any automated decision-making in the app. We're available 6am-1am, everyday.
+We see if we can cover you, and calculate your pricing automatically. You can always chat to a human about any automated decision-making in the app. We're available 9am-9pm, every day (except Sundays, when we are available until 6pm). Please bear in mind that we may reduce our support hours at quiet times (such as late at night), during the Christmas period or in other circumstances..
 
 As with all insurance, working out your pricing requires profiling. This means your pricing will be influenced by things like your age, job and location at the time of your quote.
 
@@ -144,6 +144,7 @@ Under the UK General Data Protection Regulation (UK GDPR), the lawful bases we r
 (b) **Our legitimate interest**. We need to process your information to: 
 - Determine if we can cover you;
 - Calculate your pricing;
+- Enter into and perform the contract of insurance;
 - Help with any claims;
 - Provide better customer support;
 - Prevent fraud;
@@ -187,11 +188,12 @@ We arrange independent and expert penetration testing on our systems, which help
 
 If you'd like us to delete your information, just let us know. Again, the best way to do that is usually via the app.
 
-Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. We need to keep your data for at least seven years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover.
+Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. In accordance with the relevant data protection legislation and other applicable laws, Wwe need to keep your data for at least seven years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover. The maximum that we will hold your data for, in our archive, is 9 years to comply with the relevant legislations. 
 
-There may be other reasons why we won't be able to delete your account where you haven't bought a policy; for example any disputes, or for the detection and prevention of fraud.
+There may be other reasons why we won't be able to delete your account where you haven't bought a policy; for example any disputes, or for the detection and prevention of fraud. 
 
 In other cases and wherever we can, we'll delete your account upon your request. This will mean that all of your data is removed from our live systems. Your data will still exist in our archive. But we will have marked your records so that they appear to have never existed.
+
 
 ### Right to object
 
@@ -242,4 +244,4 @@ Helpline number: 0303 123 1113
 
 
 
-[_v1.24 (2025-05-21)_](https://github.com/cuvva/terms/blob/privacy-v1.24/privacy.md)
+[_v1.25 (2025-10-22)_](https://github.com/cuvva/terms/blob/privacy-v1.25/privacy.md)

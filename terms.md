@@ -29,7 +29,12 @@ Clauses 15 (Termination, freezes and bans) to 26 (Law and jurisdiction) inclusiv
 
 Our Products are underwritten by insurance companies (**insurers**), not Cuvva. To buy a Product, you need to agree to a contract with the relevant insurer (**insurance contract** or **“insurance policy"**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
 
-**Cuvva doesn't give personal recommendations or advice. Cuvva hasn't carried out an analysis of the market to identify the best possible offer for you.** You'll need to make your own choice on whether the Product is suitable for your needs.
+We may offer two insurance Products:
+- A policy which provides coverage from 1 hour up to 28 days (inclusive), which we call our **“short-term motor insurance”** or **“STM”** Product.
+- A policy which provides coverage for one calendar year, which we call an **“annual”** Product.
+
+
+**Cuvva doesn't give personal recommendations or advice. Cuvva hasn't carried out an analysis of the market to identify the best possible offer for you.** Cuvva may only present one Product from one insurer to you, and may not be able to offer you any insurance Product. You'll need to make your own choice on whether the Product is suitable for your needs.
 
 Our Products are provided by insurers on a non-exclusive basis. Details of the relevant insurer can be found in your insurance contract before purchase, and are available on request.
 
@@ -58,7 +63,7 @@ Before buying our Products, you should read the relevant insurance contract with
 
 We reserve the right to charge you reasonable costs for chargebacks raised in your name, or against any payment cards you've used.
 
-We can't make changes to any policy which is for coverage of 1 hour up to 28 days inclusive (which we call our **“short-term motor insurance”** Product, once it's been purchased. So if you purchase short-term motor insurance, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle in that case, you would need to get a new quote in the app or website, before purchasing a new short-term motor insurance Product.
+We can't make changes to any short-term motor insurance policy (which is for coverage of 1 hour up to 28 days inclusive) once it's been purchased. So if you purchase short-term motor insurance, you wouldn't be able to change it to cover a different vehicle, for example. If you wanted to cover a different vehicle in that case, you would need to get a new quote in the app or website, before purchasing a new short-term motor insurance Product.
 
 Referrals are intended for people you know. So please don't post your referral links publicly. We might cancel or limit how many people can redeem your links if we find any posted publicly.
 
@@ -91,9 +96,14 @@ We won't be responsible for any loss, damage or otherwise that results from you 
 
 ## 6. Cancellation of your insurance policy
 
-If you purchase any Products, the details of your cancellation rights will be included in the relevant insurance contract. **In most cases, due to the rules governing short-term motor insurance, once a Product is active you no longer have a right to receive a refund.**
+If you purchase any Products, the details of your cancellation rights will be included in the relevant insurance contract. **Due to the rules governing short-term motor insurance, once a short-term motor insurance Product is active you no longer have a right to receive a refund.**
 
 **Your insurance contract will include a cancellation clause for the insurer in certain circumstances. You should ensure you understand when this might happen before you enter into the insurance contract.**
+
+If you purchase an annual policy and you would like to cancel within the 14 day cooling-off period, Cuvva will charge you a £25 admin fee to cancel your policy. 
+
+If you wish to cancel your policy after this cooling-off period, then whether it is possible to cancel, and any cancellation fee, will depend on your policy type. Cuvva and the insurer may charge a cancellation fee, the amount of which varies depending on when you purchased the policy and the type of policy you have. For confirmation, please review your policy wording, which can be found within your Cuvva account or by email.
+
 
 ## 7. How we get paid
 
@@ -281,4 +291,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase of 
 
 The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if you wish to do so.
 
-[_v1.24 (2025-05-21)_](https://github.com/cuvva/terms/blob/terms-v1.24/terms.md)
+[_v1.25 (2025-10-22)_](https://github.com/cuvva/terms/blob/terms-v1.25/terms.md)
