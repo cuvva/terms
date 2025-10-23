@@ -188,7 +188,7 @@ We arrange independent and expert penetration testing on our systems, which help
 
 If you'd like us to delete your information, just let us know. Again, the best way to do that is usually via the app.
 
-Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. In accordance with the relevant data protection legislation and other applicable laws, Wwe need to keep your data for at least seven years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover. The maximum that we will hold your data for, in our archive, is 9 years to comply with the relevant legislations. 
+Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. In accordance with the relevant data protection legislation and other applicable laws, We need to keep your data for at least seven years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover. The maximum that we will hold your data for, in our archive, is 9 years to comply with the relevant legislations. 
 
 There may be other reasons why we won't be able to delete your account where you haven't bought a policy; for example any disputes, or for the detection and prevention of fraud. 
 
