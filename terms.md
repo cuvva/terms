@@ -223,7 +223,7 @@ We reserve the right to terminate this agreement with you and/or to resign as yo
 If we freeze your account, we might not be able to tell you why. But we'll continue to fulfil any outstanding regulatory responsibilities to you.
 
 We reserve the right at any time to suspend, discontinue or modify any of our services (such as our Car Sharing service) or some or all of its features. If we do suspend, discontinue or modify a service or feature, we’ll try to provide you with notice where feasible, but some changes might occur without notice. Unless stated otherwise, such suspension, discontinuance or modification will not terminate or modify these terms, which will continue in full force and effect.
-In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 18 to 20 and 22 to 27 inclusive.
+In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 18 to 20 and 22 to 28 inclusive.
 
 ## 16. Moderating illegal content on our platform
 
