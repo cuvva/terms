@@ -151,7 +151,7 @@ We may ask for your consent to share your details with relevant third parties. Y
 - Enter into and perform the contract of insurance;
 - Help with any claims;
 - Provide better customer support;
-- Prevent fraud;
+- Detect, investigate or prevent fraud and crime;
 - Process payments for Car Sharing features;
 - Provide and improve our business, services and products, or those of a relevant third-party partner;
 - Enhance or facilitate better use of the Car Sharing feature;
@@ -164,7 +164,7 @@ We may ask for your consent to share your details with relevant third parties. Y
 We'll keep your information only for as long as there's a need to. This includes retaining your personal data to:
 
 - Respond to any questions, complaints or claims made by you or on your behalf;
-- Detect, investigate or prevent misuse and fraud;
+- Detect and prevent misuse and fraud;
 - Show that we treated you fairly;
 - Keep records required by law;
 - Account for various limitation periods in law; and
