@@ -114,6 +114,8 @@ If you choose to connect your Cuvva account with a third party, like Facebook fo
 
 Be aware of the privacy notices of any third party service you use, even if you have reached that service through a link from Cuvva.
 
+We may also share your information with our relevant third-party partners, to provide, improve and develop our business, services and products. For example, we may share your information with our finance partners to assist with monthly payment plans. 
+
 ## Other people's consent
 
 If you choose to share someone's information with us, it's your responsibility to ensure they consent or someone with parental responsibility for them consents.
@@ -128,9 +130,9 @@ We use third-party fraud detection providers that combine data of various claims
 
 We use third party payment processing and account service providers to facilitate our Car Sharing features.
 
-The data we collect from you may be transferred to and stored somewhere outside the European Economic Area ("EEA"). It may be processed by staff outside the EEA who work for us or one of our suppliers.
+The data we collect from you may be transferred to and stored somewhere outside the United Kingdom ("UK"). It may be processed by staff outside the UK who work for us or one of our suppliers.
 
-Where the data is sent outside the EU/EEA, the protection may be based on standard clauses verified by the European Commission and other data security safeguards. Or there might be an adequacy decision in place guaranteeing an equivalent degree of data protection.
+Where the data is sent outside the UK, the protection may be based on standard clauses verified by the European Commission and other data security safeguards. Or there might be an adequacy decision in place guaranteeing an equivalent degree of data protection.
 
 The parties we send your information to are obliged to comply with data protection laws, regulations and standards. Each of them signs a contract with Cuvva, giving assurances over the security and correct treatment of your information.
 
@@ -138,8 +140,10 @@ You can find out more on where your information goes [here](https://github.com/c
 
 ## Lawful bases for processing your information
 
-Under the UK General Data Protection Regulation (UK GDPR), the lawful bases we rely on for processing your various information as set out above are: 
+Under the UK General Data Protection Regulation (UK GDPR”) and related legislation and guidance, the lawful bases we rely on for processing your various information as set out above are: 
 (a) **Your consent**. Where we rely on your consent to process your data, you’re able to remove your consent at any time. If you'd like to withdraw your consent, you can just let us know, or in the case of location, motion and telematics data, change your device setting. However, your ability to use us may be limited if we can’t access certain data.
+
+We may ask for your consent to share your details with relevant third parties. You can easily withdraw this consent at any time in the app or by contacting us.
 
 (b) **Our legitimate interest**. We need to process your information to: 
 - Determine if we can cover you;
@@ -149,22 +153,24 @@ Under the UK General Data Protection Regulation (UK GDPR), the lawful bases we r
 - Provide better customer support;
 - Prevent fraud;
 - Process payments for Car Sharing features;
-- Provide and improve our services in general;
+- Provide and improve our business, services and products, or those of a relevant third-party partner;
 - Enhance or facilitate better use of the Car Sharing feature;
 - Prevent Harmful Behaviours (as defined in clause 11 of our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md));
+- Safeguard vulnerable individuals (in accordance with the Data (Use and Access) Act (“DUAA”) 2025; and
+- Conduct direct marketing activities (in accordance with DUAA and UK GDPR).
 
 ## How long we keep your information for
 
 We'll keep your information only for as long as there's a need to. This includes retaining your personal data to:
 
 - Respond to any questions, complaints or claims made by you or on your behalf;
-- Detect and prevent misuse and fraud;
+- Detect, investigate or prevent misuse and fraud;
 - Show that we treated you fairly;
 - Keep records required by law;
 - Account for various limitation periods in law; and
 - Allow it to be used in any court proceedings arising out of or in connection with you, your vehicle or your policy. 
 
-If you're a customer and you've bought a Cuvva policy or engaged in Car Sharing, we need to keep your account and data for at least seven years from when your most recent policy expired or Car Sharing completed, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later. If you request us to delete your data before expiry of this period, we will not be able to process your request. 
+If you're a customer and you've bought a Cuvva policy or engaged in Car Sharing, we need to keep your account and data for at least seven years from when your most recent policy expired or Car Sharing completed, or for at least seven years from when any claim made under your policy was finally decided or settled, whichever is later. If you request us to delete your data before expiry of this period, we will not be able to process your request. The maximum length of time that we will keep your data for is nine years.
  
 We need to keep it for that period of time in case of any claims against you, any disputes, or anything else meaning we need to show records of your cover or records of your Car Sharing. As an example, someone could make a claim against you some time after you took your policy out or you, as a lender of a car, may have a dispute with the borrower after Car Sharing. Being able to refer to your records can help to defend against claims or assist with disputes.
 
@@ -172,7 +178,7 @@ If you’re a customer but you’ve never bought a Cuvva policy or engaged in Ca
 
 We will delete your personal data if, after an appropriate period of time, we determine it’s no longer necessary to retain your personal data, after considering the factors listed in the first paragraph of this section. We will delete your data after the appropriate time regardless of whether or not you have requested deletion of your personal data.
 
-Please note, in the case of any driving license-related data, including conviction data, obtained via MyLicense as set out in our [Fair obtaining notice](https://github.com/cuvva/terms/blob/master/fon.md), the data will be deleted from our systems after 24 hours from the date of obtaining them if no policy is purchased within this time. If a policy is purchased within this time, the data is subject to the retention periods set out above. 
+Please note, in the case of any driving license-related data, including conviction data, obtained via MyLicence as set out in our [Fair obtaining notice](https://github.com/cuvva/terms/blob/master/fon.md), the data will be deleted from our systems after 24 hours from the date of obtaining them if no policy is purchased within this time. If a policy is purchased within this time, the data is subject to the retention periods set out above. 
 
 ## How we keep data safe
 
@@ -207,7 +213,7 @@ We won't usually charge a fee for providing or transferring that information, bu
 
 ### Right to rectification
 
-You can login to the app to correct any inaccuracies in parts of your account. Some information can only be updated by our support team - so please speak to us if you'd like any help. Changing information on your account could impact your pricing, and it could mean that we're no longer able to offer you one or more of our products.
+You can login to the app to correct any inaccuracies in parts of your account. Some information can only be updated by our support team - so please speak to us if you'd like any help. Please be aware that changing information on your account could impact your pricing, and it could mean that we're no longer able to offer you one or more of our products.
 
 ### Right to restriction
 
@@ -217,7 +223,7 @@ This is an alternative to requesting the erasure of your data. For example, we c
 
 ## Cookies
 
-As with most websites, we use cookies. You can find out more, including how to opt out in our cookie policy, which you can find on our website.
+As with most websites, we use cookies. You can find out more, including how to opt out in our cookie policy, which you can find on [our website](https://github.com/cuvva/terms/blob/master/cookies.md).
 
 ## Changes
 
