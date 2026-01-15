@@ -16,7 +16,7 @@ We have an independent Data Protection Officer too, they're called Aphaia Ltd. Y
 
 Personal data means information which can be used to identify you. We need personal data to see if we can cover you, to calculate your pricing, to help with any claims, and to deliver the best experience.
 
-We see if we can cover you, and calculate your pricing automatically. You can always chat to a human about any automated decision-making in the app. We're available 9am-9pm, every day (except Sundays, when we are available until 6pm). Please bear in mind that we may reduce our support hours at quiet times (such as late at night), during the Christmas period or in other circumstances..
+We see if we can cover you, and calculate your pricing automatically. You can always chat to a human about any automated decision-making in the app. We're available 9am-9pm, every day (except Sundays, when we are available until 6pm). Please bear in mind that we may reduce our support hours at quiet times (such as late at night), during the Christmas period or in other circumstances.
 
 As with all insurance, working out your pricing requires profiling. This means your pricing will be influenced by things like your age, job and location at the time of your quote.
 
