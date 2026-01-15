@@ -21,9 +21,9 @@ Clauses 2 (Our insurance products and services) to 11 (Additional terms when sha
 
 If you are purchasing an insurance Product with us on someone else’s vehicle which you are borrowing, clauses 11 (Additional terms when sharing vehicles via Cuvva) to 14 (Payments for sharing vehicles) inclusive will also be relevant to you, in addition to clauses 2 to 10.
 
-If you won’t have any insurance Products with us but are instead just using our services to facilitate lending your vehicle to a third party, clauses 11 (Additional terms when sharing vehicles via Cuvva) to 27 (Law and jurisdiction) inclusive are relevant to you. Clauses 15 (Termination, freezes and bans) to 27 (Law and jurisdiction) inclusive will be relevant to anyone using any Cuvva Product or service for any purpose.
+If you won’t have any insurance Products with us but are instead just using our services to facilitate lending your vehicle to a third party, clauses 11 (Additional terms when sharing vehicles via Cuvva) to 16 (Moderating illegal content on our platform) inclusive and 18 (Liability if things go wrong) to 28 (Law and jurisdiction) inclusive are relevant to you.
 
-Clauses 15 (Termination, freezes and bans) to 26 (Law and jurisdiction) inclusive will be relevant to anyone using any Cuvva Product or service for any purpose.
+Clauses 15 (Termination, freezes and bans) to 28 (Law and jurisdiction) inclusive will be relevant to anyone using any Cuvva Product or service for any purpose.
 
 ## 2. Our insurance products and services
 
@@ -98,12 +98,15 @@ We won't be responsible for any loss, damage or otherwise that results from you 
 
 If you purchase any Products, the details of your cancellation rights will be included in the relevant insurance contract. **Due to the rules governing short-term motor insurance, once a short-term motor insurance Product is active you no longer have a right to receive a refund.**
 
+If you have purchased a 30 day impound release Product, we will not offer a refund after your policy has started, unless you show us proof that your vehicle was scrapped at the impound and so you were unable to use your policy.
+
 **Your insurance contract will include a cancellation clause for the insurer in certain circumstances. You should ensure you understand when this might happen before you enter into the insurance contract.**
 
 If you purchase an annual policy and you would like to cancel within the 14 day cooling-off period, Cuvva will charge you a £25 admin fee to cancel your policy. 
 
-If you wish to cancel your policy after this cooling-off period, then whether it is possible to cancel, and any cancellation fee, will depend on your policy type. Cuvva and the insurer may charge a cancellation fee, the amount of which varies depending on when you purchased the policy and the type of policy you have. For confirmation, please review your policy wording, which can be found within your Cuvva account or by email.
+If you wish to cancel your policy after this cooling-off period, then whether it is possible to cancel, and any cancellation fee, will depend on your policy type. Cuvva and the insurer and any finance partner may charge a cancellation fee, the amount of which varies depending on when you purchased the policy and the type of policy you have. For confirmation, please review your policy wording, which can be found within your Cuvva account or by email.
 
+If you have used premium finance, for further details on the cancellation terms and conditions for agreements made with our financing partners, please refer to clause 17.
 
 ## 7. How we get paid
 
@@ -220,7 +223,7 @@ We reserve the right to terminate this agreement with you and/or to resign as yo
 If we freeze your account, we might not be able to tell you why. But we'll continue to fulfil any outstanding regulatory responsibilities to you.
 
 We reserve the right at any time to suspend, discontinue or modify any of our services (such as our Car Sharing service) or some or all of its features. If we do suspend, discontinue or modify a service or feature, we’ll try to provide you with notice where feasible, but some changes might occur without notice. Unless stated otherwise, such suspension, discontinuance or modification will not terminate or modify these terms, which will continue in full force and effect.
-In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 17 to 19 and 21 to 27 inclusive.
+In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 18 to 20 and 22 to 27 inclusive.
 
 ## 16. Moderating illegal content on our platform
 
@@ -230,7 +233,22 @@ If a user-to-user chat within our car-sharing feature contains material flagged 
 
 If in the event that any illegal content slips through our moderating system, please contact our support team immediately, who will swiftly investigate the matter. If any illegal content appears on the user-to-user chat function, please report the user using the report function in the chat. If you have a complaint related to illegal content, please refer to our formal [complaints policy](https://www.cuvva.com/support/cuvva-complaints-policy).
 
-## 17. Liability if things go wrong
+## 17. Finance partners
+
+Cuvva is authorised and regulated to offer credit broker services; we are not a lender. This means that we can introduce you to third-party lenders to help finance your premium, but we are not responsible for the terms of any credit agreement you enter into with them. You'll need to make your own decision on whether premium financing is suitable for your needs. We may receive commission for introducing you to a finance provider. 
+
+**Premium financing via PremFina**
+
+PremFina are our financing partners; if you want to pay your annual premium by instalments, your monthly payment plan will be set up by PremFina. PremFina are authorised and regulated by the FCA (firm reference number 724083). If you are considering using premium financing, please note:
+
+- Your premium finance agreement is separate from your insurance policy.
+- **In the event your credit agreement has been cancelled or otherwise terminated (due to non-payment by you, for example), Cuvva shall be entitled to immediately cancel your associated insurance policy.**
+- Cuvva, the insurer and/or the premium finance provider, may charge a cancellation fee, and will be permitted to recover any unpaid finance amounts from you.
+- Please refer to your credit agreement for further details on cancellation and termination terms.
+- Cuvva may share your relevant data with PremFina to help facilitate the financing arrangements. We will always handle your personal data in accordance with our [Privacy Notice](). PremFina may share your data with relevant third parties, for example, to conduct credit reference checks. These reference checks may leave a trace on your credit record.
+- You can contact PremFina through their website [here](https://www.premfina.com/).
+
+## 18. Liability if things go wrong
 
 We provide our services on an “as is” basis, without any guarantees, warranties or representations. We do not guarantee the quality, suitability or safety of vehicles, the reliability or trustworthiness of drivers or the availability or suitability of our services. You agree that the entire risk arising out of your use of the services or out of lending or borrowing a vehicle remains solely with you, to the maximum extent permitted under applicable law. We shall not be liable for delay or failure in performance resulting from causes beyond our reasonable control.
 
@@ -246,49 +264,49 @@ If you have a dispute with a Lender or a Borrower, you release us (and our affil
 
 You agree to indemnify and compensate us in full (and our officers, directors, agents, subsidiaries, joint ventures and employees) for any losses or costs, including reasonable legal fees, we incur arising out of any breach by you of these terms, your improper use of our services or your breach of any law or the rights of a third party.
 
-## 18. Your instructions to us
+## 19. Your instructions to us
 
 Usually all communications are made via the app, but we may also contact you by email, letter, telephone or any other reasonable method. You should contact us in the app unless we specify otherwise. We can't guarantee your instructions have been received unless we've acknowledged them. We reserve the right to refuse instructions but, if we do, we'll let you know if we can.
 
-## 19. Privacy notice
+## 20. Privacy notice
 
 You can find details of how we treat your personal data in our Privacy Notice, which you can find in our app or website [here](https://support.cuvva.com/en/articles/5907862-cuvva-s-privacy-notice).
 
-## 20. Authentication
+## 21. Authentication
 Please keep your Cuvva account details safe and confidential. Tell us immediately if you think someone else may have accessed your account.
 
 **If you don't keep your account details safe and confidential, and/or you allow another person to access your account, and another person uses your account to purchase a Product, Cuvva will not be obliged to refund you for that Product**.
 
 In order to verify that your card details are active we may charge a small nominal amount (for example £1.00) to your card or account, this will be released back to you within 7 days (this is sometimes known as an "active card check"). This may still happen if the card verification fails, and can happen more than once if you add the card multiple times.
 
-## 21. Money Laundering &amp; Proceeds of Crime
+## 22. Money Laundering &amp; Proceeds of Crime
 
 We're obliged to report to the Serious Organised Crime Agency any suspicion of money laundering or terrorist financing activity. We may be prohibited from disclosing to you the contents of such report or the fact that such a report has been made.
 
 We reserve the right to impose such anti-money laundering and ‘Know Your Customer’ checks from time to time as we see fit.
 
-## 22. Third party rights
+## 23. Third party rights
 
 This contract is between you and us. Nothing in these terms will give someone who isn't party to the contract any right to enforce any of these terms. We won't need the agreement of someone who isn't party to the contract in order to end the contract or make any changes to these terms.
 
-## 23. Severability
+## 24. Severability
 
 If any part of these terms is or becomes illegal, invalid or unenforceable then that part will be deemed removed from these terms. It won't affect the legality, validity or enforceability of the remaining terms.
 
-## 24. Waiver
+## 25. Waiver
 
 Our failure or delay in enforcing or partially enforcing any provision of the terms won't be construed as a waiver of any of our rights under the terms. This means that if we don't insist immediately that you do anything you're required to do under these terms, or if we delay in taking steps against you in respect of your breaking this contract, that won't mean you don't have to do those things, and it won't prevent us taking steps against you at a later date.
 
-## 25. Permission to use any relevant vehicle
+## 26. Permission to use any relevant vehicle
 
 By using the app or website you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle or your behaviour. Please remember to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when lending or borrowing a vehicle.
 
-## 26. Insurer solvency
+## 27. Insurer solvency
 
 We don't guarantee the solvency of any insurer we help arrange your purchase of Products from. An insolvent insurer may be unable to pay a proportion or all of any claim made. If an insurer becomes insolvent you may need to pay a further premium to pay for alternative insurance cover. In the event an insurer becomes insolvent, we'll let you know as soon as we can and help as best we can. We will not be liable to pay out any claims or fulfil any obligations owed to you by an insolvent insurer.
 
-## 27. Law and jurisdiction
+## 28. Law and jurisdiction
 
 The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if you wish to do so.
 
-[_v1.25 (2025-10-22)_](https://github.com/cuvva/terms/blob/terms-v1.25/terms.md)
+[_v1.26 (2026-01-15)_](https://github.com/cuvva/terms/blob/terms-v1.26/terms.md)
