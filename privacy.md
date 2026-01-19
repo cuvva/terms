@@ -140,7 +140,8 @@ You can find out more on where your information goes [here](https://github.com/c
 
 ## Lawful bases for processing your information
 
-Under the UK General Data Protection Regulation (UK GDPR”) and related legislation and guidance, the lawful bases we rely on for processing your various information as set out above are: 
+Under the UK General Data Protection Regulation (UK GDPR”) and related legislation and guidance, the lawful bases we rely on for processing your various information as set out above are:
+
 (a) **Your consent**. Where we rely on your consent to process your data, you’re able to remove your consent at any time. If you'd like to withdraw your consent, you can just let us know, or in the case of location, motion and telematics data, change your device setting. However, your ability to use us may be limited if we can’t access certain data.
 
 We may ask for your consent to share your details with relevant third parties. You can easily withdraw this consent at any time in the app or by contacting us.
