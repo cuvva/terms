@@ -248,6 +248,15 @@ PremFina are our financing partners; if you want to pay your annual premium by i
 - Cuvva may share your relevant data with PremFina to help facilitate the financing arrangements. We will always handle your personal data in accordance with our [Privacy Notice](). PremFina may share your data with relevant third parties, for example, to conduct credit reference checks. These reference checks may leave a trace on your credit record.
 - You can contact PremFina through their website [here](https://www.premfina.com/).
 
+**Buy Now, Pay Later (“BNPL”)**
+
+If you choose to pay via a BNPL provider, such as Klarna (including through a service like Apple Pay), you are entering into a credit agreement with that lender. Please note:
+
+- Unlike the premium financing arrangement described above, a BNPL credit agreement is typically an independent loan. **Cancelling your insurance policy does not automatically cancel your BNPL credit agreement.**
+- If you cancel your policy mid-term, any pro-rata refund due from the insurer (if any) will be paid directly to the BNPL provider to reduce your loan balance.
+- If the insurance refund is less than your outstanding BNPL balance (due to cancellation fees or insurer terms, for example), you remain liable to the BNPL provider for the outstanding balance.
+- Cuvva, the insurer and/or the premium finance provider, may charge a cancellation fee.
+
 ## 18. Liability if things go wrong
 
 We provide our services on an “as is” basis, without any guarantees, warranties or representations. We do not guarantee the quality, suitability or safety of vehicles, the reliability or trustworthiness of drivers or the availability or suitability of our services. You agree that the entire risk arising out of your use of the services or out of lending or borrowing a vehicle remains solely with you, to the maximum extent permitted under applicable law. We shall not be liable for delay or failure in performance resulting from causes beyond our reasonable control.
