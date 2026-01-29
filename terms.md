@@ -1,10 +1,10 @@
 **Why you should read these**
 
-Please read these terms and conditions (**"terms"**) carefully before you use Cuvva. 
+Please read these terms and conditions (**"terms"**) carefully before you use Cuvva.
 
 These terms are a binding legal agreement between you and Cuvva that govern your right to use the websites, applications, and other offerings from Cuvva (our **"services"**). These terms will tell you who we are, how we provide products and services to you, how we might change these terms, how you or we could end our agreement to these terms, what to do if there's a problem and other important information.
 
-If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@cuvva.com). We’re here to reply within a few minutes any day of the week, during peak hours. Bear in mind that we may reduce our support hours at quiet times (such as late at night), during the Christmas period or in other circumstances.
+If you think there's a mistake or anything needs amending, please get in touch. The best way to speak with us is usually in the app - or you can email us at [support@cuvva.com](mailto:support@support@cuvva.com). We’re here to reply within a few minutes any day of the week, during peak hours. Bear in mind that we may reduce our support hours at quiet times (such as late at night), during the Christmas period or in other circumstances.
 
 ## 1. General
 
@@ -12,9 +12,10 @@ These terms are provided by Cuvva Limited (**"Cuvva", "we", "our"**) a company i
 
 These terms will be legally binding when you accept them. We'll make small changes from time-to-time, so come back and read these terms now and again. We'll notify you by email or by a notification in the app or website if we make material changes, so you can read and let us know if you accept the updated version.
 
-We're a motor insurance intermediary offering innovative insurance products (our **“Products”**) and services. We can: 
-- offer you Products so that you can insure a vehicle; 
-- help you borrow a vehicle from other Cuvva customers; or
+We're a motor insurance intermediary offering innovative insurance products (our **“Products”**) and services. We can:
+
+- offer you Products so that you can insure a vehicle;  
+- help you borrow a vehicle from other Cuvva customers; or  
 - help you lend your vehicle to other Cuvva customers.
 
 Clauses 2 (Our insurance products and services) to 11 (Additional terms when sharing vehicles via Cuvva or claiming ownership of a vehicle) inclusive are relevant to you if you are purchasing an insurance Product with us on your own vehicle.
@@ -30,9 +31,9 @@ Clauses 15 (Termination, freezes and bans) to 28 (Law and jurisdiction) inclusiv
 Our Products are underwritten by insurance companies (**insurers**), not Cuvva. To buy a Product, you need to agree to a contract with the relevant insurer (**insurance contract** or **“insurance policy"**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
 
 We may offer two insurance Products:
-- A policy which provides coverage from 1 hour up to 28 days (inclusive), which we call our **“short-term motor insurance”** or **“STM”** Product.
-- A policy which provides coverage for one calendar year, which we call an **“annual”** Product.
 
+- A policy which provides coverage from 1 hour up to 28 days (inclusive), which we call our **“short-term motor insurance”** or **“STM”** Product.  
+- A policy which provides coverage for one calendar year, which we call an **“annual”** Product.
 
 **Cuvva doesn't give personal recommendations or advice. Cuvva hasn't carried out an analysis of the market to identify the best possible offer for you.** Cuvva may only present one Product from one insurer to you, and may not be able to offer you any insurance Product. You'll need to make your own choice on whether the Product is suitable for your needs.
 
@@ -46,8 +47,7 @@ Cuvva Limited is authorised and regulated by the FCA, as we described earlier. W
 
 Cuvva is responsible for arranging and helping insurers administer our Products. As part of this service, we want to give you an exceptional level of customer support at all times. But if you're unhappy with Cuvva, we have a formal [complaints policy](https://www.cuvva.com/support/cuvva-complaints-policy).
 
-The insurer named on your policy will be responsible for administering and paying any claim(s) you may have under your insurance policy. If you’re unhappy with the insurer, you will also have the right to complain to the insurer. 
-If your complaint about Cuvva and/or your insurer remains unresolved, you have the right to refer your complaint to the Financial Ombudsman Service (**FOS**).
+The insurer named on your policy will be responsible for administering and paying any claim(s) you may have under your insurance policy. If you’re unhappy with the insurer, you will also have the right to complain to the insurer. If your complaint about Cuvva and/or your insurer remains unresolved, you have the right to refer your complaint to the Financial Ombudsman Service (**FOS**).
 
 We're also covered by the Financial Services Compensation Scheme (**"FSCS"**). You may be entitled to compensation from the FSCS in the unlikely event we or your insurer can't meet our obligations. Further information about the compensation scheme is available here: [https://fscs.org.uk/your-claim](https://fscs.org.uk/your-claim)
 
@@ -85,9 +85,9 @@ If you're not sure whether you need to tell us something - please ask. We're hap
 
 **If the information provided by you isn't complete and accurate:**
 
-- The insurance policy may be voided by the insurer, meaning the insurance policy effectively never existed, and you may be liable for driving without insurance.
-- The insurance policy may be cancelled by the insurer, meaning the insurer can refuse to pay a claim, or may not pay a claim in full.
-- The insurer may require you to pay additional premiums, change the compulsory excess, or the extent of the cover may be affected to reflect the increased insurance risk; and
+- The insurance policy may be voided by the insurer, meaning the insurance policy effectively never existed, and you may be liable for driving without insurance.  
+- The insurance policy may be cancelled by the insurer, meaning the insurer can refuse to pay a claim, or may not pay a claim in full.  
+- The insurer may require you to pay additional premiums, change the compulsory excess, or the extent of the cover may be affected to reflect the increased insurance risk; and  
 - You may be responsible for damage or loss to a third party if you cause an accident.
 
 **Further details of the insurer's rights are set out in the insurance contract.**
@@ -102,7 +102,7 @@ If you have purchased a 30 day impound release Product, we will not offer a refu
 
 **Your insurance contract will include a cancellation clause for the insurer in certain circumstances. You should ensure you understand when this might happen before you enter into the insurance contract.**
 
-If you purchase an annual policy and you would like to cancel within the 14 day cooling-off period, Cuvva will charge you a £25 admin fee to cancel your policy. 
+If you purchase an annual policy and you would like to cancel within the 14 day cooling-off period, Cuvva will charge you a £25 admin fee to cancel your policy.
 
 If you wish to cancel your policy after this cooling-off period, then whether it is possible to cancel, and any cancellation fee, will depend on your policy type. Cuvva and the insurer and any finance partner may charge a cancellation fee, the amount of which varies depending on when you purchased the policy and the type of policy you have. For confirmation, please review your policy wording, which can be found within your Cuvva account or by email.
 
@@ -132,7 +132,7 @@ It's important to ensure the details of any vehicle you want to insure match the
 
 All UK car insurance policies are automatically added to the "Motor Insurance Database" (**"MID"**) which is used by the police and Automatic Number Plate Recognition (**"ANPR"**) cameras to confirm cars are driving legally. Although Cuvva sends information to the MID faster than other companies, unfortunately, the MID database is slow to update, and it's possible your policy will have expired before it shows up on the MID.
 
-**Your policy documents (found in app, website, or by email) are proof of your cover**. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via app / web chat or by email at **support@cuvva.com**.
+**Your policy documents (found in app, website, or by email) are proof of your cover**. If there are any questions from the authorities, they can do a live check or get in touch with Cuvva. The quickest way for the police (and indeed, anyone) to get a response from us, is usually via app / web chat or by email at [**support@cuvva.com**](mailto:support@cuvva.com).
 
 Please ensure the authorities double-check your policy documents. **If there's any doubt, they should contact Cuvva**. Once your car is impounded you typically have to pay a high fee for the vehicle's release.
 
@@ -146,51 +146,50 @@ As part of our services, we may offer functionality to make it easier for you to
 
 If you add a car to a club, we may ask you to claim ownership of a vehicle, we might ask for proof that you are the legal owner of the car. Even if you do not have a car club, you might also be required to claim ownership of a vehicle, post-policy purchase. If another Cuvva user searches for your vehicle using the number plate, your preferred first name will appear on the vehicle profile screen. Please refer to our Privacy Notice for more details about the ownership feature. The following clauses 11 to 14 are relevant if you are a Lender or Borrower or Car Club Admin.
 
-Lenders, Borrowers and Car Club Admins are expected to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when sharing vehicles, which are incorporated into these terms by reference. In particular, Lenders, Borrowers and Car Club Admins must avoid committing any Harmful Behaviour via Cuvva. “Harmful Behaviour” means posting, creating, messaging or publishing anything defamatory, libellous, offensive, harassing, obscene, malicious, discriminatory or which may otherwise be harmful, distressing, inappropriate or unacceptable. Cuvva may take such action as it considers necessary to ensure that Lenders, Borrowers and Car Club Admins are using our app and Car Sharing features in an appropriate manner, and to protect Lenders, Borrowers and Car Club Admins from any Harmful Behaviours. You can report any Harmful Behaviour by other users to us via the flag function in the app or by email to [support@cuvva.com](mailto:support@cuvva.com). 
+Lenders, Borrowers and Car Club Admins are expected to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when sharing vehicles, which are incorporated into these terms by reference. In particular, Lenders, Borrowers and Car Club Admins must avoid committing any Harmful Behaviour via Cuvva. “Harmful Behaviour” means posting, creating, messaging or publishing anything defamatory, libellous, offensive, harassing, obscene, malicious, discriminatory or which may otherwise be harmful, distressing, inappropriate or unacceptable. Cuvva may take such action as it considers necessary to ensure that Lenders, Borrowers and Car Club Admins are using our app and Car Sharing features in an appropriate manner, and to protect Lenders, Borrowers and Car Club Admins from any Harmful Behaviours. You can report any Harmful Behaviour by other users to us via the flag function in the app or by email to [support@cuvva.com](mailto:support@cuvva.com).
 
 Cuvva’s Car Sharing feature can merely help Lenders and Borrowers connect. Cuvva does not own or control any vehicle listed or insured through Cuvva. The contract to lend or borrow a vehicle is directly between the Lender and Borrower.
 
 For Cuvva’s Car Sharing feature, Cuvva acts as agent to the Lender to collect any payment owed by the Borrower to the Lender for Car Sharing (see Section 14 below for more detail).
 
-
 ## 12. Providing information when sharing vehicles
 
-While our app or website may facilitate the sharing of vehicle or driver information, such information is solely informational. It's up to you to decide whether or not to rely on and use that information to lend your vehicle, or borrow another customer’s vehicle. Cuvva does not review or verify the information which Lenders and Borrowers provide to us nor to each other. Cuvva has no control over, and does not guarantee: the existence, quality, safety or legality of any driver, vehicle or vehicle loan; the truth or accuracy of information provided; or that a Lender or Borrower will complete a loan, or return the vehicle in the same condition, or at all. 
+While our app or website may facilitate the sharing of vehicle or driver information, such information is solely informational. It's up to you to decide whether or not to rely on and use that information to lend your vehicle, or borrow another customer’s vehicle. Cuvva does not review or verify the information which Lenders and Borrowers provide to us nor to each other. Cuvva has no control over, and does not guarantee: the existence, quality, safety or legality of any driver, vehicle or vehicle loan; the truth or accuracy of information provided; or that a Lender or Borrower will complete a loan, or return the vehicle in the same condition, or at all.
 
 In providing information about yourself and your vehicle for the purposes of Car Sharing, you agree that we may use such information to facilitate Car Sharing, including providing it to other Cuvva customers, and you acknowledge that we have a legitimate interest in doing so. Please refer to our [Privacy Notice](https://support.cuvva.com/en/articles/5907862-cuvva-s-privacy-notice) for more information on how we treat your personal data.
 
-## 13. Your responsibilities when sharing vehicles 
+## 13. Your responsibilities when sharing vehicles
 
-**If you borrow another customer’s vehicle, it is always your responsibility as the Borrower to take out insurance for the duration of your borrowing**. It is **not** the responsibility of the person lending you the vehicle to take out insurance for you. 
+**If you borrow another customer’s vehicle, it is always your responsibility as the Borrower to take out insurance for the duration of your borrowing**. It is **not** the responsibility of the person lending you the vehicle to take out insurance for you.
 
-A Lender will not have rights under a Borrower’s insurance policy. This means that **if the Borrower has an accident in a Lender’s vehicle, it is up to the Borrower to make a claim** under the Borrower’s insurance policy.  
+A Lender will not have rights under a Borrower’s insurance policy. This means that **if the Borrower has an accident in a Lender’s vehicle, it is up to the Borrower to make a claim** under the Borrower’s insurance policy.
 
 As a **Lender** it is **your responsibility** to ensure that the vehicle which you are lending to a Borrower is:
 
-- Owned by you, or you otherwise have the legal right to lend the vehicle to the Borrower;
-- Roadworthy and has a valid MOT; 
-- Has up to date road tax and is not registered as off the road (**"SORN"**); and
+- Owned by you, or you otherwise have the legal right to lend the vehicle to the Borrower;  
+- Roadworthy and has a valid MOT;  
+- Has up to date road tax and is not registered as off the road (**"SORN"**); and  
 - Validly insured by you, the Lender, in respect of your own use of the vehicle.
 
 As a **Borrower** it is **your responsibility** to ensure that, when using the vehicle loaned to you, you will:
 
-- Comply with the terms agreed between you and the Lender about how you will use the Lender’s vehicle;
-- Not sell, rent, dispose, damage or otherwise deal with the vehicle or any part of it, and you will not give or purport to give any other person any rights over the Lender’s vehicle;
-- Return the vehicle to the Lender in the same condition as you received it;
-- Have valid insurance for the duration of your borrowing; and
+- Comply with the terms agreed between you and the Lender about how you will use the Lender’s vehicle;  
+- Not sell, rent, dispose, damage or otherwise deal with the vehicle or any part of it, and you will not give or purport to give any other person any rights over the Lender’s vehicle;  
+- Return the vehicle to the Lender in the same condition as you received it;  
+- Have valid insurance for the duration of your borrowing; and  
 - Drive safely and legally and comply with all relevant laws and regulations, including holding a valid driving licence.
 
 In using or accessing our Car Sharing service, **you are solely responsible** for:
 
-- The accuracy, content and legality of the information you provide about a vehicle lending or borrowing transaction;
-- Your commitments to the Lender or Borrower (as appropriate) and for the lending and borrowing transaction in its entirety, and agree that if you have any problem with a vehicle loan you will take that up with the Lender or Borrower and not involve Cuvva (save to the extent relevant to your insurance policy arranged by Cuvva); and
-- The legality of your actions in relation to the vehicle lending or borrowing transaction. 
+- The accuracy, content and legality of the information you provide about a vehicle lending or borrowing transaction;  
+- Your commitments to the Lender or Borrower (as appropriate) and for the lending and borrowing transaction in its entirety, and agree that if you have any problem with a vehicle loan you will take that up with the Lender or Borrower and not involve Cuvva (save to the extent relevant to your insurance policy arranged by Cuvva); and  
+- The legality of your actions in relation to the vehicle lending or borrowing transaction.
 
 In using or accessing our services **you will not**:
 
-- Breach or circumvent any laws, third-party rights, intellectual property rights or our systems, technical measures or policies;
-- Use our services if you are not able to form legally binding contracts or drive (for example, if you are a minor) or are temporarily or indefinitely suspended from using our services;
-- Provide false, inaccurate, misleading or defamatory content to any person about yourself, any other person or any vehicle;
+- Breach or circumvent any laws, third-party rights, intellectual property rights or our systems, technical measures or policies;  
+- Use our services if you are not able to form legally binding contracts or drive (for example, if you are a minor) or are temporarily or indefinitely suspended from using our services;  
+- Provide false, inaccurate, misleading or defamatory content to any person about yourself, any other person or any vehicle;  
 - Use the contact information or personal data of any other customers for any purpose other than solely lending a vehicle to them or borrowing their vehicle.
 
 You should always make sure to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when lending or borrowing a vehicle.
@@ -199,7 +198,7 @@ You should always make sure to abide by our [Expected Behaviour Policy](https://
 
 Lenders and Borrowers are free to agree between themselves how much the Borrower will pay to the Lender in order to borrow the Lender’s vehicle (the **“Car Sharing Payment”**), if anything. This should be specified clearly up front by a Lender and should not be varied after being accepted by the Borrower.
 
-Cuvva or our third party partner will receive the Car Sharing Payment from the Borrower, and pass on the Car Sharing Payment less Cuvva’s fee (see below) to the Lender. 
+Cuvva or our third party partner will receive the Car Sharing Payment from the Borrower, and pass on the Car Sharing Payment less Cuvva’s fee (see below) to the Lender.
 
 Where a Car Sharing Payment is paid to Cuvva, Cuvva will act as the Lender’s commercial agent. Where you are a Lender, you agree that Cuvva is authorised to conclude your Car Sharing arrangement, by accepting the Car Sharing Payment on your behalf. Note that Cuvva’s obligations in receiving a Car Sharing Payment are distinct from: (i) the obligations which Cuvva has to act as the agent of the policyholder when arranging their insurance; and (ii) the obligations in specific situations (such as when handling insurance premiums) which Cuvva has to act as agent of the insurer.
 
@@ -213,48 +212,48 @@ Cuvva may partner with, and share your data with, third party payment processing
 
 ## 15. Termination, freezes and bans
 
-We reserve the right to terminate this agreement with you and/or to resign as your insurance intermediary at any time. We may terminate, resign, issue a warning, suspend, or freeze your account if we think that you were or are: 
-- in breach any of these terms;
-- using a product or service outside its intended application;
-- in breach of our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy);
-- using the app or website to commit or attempt to commit a criminal offence; or 
-- abusing our staff. 
+We reserve the right to terminate this agreement with you and/or to resign as your insurance intermediary at any time. We may terminate, resign, issue a warning, suspend, or freeze your account if we think that you were or are:
+
+- in breach any of these terms;  
+- using a product or service outside its intended application;  
+- in breach of our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy);  
+- using the app or website to commit or attempt to commit a criminal offence; or  
+- abusing our staff.
 
 If we freeze your account, we might not be able to tell you why. But we'll continue to fulfil any outstanding regulatory responsibilities to you.
 
-We reserve the right at any time to suspend, discontinue or modify any of our services (such as our Car Sharing service) or some or all of its features. If we do suspend, discontinue or modify a service or feature, we’ll try to provide you with notice where feasible, but some changes might occur without notice. Unless stated otherwise, such suspension, discontinuance or modification will not terminate or modify these terms, which will continue in full force and effect.
-In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 18 to 20 and 22 to 28 inclusive.
+We reserve the right at any time to suspend, discontinue or modify any of our services (such as our Car Sharing service) or some or all of its features. If we do suspend, discontinue or modify a service or feature, we’ll try to provide you with notice where feasible, but some changes might occur without notice. Unless stated otherwise, such suspension, discontinuance or modification will not terminate or modify these terms, which will continue in full force and effect. In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 18 to 20 and 22 to 28 inclusive.
 
 ## 16. Moderating illegal content on our platform
 
-Cuvva’s moderating system is designed to automatically detect and block most illegal content including (but not limited to) terrorism and child sexual exploitation and abuse, hate offences and other illegal content as defined in the Online Safety Act 2023.  
+Cuvva’s moderating system is designed to automatically detect and block most illegal content including (but not limited to) terrorism and child sexual exploitation and abuse, hate offences and other illegal content as defined in the Online Safety Act 2023.
 
-If a user-to-user chat within our car-sharing feature contains material flagged by the moderation system, the chat will be blocked from view by the other user. Additionally, the chat includes options to "report abuse" and "block" other users. Once reported, the chat will be reviewed by a human moderator who will take appropriate action. Cuvva reserves the right at any time to temporarily or permanently block users in violation of our policies. Please refer to our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy), for further details. 
+If a user-to-user chat within our car-sharing feature contains material flagged by the moderation system, the chat will be blocked from view by the other user. Additionally, the chat includes options to "report abuse" and "block" other users. Once reported, the chat will be reviewed by a human moderator who will take appropriate action. Cuvva reserves the right at any time to temporarily or permanently block users in violation of our policies. Please refer to our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy), for further details.
 
 If in the event that any illegal content slips through our moderating system, please contact our support team immediately, who will swiftly investigate the matter. If any illegal content appears on the user-to-user chat function, please report the user using the report function in the chat. If you have a complaint related to illegal content, please refer to our formal [complaints policy](https://www.cuvva.com/support/cuvva-complaints-policy).
 
 ## 17. Finance partners
 
-Cuvva is authorised and regulated to offer credit broker services; we are not a lender. This means that we can introduce you to third-party lenders to help finance your premium, but we are not responsible for the terms of any credit agreement you enter into with them. You'll need to make your own decision on whether premium financing is suitable for your needs. We may receive commission for introducing you to a finance provider. 
+Cuvva is authorised and regulated to offer credit broker services; we are not a lender. This means that we can introduce you to third-party lenders to help finance your premium, but we are not responsible for the terms of any credit agreement you enter into with them. You'll need to make your own decision on whether premium financing is suitable for your needs. We may receive commission for introducing you to a finance provider.
 
 **Premium financing via PremFina**
 
 PremFina are our financing partners; if you want to pay your annual premium by instalments, your monthly payment plan will be set up by PremFina. PremFina are authorised and regulated by the FCA (firm reference number 724083). If you are considering using premium financing, please note:
 
-- Your premium finance agreement is separate from your insurance policy.
-- **In the event your credit agreement has been cancelled or otherwise terminated (due to non-payment by you, for example), Cuvva shall be entitled to immediately cancel your associated insurance policy.**
-- Cuvva, the insurer and/or the premium finance provider, may charge a cancellation fee, and will be permitted to recover any unpaid finance amounts from you.
-- Please refer to your credit agreement for further details on cancellation and termination terms.
-- Cuvva may share your relevant data with PremFina to help facilitate the financing arrangements. We will always handle your personal data in accordance with our [Privacy Notice](). PremFina may share your data with relevant third parties, for example, to conduct credit reference checks. These reference checks may leave a trace on your credit record.
+- Your premium finance agreement is separate from your insurance policy.  
+- **In the event your credit agreement has been cancelled or otherwise terminated (due to non-payment by you, for example), Cuvva shall be entitled to immediately cancel your associated insurance policy.**  
+- Cuvva, the insurer and/or the premium finance provider, may charge a cancellation fee, and will be permitted to recover any unpaid finance amounts from you.  
+- Please refer to your credit agreement for further details on cancellation and termination terms.  
+- Cuvva may share your relevant data with PremFina to help facilitate the financing arrangements. We will always handle your personal data in accordance with our Privacy Notice. PremFina may share your data with relevant third parties, for example, to conduct credit reference checks. These reference checks may leave a trace on your credit record.  
 - You can contact PremFina through their website [here](https://www.premfina.com/).
 
 **Buy Now, Pay Later (“BNPL”)**
 
 If you choose to pay via a BNPL provider, such as Klarna (including through a service like Apple Pay), you are entering into a credit agreement with that lender. Please note:
 
-- Unlike the premium financing arrangement described above, a BNPL credit agreement is typically an independent loan. **Cancelling your insurance policy does not automatically cancel your BNPL credit agreement.**
-- If you cancel your policy mid-term, any pro-rata refund due from the insurer (if any) will be paid directly to the BNPL provider to reduce your loan balance.
-- If the insurance refund is less than your outstanding BNPL balance (due to cancellation fees or insurer terms, for example), you remain liable to the BNPL provider for the outstanding balance.
+- Unlike the premium financing arrangement described above, a BNPL credit agreement is typically an independent loan. **Cancelling your insurance policy does not automatically cancel your BNPL credit agreement.**  
+- If you cancel your policy mid-term, any pro-rata refund due from the insurer (if any) will be paid directly to the BNPL provider to reduce your loan balance.  
+- If the insurance refund is less than your outstanding BNPL balance (due to cancellation fees or insurer terms, for example), you remain liable to the BNPL provider for the outstanding balance.  
 - Cuvva, the insurer and/or the premium finance provider, may charge a cancellation fee.
 
 ## 18. Liability if things go wrong
@@ -282,13 +281,14 @@ Usually all communications are made via the app, but we may also contact you by 
 You can find details of how we treat your personal data in our Privacy Notice, which you can find in our app or website [here](https://support.cuvva.com/en/articles/5907862-cuvva-s-privacy-notice).
 
 ## 21. Authentication
+
 Please keep your Cuvva account details safe and confidential. Tell us immediately if you think someone else may have accessed your account.
 
 **If you don't keep your account details safe and confidential, and/or you allow another person to access your account, and another person uses your account to purchase a Product, Cuvva will not be obliged to refund you for that Product**.
 
 In order to verify that your card details are active we may charge a small nominal amount (for example £1.00) to your card or account, this will be released back to you within 7 days (this is sometimes known as an "active card check"). This may still happen if the card verification fails, and can happen more than once if you add the card multiple times.
 
-## 22. Money Laundering &amp; Proceeds of Crime
+## 22. Money Laundering & Proceeds of Crime
 
 We're obliged to report to the Serious Organised Crime Agency any suspicion of money laundering or terrorist financing activity. We may be prohibited from disclosing to you the contents of such report or the fact that such a report has been made.
 
@@ -318,4 +318,6 @@ We don't guarantee the solvency of any insurer we help arrange your purchase of 
 
 The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if you wish to do so.
 
-[_v1.26 (2026-01-15)_](https://github.com/cuvva/terms/blob/terms-v1.26/terms.md)
+[*v1.26 (2026-01-15)*](https://github.com/cuvva/terms/blob/terms-v1.26/terms.md)
+
+[v1.0 (2026-01-29)](https://github.com/cuvva/terms/blob/terms-v1.0/terms.md)
