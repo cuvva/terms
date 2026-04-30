@@ -4,6 +4,7 @@ We may share your information with:
 	- communications
 	- data processing
 	- data storage
+    - data analytics
 	- fraud prevention
 	- marketing
 	- payment handling

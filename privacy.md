@@ -118,7 +118,7 @@ We may also share your information with our relevant third-party partners, to pr
 
 ## Other people's consent
 
-If you choose to share someone's information with us, it's your responsibility to ensure they consent or someone with parental responsibility for them consents.
+If you choose to share someone's information with us, it's your responsibility to ensure they consent or someone with parental responsibility for them consents. If you are adding on named drivers, you will need their explicit consent to use their information.
 
 ## Where your information goes
 
@@ -142,7 +142,7 @@ You can find out more on where your information goes [here](https://github.com/c
 
 Under the UK General Data Protection Regulation (UK GDPR”) and related legislation and guidance, the lawful bases we rely on for processing your various information as set out above are:
 
-(a) **Your consent**. Where we rely on your consent to process your data, you’re able to remove your consent at any time. If you'd like to withdraw your consent, you can just let us know, or in the case of location, motion and telematics data, change your device setting. However, your ability to use us may be limited if we can’t access certain data.
+(a) **Your consent**. Where we rely on your consent to process your data, you’re able to remove your consent at any time. If you'd like to withdraw your consent, you can just let us know. In the case of location, motion and telematics data, you change your device settings. However, your ability to use us may be limited if we can’t access certain data.
 
 We may ask for your consent to share your details with relevant third parties. You can easily withdraw this consent at any time in the app or by contacting us.
 
@@ -204,7 +204,7 @@ In other cases and wherever we can, we'll delete your account upon your request.
 
 ### Right to object
 
-You have the right to object to the processing of your data in certain circumstances. For example, you have the right to stop your data being used for direct marketing. We don't send many marketing emails. But if you've opted in to our updates and change your mind - you can unsubscribe at any time.
+You have the right to object to the processing of your data in certain circumstances. For example, you have the right to stop your data being used for direct marketing. We don't send many marketing communications, but if you've opted in to our updates and change your mind, you can unsubscribe at any time in our app.
 
 ### Right to portability
 
@@ -251,4 +251,4 @@ Helpline number: 0303 123 1113
 
 
 
-[_v1.26 (2026-01-15)_](https://github.com/cuvva/terms/blob/terms-v1.26/privacy.md)
+[_v1.27 (2026-04-30)_](https://github.com/cuvva/terms/blob/terms-v1.27/privacy.md)
