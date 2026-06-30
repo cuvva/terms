@@ -138,6 +138,18 @@ The parties we send your information to are obliged to comply with data protecti
 
 You can find out more on where your information goes [here](https://github.com/cuvva/terms/blob/master/third-parties.md).
 
+## Named drivers and connected contacts
+
+If you have an annual policy, you may be able to add other people as named drivers to your policy. 
+
+We may collect the named driver's name, date of birth, driving licence number, relationship to the policyholder, employment details, home ownership status, residency information and any claims or accidents in the last 3 years. We need this to price the policy fairly, assess risk, and meet our regulatory obligations as an insurance intermediary.
+
+If the named driver already uses Cuvva and you are both saved contacts on each other's mobile devices, we may pull some basic information from their profile instead of asking you to type it in.
+
+### Your rights as a named driver
+
+You have the same rights over your data as any other Cuvva user. See "Your data rights" below for the full list, or get in touch via the app.
+
 ## Lawful bases for processing your information
 
 Under the UK General Data Protection Regulation (UK GDPR”) and related legislation and guidance, the lawful bases we rely on for processing your various information as set out above are:
@@ -251,4 +263,4 @@ Helpline number: 0303 123 1113
 
 
 
-[_v1.27 (2026-04-30)_](https://github.com/cuvva/terms/blob/terms-v1.27/privacy.md)
+[_v1.28 (2026-06-30)_](https://github.com/cuvva/terms/blob/privacy-v1.28/privacy.md)

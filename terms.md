@@ -21,9 +21,9 @@ Clauses 2 (Our insurance products and services) to 11 (Additional terms when sha
 
 If you are purchasing an insurance Product with us on someone else’s vehicle which you are borrowing, clauses 11 (Additional terms when sharing vehicles via Cuvva) to 14 (Payments for sharing vehicles) inclusive will also be relevant to you, in addition to clauses 2 to 10.
 
-If you won’t have any insurance Products with us but are instead just using our services to facilitate lending your vehicle to a third party, clauses 11 (Additional terms when sharing vehicles via Cuvva) to 16 (Moderating illegal content on our platform) inclusive and 18 (Liability if things go wrong) to 28 (Law and jurisdiction) inclusive are relevant to you.
+If you won’t have any insurance Products with us but are instead just using our services to facilitate lending your vehicle to a third party, clauses 11 (Additional terms when sharing vehicles via Cuvva) to 16 (Moderating illegal content on our platform) inclusive and 18 (Liability if things go wrong) to 29 (Law and jurisdiction) inclusive are relevant to you.
 
-Clauses 15 (Termination, freezes and bans) to 28 (Law and jurisdiction) inclusive will be relevant to anyone using any Cuvva Product or service for any purpose.
+Clauses 15 (Termination, freezes and bans) to 29 (Law and jurisdiction) inclusive will be relevant to anyone using any Cuvva Product or service for any purpose.
 
 ## 2. Our insurance products and services
 
@@ -223,7 +223,7 @@ We reserve the right to terminate this agreement with you and/or to resign as yo
 If we freeze your account, we might not be able to tell you why. But we'll continue to fulfil any outstanding regulatory responsibilities to you.
 
 We reserve the right at any time to suspend, discontinue or modify any of our services (such as our Car Sharing service) or some or all of its features. If we do suspend, discontinue or modify a service or feature, we’ll try to provide you with notice where feasible, but some changes might occur without notice. Unless stated otherwise, such suspension, discontinuance or modification will not terminate or modify these terms, which will continue in full force and effect.
-In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 18 to 20 and 22 to 28 inclusive.
+In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 18 to 21 and 23 to 29 inclusive.
 
 ## 16. Moderating illegal content on our platform
 
@@ -277,45 +277,55 @@ You agree to indemnify and compensate us in full (and our officers, directors, a
 
 Usually all communications are made via the app, but we may also contact you by email, letter, telephone or any other reasonable method. You should contact us in the app unless we specify otherwise. We can't guarantee your instructions have been received unless we've acknowledged them. We reserve the right to refuse instructions but, if we do, we'll let you know if we can.
 
-## 20. Privacy notice
+## 20. How you may use our website and app
+
+Our website and app are for your personal, non-commercial use only. You must not use them if you are an insurance broker, agent, intermediary, price comparison service, aggregator, or any person acting in a commercial or representative capacity, unless we have given you prior written consent to do so.
+
+You must not attempt to gain unauthorised access to any part of our website, app, or systems, introduce any virus, malicious code, or other harmful material, reverse engineer, decompile, interfere with or disrupt the integrity or performance of our services. You must not use our website or app in any way that is unlawful or which could damage, overburden, or impair them. You must not scrape, retrieve via automated means or otherwise collect in bulk insurance quotations, prices and other commercial information, nor attempt to reverse engineer, recreate, disassemble or decompile our pricing model, website, app or systems.
+
+All content on our website and app is owned by or licensed to Cuvva. You may not reproduce, redistribute, or use it commercially without our prior written permission.
+
+We reserve the right to take appropriate legal action in response to any actual or suspected unauthorised use of our website or app.
+
+## 21. Privacy notice
 
 You can find details of how we treat your personal data in our Privacy Notice, which you can find in our app or website [here](https://support.cuvva.com/en/articles/5907862-cuvva-s-privacy-notice).
 
-## 21. Authentication
+## 22. Authentication
 Please keep your Cuvva account details safe and confidential. Tell us immediately if you think someone else may have accessed your account.
 
 **If you don't keep your account details safe and confidential, and/or you allow another person to access your account, and another person uses your account to purchase a Product, Cuvva will not be obliged to refund you for that Product**.
 
 In order to verify that your card details are active we may charge a small nominal amount (for example £1.00) to your card or account, this will be released back to you within 7 days (this is sometimes known as an "active card check"). This may still happen if the card verification fails, and can happen more than once if you add the card multiple times.
 
-## 22. Money Laundering &amp; Proceeds of Crime
+## 23. Money Laundering &amp; Proceeds of Crime
 
 We're obliged to report to the Serious Organised Crime Agency any suspicion of money laundering or terrorist financing activity. We may be prohibited from disclosing to you the contents of such report or the fact that such a report has been made.
 
 We reserve the right to impose such anti-money laundering and ‘Know Your Customer’ checks from time to time as we see fit.
 
-## 23. Third party rights
+## 24. Third party rights
 
 This contract is between you and us. Nothing in these terms will give someone who isn't party to the contract any right to enforce any of these terms. We won't need the agreement of someone who isn't party to the contract in order to end the contract or make any changes to these terms.
 
-## 24. Severability
+## 25. Severability
 
 If any part of these terms is or becomes illegal, invalid or unenforceable then that part will be deemed removed from these terms. It won't affect the legality, validity or enforceability of the remaining terms.
 
-## 25. Waiver
+## 26. Waiver
 
 Our failure or delay in enforcing or partially enforcing any provision of the terms won't be construed as a waiver of any of our rights under the terms. This means that if we don't insist immediately that you do anything you're required to do under these terms, or if we delay in taking steps against you in respect of your breaking this contract, that won't mean you don't have to do those things, and it won't prevent us taking steps against you at a later date.
 
-## 26. Permission to use any relevant vehicle
+## 27. Permission to use any relevant vehicle
 
 By using the app or website you agree you're solely responsible for ensuring you have permission to use any relevant vehicle. Cuvva has no control and takes no responsibility for the relevant vehicle or your behaviour. Please remember to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when lending or borrowing a vehicle.
 
-## 27. Insurer solvency
+## 28. Insurer solvency
 
 We don't guarantee the solvency of any insurer we help arrange your purchase of Products from. An insolvent insurer may be unable to pay a proportion or all of any claim made. If an insurer becomes insolvent you may need to pay a further premium to pay for alternative insurance cover. In the event an insurer becomes insolvent, we'll let you know as soon as we can and help as best we can. We will not be liable to pay out any claims or fulfil any obligations owed to you by an insolvent insurer.
 
-## 28. Law and jurisdiction
+## 29. Law and jurisdiction
 
 The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if you wish to do so.
 
-[_v1.26 (2026-01-15)_](https://github.com/cuvva/terms/blob/terms-v1.26/terms.md)
+[_v1.27 (2026-06-30)_](https://github.com/cuvva/terms/blob/terms-v1.27/terms.md)
