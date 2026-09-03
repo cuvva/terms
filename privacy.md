@@ -89,7 +89,7 @@ We may use publicly available information, or information in plain view, to prev
 
 ### Personal data for Car Sharing and User-Generated Content (UGC)
 
-We may collect and share your personal data through our Ownership Feature or Car Sharing feature (please refer to clause 11 in our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md) for more details about these features) for the purposes of facilitating the lending or borrowing of a vehicle and to provide our services in general.
+We may collect and share your personal data through our Ownership feature or Car Sharing feature (please refer to clause 11 in our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md) for more details about these features) for the purposes of facilitating the lending or borrowing of a vehicle and to provide our services in general.
 
 We previously offered functionality allowing you to create a car club by adding members and cars to facilitate car sharing amongst its members. This functionality is no longer available. If you created or administered a car club before it was withdrawn, we refer to you as a “Car Club Admin,” and we may continue to hold and process personal data and **“User-Generated Content”** or **“UGC”** relating to your historic use of that feature including content you shared with other members of your car club for the purposes set out in this notice.
 
