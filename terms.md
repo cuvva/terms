@@ -27,7 +27,7 @@ Clauses 15 (Termination, freezes and bans) to 29 (Law and jurisdiction) inclusiv
 
 ## 2. Our insurance products and services
 
-Our Products are underwritten by insurance companies (**insurers**), not Cuvva. To buy a Product, you need to agree to a contract with the relevant insurer (**insurance contract** or **“insurance policy"**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
+Our Products are underwritten by insurance companies (**“insurers”**), not Cuvva. To buy a Product, you need to agree to a contract with the relevant insurer (**insurance contract** or **“insurance policy"**). This will govern the terms and conditions on which the nominated vehicle or individuals are insured.
 
 We may offer two insurance Products:
 - A policy which provides coverage from 1 hour up to 28 days (inclusive), which we call our **“short-term motor insurance”** or **“STM”** Product.
@@ -69,7 +69,7 @@ Referrals are intended for people you know. So please don't post your referral l
 
 The expiry date of any discount will depend on the promotion you're looking to benefit from. But no discount will last for more than 12 months from the date of redemption. If you have any questions, including when the deadlines are, please chat to us and we'll help.
 
-Cuvva can't guarantee that our app or website will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app or website being unavailable or not functioning properly.
+Cuvva can't guarantee that our app will be available at all times, including due to problems with third party websites or your internet connectivity. Cuvva won't be responsible to you for any losses or inconvenience as a result of our app being unavailable or not functioning properly.
 
 Cuvva will select an insurer to consider insuring you. If that insurer declines to insure you, Cuvva is not obliged to offer your business to any other insurer on its panel. Cuvva cannot guarantee that you will be offered a quote (at the same price as previously nor at all), even if you have previously purchased insurance via Cuvva. Your current quote may differ from your previous quote, due to a range of factors, including criteria set by the insurer, which may change from time to time.
 
@@ -85,14 +85,15 @@ If you're not sure whether you need to tell us something - please ask. We're hap
 
 **If the information provided by you isn't complete and accurate:**
 
-- The insurance policy may be voided by the insurer, meaning the insurance policy effectively never existed, and you may be liable for driving without insurance.
+- The insurance policy may be voided by the insurer, meaning the insurance policy effectively never existed, and you may be liable for driving without insurance;
 - The insurance policy may be cancelled by the insurer, meaning the insurer can refuse to pay a claim, or may not pay a claim in full.
-- The insurer may require you to pay additional premiums, change the compulsory excess, or the extent of the cover may be affected to reflect the increased insurance risk; and
+- If the insurance policy is voided or cancelled, the insurer may keep some or all of the premium you paid (where the law allows it) and, if you paid for your policy using premium finance or BNPL (“Buy Now, Pay Later”), you may still owe money under your premium finance or BNPL agreement and you may also have to compensate us for any loss caused to us (see clauses 17 and 18 below);
+- The insurer may require you to pay additional premiums, change the compulsory excess, or the extent of the cover may be affected to reflect the increased insurance risk; and/or
 - You may be responsible for damage or loss to a third party if you cause an accident.
 
 **Further details of the insurer's rights are set out in the insurance contract.**
 
-We won't be responsible for any loss, damage or otherwise that results from you not having not provided complete and accurate information, unless it would be illegal for us to exclude or attempt to exclude our responsibility to you.
+We won't be responsible for any loss, damage or otherwise that results from you not providing complete and accurate information, unless it would be illegal for us to exclude or attempt to exclude our responsibility to you.
 
 ## 6. Cancellation of your insurance policy
 
@@ -120,11 +121,13 @@ If you use our **“Car Sharing”** service (see clause 11 onwards), in additio
 
 Cuvva is entitled to vary its fees for any of its Products or services from time to time. Any fees due will be made clear at time of payment.
 
+We may show products and services from third-party partners on our app or website. If you click through, you deal directly with that partner, on its terms. We may earn a commission or fee if you buy from a partner. We don’t give advice on, and are not responsible for, partners’ products or services.
+
 ## 8. Correspondence regarding your insurance
 
 Prior to buying your Product you'll be able to review the insurance contract in long format. You'll also be able to review a summary, called an Insurance Product Information Document (**"IPID"**). Following purchase, you'll get an email with your insurance certificate and insurance contract for your policy. The email will also include a breakdown of what you've paid and some other useful information, like how to contact us or the insurer if you have an accident. You can find your documents within your Cuvva account too.
 
-We may need to contact you from time-to-time; whether by email, app or web chat, letter, telephone or any other reasonable method. It's important you read any messages sent to you and respond in a timely way when needed. We may need certain information from you on behalf of our insurers, and failure to provide such information can result in the cancellation of an existing policy and/or not being allowed to buy future policies. Any action like that will be taken in line with your insurance contract.
+We may need to contact you from time-to-time; whether by email, app or web chat, SMS, letter, telephone or any other reasonable method. It's important you read any messages sent to you and respond in a timely way when needed. We may need certain information from you on behalf of our insurers, and failure to provide such information can result in the cancellation of an existing policy and/or not being allowed to buy future policies. Any action like that will be taken in line with your insurance contract.
 
 It's important to ensure the details of any vehicle you want to insure match the details you enter in the app or website. Failure to do so can lead to you getting insured on the wrong vehicle! Please also check that the details we give you about the vehicle, before purchase, match the vehicle you wish to drive.
 
@@ -193,7 +196,7 @@ In using or accessing our services **you will not**:
 - Provide false, inaccurate, misleading or defamatory content to any person about yourself, any other person or any vehicle;
 - Use the contact information or personal data of any other customers for any purpose other than solely lending a vehicle to them or borrowing their vehicle.
 
-You should always make sure to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when lending or borrowing a vehicle.
+You should always make sure to abide by our [Expected Behaviour Policy](https://support.cuvva.com/en/articles/7930383-expected-behaviour-policy) when lending or borrowing a vehicle or creating and administering car clubs.
 
 ## 14. Payments for sharing vehicles
 
@@ -225,7 +228,7 @@ We reserve the right to terminate this agreement with you and/or to resign as yo
 If we freeze your account, we might not be able to tell you why. But we'll continue to fulfil any outstanding regulatory responsibilities to you.
 
 We reserve the right at any time to suspend, discontinue or modify any of our services (such as our Car Sharing service) or some or all of its features. If we do suspend, discontinue or modify a service or feature, we’ll try to provide you with notice where feasible, but some changes might occur without notice. Unless stated otherwise, such suspension, discontinuance or modification will not terminate or modify these terms, which will continue in full force and effect.
-In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 15, 18 to 21 and 23 to 29 inclusive.
+In the event of termination of this agreement, the following terms will remain in full force and effect: clauses 3, 8, 10, 18 to 20, and 22 to 29 inclusive.
 
 ## 16. Moderating illegal content on our platform
 
@@ -244,10 +247,10 @@ Cuvva is authorised and regulated to offer credit broker services; we are not a 
 PremFina are our financing partners; if you want to pay your annual premium by instalments, your monthly payment plan will be set up by PremFina. PremFina are authorised and regulated by the FCA (firm reference number 724083). If you are considering using premium financing, please note:
 
 - Your premium finance agreement is separate from your insurance policy.
-- **In the event your credit agreement has been cancelled or otherwise terminated (due to non-payment by you, for example), Cuvva shall be entitled to immediately cancel your associated insurance policy.**
-- Cuvva, the insurer and/or the premium finance provider, may charge a cancellation fee, and will be permitted to recover any unpaid finance amounts from you.
+- **In the event your credit agreement has been cancelled or otherwise terminated (due to misdeclaration or non-payment by you, for example), Cuvva and the insurer shall each be entitled to immediately cancel your associated insurance policy.**
+- Cuvva, the insurer and/or the premium finance provider may charge a cancellation fee, and will be permitted to recover any unpaid finance amounts from you. Cuvva may recover from you any loss we suffer, as set out below and in clause 18.
 - Please refer to your credit agreement for further details on cancellation and termination terms.
-- Cuvva may share your relevant data with PremFina to help facilitate the financing arrangements. We will always handle your personal data in accordance with our [Privacy Notice](). PremFina may share your data with relevant third parties, for example, to conduct credit reference checks. These reference checks may leave a trace on your credit record.
+- Cuvva may share your relevant data with PremFina to help facilitate the financing arrangements. We will always handle your personal data in accordance with our [Privacy Notice](https://support.cuvva.com/en/articles/5907862-cuvva-s-privacy-notice). PremFina may share your data with relevant third parties, for example, to conduct credit reference checks. These reference checks may leave a trace on your credit record.
 - You can contact PremFina through their website [here](https://www.premfina.com/).
 
 **Buy Now, Pay Later (“BNPL”)**
@@ -259,13 +262,27 @@ If you choose to pay via a BNPL provider, such as Klarna (including through a se
 - If the insurance refund is less than your outstanding BNPL balance (due to cancellation fees or insurer terms, for example), you remain liable to the BNPL provider for the outstanding balance.
 - Cuvva, the insurer and/or the premium finance provider, may charge a cancellation fee.
 
+**If your insurer voids your policy and you used premium finance**
+
+This section applies if your insurer voids (cancels) your policy because of your misrepresentation (i.e. where the insurer decides you gave untrue or incomplete information deliberately or recklessly), and the insurer decides to keep all or part of your premium. If this happens, the premium finance provider can require Cuvva to repay the money it lent to pay your premium. This may cause a loss to Cuvva (the “**Shortfall**”). The Shortfall is the amount Cuvva repaid to the premium finance provider, less anything you have already paid the premium finance provider towards it, and less any premium your insurer later returns. **You must pay Cuvva any Shortfall.**
+
+The Shortfall is money you owe to Cuvva under these terms. It is separate from your credit agreement. We will ask for repayment of the Shortfall as follows:
+
+- We will only ask you for the Shortfall once the premium finance provider has confirmed that you owe it nothing more for that policy.
+- Before asking you to pay, we will write to you. We’ll explain the amount, how we calculated it, and why your insurer voided your policy.
+- We’ll suggest a reasonable time to pay, and if you can’t pay in full we will suggest a repayment plan.
+- If your insurer changes its decision or returns any premium, we’ll reduce or cancel the Shortfall and refund anything you’ve overpaid.
+- We may use a debt collection agency to collect the Shortfall on our behalf.
+
 ## 18. Liability if things go wrong
 
 We provide our services on an “as is” basis, without any guarantees, warranties or representations. We do not guarantee the quality, suitability or safety of vehicles, the reliability or trustworthiness of drivers or the availability or suitability of our services. You agree that the entire risk arising out of your use of the services or out of lending or borrowing a vehicle remains solely with you, to the maximum extent permitted under applicable law. We shall not be liable for delay or failure in performance resulting from causes beyond our reasonable control.
 
 **We don't accept any responsibility for any loss or damage you may incur as a result of the acts or omissions of your insurer, a Lender, a Borrower or any other third party.**
 
-You agree that we shall not be liable in contract or in tort to you or any third party for any indirect, incidental or consequential damages, including, but not limited to, damages for loss of profits, goodwill, or other intangible losses (even if we have been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the services; (ii) any transaction between you and any other person (whether via Car Sharing or otherwise); or (iii) unauthorised access to or alteration of your data. **If we are found to be liable to you, our liability will be limited to £250 in total**.
+**You agree to indemnify and compensate us in full for any losses we incur arising out of or in connection with these terms or any breach of these terms.** This includes the Shortfall described in clause 17.
+
+You agree that we shall not be liable in contract or in tort to you or any third party for any indirect, incidental or consequential damages, including, but not limited to, damages for loss of profits, goodwill, or other intangible losses (even if we have been advised of the possibility of such damages), resulting from: (i) the use or the inability to use the services; (ii) any transaction between you and any other person (whether via Car Sharing or otherwise); or (iii) unauthorised access to or alteration of your data. **If we are found to be liable to you, our liability will be limited to £350 in total for all claims, in addition to any refund of premium which you may be owed in law**.
 
 We understand that we may have responsibilities in the event of our negligence, and don't attempt to restrict or exclude our responsibility in the event of negligence, fraud or anything else that by law cannot be limited.
 
@@ -273,11 +290,9 @@ If we don't meet our obligations under these terms due to events outside of our 
 
 If you have a dispute with a Lender or a Borrower, you release us (and our affiliates and subsidiaries, and our and their respective officers, directors, employees and agents) from claims, demands and damages (actual and consequential) of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
-You agree to indemnify and compensate us in full (and our officers, directors, agents, subsidiaries, joint ventures and employees) for any losses or costs, including reasonable legal fees, we incur arising out of any breach by you of these terms, your improper use of our services or your breach of any law or the rights of a third party.
-
 ## 19. Your instructions to us
 
-Usually all communications are made via the app, but we may also contact you by email, letter, telephone or any other reasonable method. You should contact us in the app unless we specify otherwise. We can't guarantee your instructions have been received unless we've acknowledged them. We reserve the right to refuse instructions but, if we do, we'll let you know if we can.
+Usually all communications are made via the app, but we may also contact you by email, SMS, letter, telephone or any other reasonable method. You should contact us in the app unless we specify otherwise. We can't guarantee your instructions have been received unless we've acknowledged them. We reserve the right to refuse instructions but, if we do, we'll let you know if we can.
 
 ## 20. How you may use our website and app
 
@@ -286,6 +301,10 @@ Our website and app are for your personal, non-commercial use only. You must not
 You must not attempt to gain unauthorised access to any part of our website, app, or systems, introduce any virus, malicious code, or other harmful material, reverse engineer, decompile, interfere with or disrupt the integrity or performance of our services. You must not use our website or app in any way that is unlawful or which could damage, overburden, or impair them. You must not scrape, retrieve via automated means or otherwise collect in bulk insurance quotations, prices and other commercial information, nor attempt to reverse engineer, recreate, disassemble or decompile our pricing model, website, app or systems.
 
 All content on our website and app is owned by or licensed to Cuvva. You may not reproduce, redistribute, or use it commercially without our prior written permission.
+
+**Using AI agents**
+
+You may only use an AI agent (such as an AI assistant or browser agent) to get a quote for, or buy, a Product for yourself. You must not use an AI agent for any other purpose. You are responsible for everything your AI agent does on our website or app as if you had done it yourself. Your AI agent must follow these terms, including this clause 20. We may block or limit access by any AI agent.
 
 We reserve the right to take appropriate legal action in response to any actual or suspected unauthorised use of our website or app.
 
@@ -300,9 +319,9 @@ Please keep your Cuvva account details safe and confidential. Tell us immediatel
 
 In order to verify that your card details are active we may charge a small nominal amount (for example £1.00) to your card or account, this will be released back to you within 7 days (this is sometimes known as an "active card check"). This may still happen if the card verification fails, and can happen more than once if you add the card multiple times.
 
-## 23. Money Laundering &amp; Proceeds of Crime
+## 23. Money Laundering & Proceeds of Crime
 
-We're obliged to report to the Serious Organised Crime Agency any suspicion of money laundering or terrorist financing activity. We may be prohibited from disclosing to you the contents of such report or the fact that such a report has been made.
+We're obliged to report to the National Crime Agency any suspicion of money laundering or terrorist financing activity. We may be prohibited from disclosing to you the contents of such report or the fact that such a report has been made.
 
 We reserve the right to impose such anti-money laundering and ‘Know Your Customer’ checks from time to time as we see fit.
 
@@ -330,4 +349,4 @@ We don't guarantee the solvency of any insurer we help arrange your purchase of 
 
 The laws of England and Wales apply to our products, services and these terms. Any disputes arising are subject to the jurisdiction of Courts of England and Wales. If you are resident in Scotland or Northern Ireland, we recognise that you’re free to bring your dispute in the courts of your local jurisdiction, if you wish to do so.
 
-[_v1.28 (2026-09-03)_](https://github.com/cuvva/terms/blob/terms-v1.28/terms.md)
+[_v1.29 (2026-11-17)_](https://github.com/cuvva/terms/blob/terms-v1.29/terms.md)

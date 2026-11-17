@@ -16,7 +16,7 @@ We have an independent Data Protection Officer too, they're called Aphaia Ltd. Y
 
 Personal data means information which can be used to identify you. We need personal data to see if we can cover you, to calculate your pricing, to help with any claims, and to deliver the best experience.
 
-We see if we can cover you, and calculate your pricing automatically. You can always chat to a human about any automated decision-making in the app. We're available 9am-9pm, every day (except Sundays, when we are available until 6pm). Please bear in mind that we may reduce our support hours at quiet times (such as late at night), during the Christmas period or in other circumstances.
+We see if we can cover you, and calculate your pricing automatically. You can always chat to our support team about any automated decision-making in the app. We're available 9am-9pm, every day (except Sundays, when we are available until 6pm). Please bear in mind that we may reduce our support hours at quiet times (such as late at night), during the Christmas period or in other circumstances.
 
 As with all insurance, working out your pricing requires profiling. This means your pricing will be influenced by things like your age, job and location at the time of your quote.
 
@@ -34,13 +34,17 @@ If you need any guidance on your device's settings, just let us know and we'll b
 
 Our conversations (including chats, emails and phone calls) may be recorded or monitored to provide an audit trail. We may use them to help train the Cuvva team, too.
 
+We may use automated systems using AI to handle conversations and help with incident reporting and making claims.
+
+We may send you SMS messages about your account and policy, such as verification codes, reminders and updates on your identity checks.
+
 ### System logs
 
 To help us provide better customer support, we may gather access information when you use our services. This can include IP addresses, access dates and times, system activity including app malfunction or screens viewed.
 
 ### Driving licence data
 
-Once you've entered your driving licence details and agreed to the [Fair Obtaining Notice](https://github.com/cuvva/terms/blob/master/fon.md), we may collect information about your driving licence and history from the DVLA, MyLicence or other relevant entities. We need this so we can offer motor insurance products to you.
+Once you've entered your driving licence details and agreed to the [Fair Obtaining Notice](https://support.cuvva.com/en/articles/13399610-fair-obtaining-notice), we may collect information about your driving licence and history from the DVLA, MyLicence or other relevant entities. We need this so we can offer motor insurance products to you.
 
 ### Photo ID and selfie
 
@@ -64,13 +68,13 @@ We may collect data on quotes, pricing and claims. This can help to improve our 
 
 Your personal data belongs to you. Any quote, pricing or claims data that isn't your personal data belongs to us. In some cases, we'll anonymise information so that it can no longer be used to identify you.
 
-### Soft credit checks
+### Searches and soft credit checks
 
-Depending on the cover you're looking for, we might carry out a soft credit check using your details. We'll only do that when we need to, to see if we can cover you.
+Depending on the cover you're looking for, we, the insurer and (if you pay by instalments) our finance partners may check information about you, anyone named on your policy, your home and your vehicle with public sources and trusted third parties, such as credit reference agencies and insurance databases. We do this for identity checks, fraud prevention and pricing, when you get a quote, at renewal and sometimes when you make a change to your policy.
 
-This means we take into account your credit score, number of judgements against you (if any), reported insurance policy history, claims data and whether you're on the electoral roll. This information won't be readily available to members of the Cuvva team. But our systems will check the data as part of the quoting process.
+These checks may take into account your credit score, number of judgements against you (if any), reported insurance policy history, claims data and whether you're on the electoral roll. This information won't be readily available to members of the Cuvva team. But our systems will check the data as part of these checks.
 
-Soft credit checks don't leave a visible footprint on your credit file. You can see them on your own credit file, but lenders can't.
+This may include a quotation search by a credit reference agency. It shows on your credit file as a quote, not a credit application. You can see it on your own credit file, but lenders can't.
 
 
 ### Bank account information
@@ -89,20 +93,22 @@ We may use publicly available information, or information in plain view, to prev
 
 ### Personal data for Car Sharing and User-Generated Content (UGC)
 
-We may collect and share your personal data through our Ownership feature or Car Sharing feature (please refer to clause 11 in our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md) for more details about these features) for the purposes of facilitating the lending or borrowing of a vehicle and to provide our services in general.
+We may collect and share your personal data through our Ownership Feature or Car Sharing feature (please refer to clause 11 in our [Terms and Conditions](https://support.cuvva.com/en/articles/5907873-cuvva-s-terms-and-conditions) for more details about these features) for the purposes of facilitating the lending or borrowing of a vehicle and to provide our services in general.
 
 We previously offered functionality allowing you to create a car club by adding members and cars to facilitate car sharing amongst its members. This functionality is no longer available. If you created or administered a car club before it was withdrawn, we refer to you as a “Car Club Admin,” and we may continue to hold and process personal data and **“User-Generated Content”** or **“UGC”** relating to your historic use of that feature including content you shared with other members of your car club for the purposes set out in this notice.
 
 When you created and administered a car club, we refer to you as the “Car Club Admin.”
-If you are not a Car Club Admin, but you are still required to claim ownership of a vehicle (e.g. post-policy purchase), your preferred first name might appear on the vehicle profile screen if other Cuvva users search for your vehicle using the number plate. Please ensure that your preferred first name on your Cuvva account does not include your surname, to prevent your full name from being shown to other users. Please refer to clause 11 in our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md) for more details about the ownership feature.
+If you are not a Car Club Admin, but you are still required to claim ownership of a vehicle (e.g. post-policy purchase), your preferred first name might appear on the vehicle profile screen if other Cuvva users search for your vehicle using the number plate. Please ensure that your preferred first name on your Cuvva account does not include your surname, to prevent your full name from being shown to other users. Please refer to clause 11 in our [Terms and Conditions](https://support.cuvva.com/en/articles/5907873-cuvva-s-terms-and-conditions) for more details about the ownership feature.
 
-### Focus groups, feedback and reviews
+### Focus groups, feedback, surveys and reviews
 
 We love feedback. So much so that we occasionally invite people to Cuvva HQ, or another agreed location, to find out their views. This will include the use of personal data which will be made clear to the people involved beforehand, with their consent. If consent is withdrawn, we may continue to process the data in anonymised form.
 
 If you've given us feedback via our website, the app, or by chatting with us; first of all, thank you! We might email you with an update on the action we've taken following your feedback.
 
 We also really appreciate it when Cuvva users review us online. We may re-publish said reviews, along with your first name if that was included in your review.
+
+We may invite you to take part in surveys by email, SMS, in the app or in chat. We may use them to understand how you use our products, check that you understand your cover and documents, and improve our products and services. Taking part is always optional. We may link your answers to your account, and we may use third-party survey providers to collect them. If we offer a prize draw, separate terms will apply.
 
 ### Information relating to children
 
@@ -130,13 +136,36 @@ We use third-party fraud detection providers that combine data of various claims
 
 We use third party payment processing and account service providers to facilitate our Car Sharing features.
 
-The data we collect from you may be transferred to and stored somewhere outside the United Kingdom ("UK"). It may be processed by staff outside the UK who work for us or one of our suppliers.
+The data we collect from you may be transferred to and stored somewhere outside the United Kingdom ("UK") including in the European Economic Area (EEA) and Canada. It may be processed by staff outside the UK who work for us or one of our suppliers.
 
-Where the data is sent outside the UK, the protection may be based on standard clauses verified by the European Commission and other data security safeguards. Or there might be an adequacy decision in place guaranteeing an equivalent degree of data protection.
+Where the data is sent outside the UK, the protection may be based on the ICO’s International Data Transfer Agreement or standard clauses verified by the European Commission and other data security safeguards. Or the transfer may be covered by UK adequacy regulations, which recognise a country as providing an adequate level of data protection (for example, the EEA, and Canada for data covered by Canada’s Personal Information Protection and Electronic Documents Act).
 
 The parties we send your information to are obliged to comply with data protection laws, regulations and standards. Each of them signs a contract with Cuvva, giving assurances over the security and correct treatment of your information.
 
-You can find out more on where your information goes [here](https://github.com/cuvva/terms/blob/master/third-parties.md).
+We may share your information with:
+
+- companies we use to help us deliver, develop and improve our services; for:
+  - communications
+  - data processing
+  - data storage
+  - data analytics
+  - fraud prevention
+  - marketing
+  - payment handling
+  - product development
+  - risk modelling
+  - security testing
+  - soft credit checks
+  - service communications
+- our software house provider, which runs our quote and policy platform and passes your information to insurers
+- insurers we ask to quote for you, and underwriters of any policies you purchase
+- insurance databases - This includes LexisNexis Risk Solutions UK Limited (LNRSUK) and their products IQ, Informed Claims, Informed Claims - Linked Addresses & Alias Names, and Vehicle Insights (you can find their privacy notice here: [https://risk.lexisnexis.com/corporate/processing-notices](https://risk.lexisnexis.com/corporate/processing-notices)).
+- any statutory body or police or law enforcement body, for legal or regulatory requirements, and for fraud detection and crime detection, investigation or prevention
+- another company, if we were to merge with them or were acquired by them
+- anyone you have consented to provide information to, for example if you connected your Cuvva account to a third party service
+- relevant third-party partners, to help us better provide our services, such as our financing partners.
+
+If you'd like to know who your data has been shared with, let us know.
 
 ## Named drivers and connected contacts
 
@@ -152,9 +181,9 @@ You have the same rights over your data as any other Cuvva user. See "Your data 
 
 ## Lawful bases for processing your information
 
-Under the UK General Data Protection Regulation (UK GDPR”) and related legislation and guidance, the lawful bases we rely on for processing your various information as set out above are:
+Under the UK General Data Protection Regulation (UK GDPR) and related legislation and guidance, the lawful bases we rely on for processing your various information as set out above are:
 
-(a) **Your consent**. Where we rely on your consent to process your data, you’re able to remove your consent at any time. If you'd like to withdraw your consent, you can just let us know. In the case of location, motion and telematics data, you change your device settings. However, your ability to use us may be limited if we can’t access certain data.
+(a) **Your consent**. Where we rely on your consent to process your data, you’re able to remove your consent at any time. If you'd like to withdraw your consent, you can do so in our app or just let us know. In the case of location, motion and telematics data, you change your device settings. However, your ability to use us may be limited if we can’t access certain data.
 
 We may ask for your consent to share your details with relevant third parties. You can easily withdraw this consent at any time in the app or by contacting us.
 
@@ -168,9 +197,17 @@ We may ask for your consent to share your details with relevant third parties. Y
 - Process payments for Car Sharing features;
 - Provide and improve our business, services and products, or those of a relevant third-party partner;
 - Enhance or facilitate better use of the Car Sharing feature;
-- Prevent Harmful Behaviours (as defined in clause 11 of our [Terms and Conditions](https://github.com/cuvva/terms/blob/master/terms.md));
+- Prevent Harmful Behaviours (as defined in clause 11 of our [Terms and Conditions](https://support.cuvva.com/en/articles/5907873-cuvva-s-terms-and-conditions));
 - Safeguard vulnerable individuals (in accordance with the Data (Use and Access) Act (“DUAA”) 2025; and
 - Conduct direct marketing activities (in accordance with DUAA and UK GDPR).
+
+(c) **Compliance with our legal and regulatory obligations**. We need to process your information to comply with the law and with the rules of our regulators. This includes, but is not limited, to:
+- Keep the records we are required to keep as an insurance intermediary authorised and regulated by the Financial Conduct Authority;
+- Handle complaints, and cooperate with the Financial Ombudsman Service;
+- Respond to requests from, and make reports to, the Financial Conduct Authority, the Information Commissioner’s Office, Advertising Standards Authority, HM Revenue & Customs, the police and other bodies with statutory powers, and to comply with court orders;
+- Meet our accounting and tax obligations.
+
+Where we rely on this lawful basis, some of your data rights may be limited. For example, we may not be able to delete your information if the law requires us to keep or use it. Please see “Your data rights” below for more information, or get in touch with us via the app.
 
 ## How long we keep your information for
 
@@ -191,7 +228,7 @@ If you’re a customer but you’ve never bought a Cuvva policy or engaged in Ca
 
 We will delete your personal data if, after an appropriate period of time, we determine it’s no longer necessary to retain your personal data, after considering the factors listed in the first paragraph of this section. We will delete your data after the appropriate time regardless of whether or not you have requested deletion of your personal data.
 
-Please note, in the case of any driving license-related data, including conviction data, obtained via MyLicence as set out in our [Fair obtaining notice](https://github.com/cuvva/terms/blob/master/fon.md), the data will be deleted from our systems after 24 hours from the date of obtaining them if no policy is purchased within this time. If a policy is purchased within this time, the data is subject to the retention periods set out above. 
+Please note, in the case of any driving license-related data, including conviction data, obtained via MyLicence as set out in our [Fair obtaining notice](https://support.cuvva.com/en/articles/13399610-fair-obtaining-notice), the data will be deleted from our systems after 24 hours from the date of obtaining them if no policy is purchased within this time. If a policy is purchased within this time, the data is subject to the retention periods set out above. 
 
 ## How we keep data safe
 
@@ -207,7 +244,7 @@ We arrange independent and expert penetration testing on our systems, which help
 
 If you'd like us to delete your information, just let us know. Again, the best way to do that is usually via the app.
 
-Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. In accordance with the relevant data protection legislation and other applicable laws, We need to keep your data for at least seven years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover. The maximum that we will hold your data for, in our archive, is 9 years to comply with the relevant legislations. 
+Bear in mind that if you've bought a policy with us, we may not be able to delete your account when you ask. In accordance with the relevant data protection legislation and other applicable laws, We need to keep your data for at least seven years from when your most recent policy expired. That's in case of any future claims against you, any disputes, or anything else meaning we need to show records of your cover. The maximum that we will hold your data for, in our archive, is 9 years to comply with the relevant legislation. 
 
 There may be other reasons why we won't be able to delete your account where you haven't bought a policy; for example any disputes, or for the detection and prevention of fraud. 
 
@@ -218,7 +255,7 @@ In other cases and wherever we can, we'll delete your account upon your request.
 
 You have the right to object to the processing of your data in certain circumstances. For example, you have the right to stop your data being used for direct marketing. We don't send many marketing communications, but if you've opted in to our updates and change your mind, you can unsubscribe at any time in our app.
 
-### Right to portability
+### Right to access and portability
 
 You have a right to get a copy of the personal data we hold about you or to ask us to transfer that personal data to another organisation. We'll provide or transfer your data in a standard portable format. If you have any trouble understanding the data, let us know and we'll help. The best way to ask is usually via the app.
 
@@ -236,7 +273,7 @@ This is an alternative to requesting the erasure of your data. For example, we c
 
 ## Cookies
 
-As with most websites, we use cookies. You can find out more, including how to opt out in our cookie policy, which you can find on [our website](https://github.com/cuvva/terms/blob/master/cookies.md).
+As with most websites, we use cookies. You can find out more, including how to opt out in our cookie policy, which you can find on [our website](https://support.cuvva.com/en/articles/5863106-cuvva-s-cookie-policy).
 
 ## Changes
 
@@ -244,7 +281,7 @@ We keep our privacy notice under regular review, and we'll tell you when we make
 
 ## Questions, comments or concerns
 
-Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at [compliance@cuvva.com](mailto:compliance@cuvva.com), or write to us at Cuvva, 4th Floor, Old Sessions House, 23 Clerkenwell Green, London, EC1R 0NA.
+Please get in touch if you have any questions, and we'll do our best to help. The best way to speak with us is usually in the app. Otherwise, you can email us at [support@cuvva.com](mailto:support@cuvva.com), or write to us at Cuvva, 4th Floor, Old Sessions House, 23 Clerkenwell Green, London, EC1R 0NA.
 
 If you've made a complaint and you're unhappy with our reply, you're entitled to speak with the ICO: 
 
@@ -263,4 +300,4 @@ Helpline number: 0303 123 1113
 
 
 
-[_v1.29 (2026-09-03)_](https://github.com/cuvva/terms/blob/privacy-v1.29/privacy.md)
+[_v1.30 (2026-11-17)_](https://github.com/cuvva/terms/blob/privacy-v1.30/privacy.md)
