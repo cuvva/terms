@@ -20,7 +20,7 @@ We see if we can cover you, and calculate your pricing automatically. You can al
 
 As with all insurance, working out your pricing requires profiling. This means your pricing will be influenced by things like your age, job and location at the time of your quote.
 
-We'll collect anything we need via the app, our website, relevant third parties, and any other interactions you might have with us. There's more detail on the information we ask for [here](https://github.com/cuvva/terms/blob/master/questions.md).
+We'll collect anything we need via the app, our website, relevant third parties, and any other interactions you might have with us.
 
 ### Device information
 
@@ -300,4 +300,4 @@ Helpline number: 0303 123 1113
 
 
 
-[_v1.30 (2026-11-17)_](https://github.com/cuvva/terms/blob/privacy-v1.30/privacy.md)
+[_v1.31 (2026-11-23)_](https://github.com/cuvva/terms/blob/privacy-v1.31/privacy.md)
